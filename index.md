@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-# Hi
-I'm John Lemmon. I'm an umpteen year-old developer and musician from Liverpool, England.
+# Moby Diction
+Welcome to my digital notes. Hope you find them interesting.
