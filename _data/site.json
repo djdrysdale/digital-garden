@@ -1,6 +1,6 @@
 {
-    "title": "John Lemmon",
-    "desc": "1-2 sentences about the site (optional)",
-    "author": "John Lemmon",
-    "baseurl": "https://eleventy-garden.netlify.app"
+    "title": "Moby Diction",
+    "desc": "This is my digital zettelkasten, a collection of linked notes.",
+    "author": "David Drysdale",
+    "baseurl": "https://nostalgic-allen-d6028c.netlify.app"
 }
