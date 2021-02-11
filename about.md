@@ -7,7 +7,7 @@ My name is David Drysdale. I’m a digital design strategist and researcher base
 
 Now I lead a team of strategists and researchers for a large corporation in the insurance and financial services industry.
 
-## About Moby direction
+## About Moby Diction
 
 It’s probably most accurate to describe Moby Diction as a blog. It’s a place in which I can process information I’ve been consuming, work through different ideas I’m playing with, and exercise my writing craft.
 
