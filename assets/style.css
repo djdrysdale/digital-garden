@@ -11,7 +11,7 @@ html {
 body {
     font-family: Inter, sans-serif;
     line-height: 1.65;
-    
+
     display: flex;
     flex-direction: column;
     min-height: 100vh;
@@ -79,6 +79,7 @@ h1, h2, h3, h4, h5 {
   margin: 2.75rem 0 1.05rem;
   font-weight: 400;
   line-height: 1.15;
+  font-family: 'Nunito Sans', sans-serif;
 }
 
 h1 {font-size: 3.052em;}
@@ -110,7 +111,7 @@ small {font-size: 0.8em;}
 
 .backlink__preview {
     display: none;
-    
+
     position: absolute;
     bottom: 8px;
     left: 100%;
