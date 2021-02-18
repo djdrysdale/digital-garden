@@ -1,6 +1,6 @@
 ---
 Title: Hello world!
-Date: January 1, 2020
+Excerpt: "This is an excerpt!"
 ---
 
-Hello, world! 
+Hello, world!
