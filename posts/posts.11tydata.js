@@ -14,12 +14,6 @@ module.exports = {
             title = titleCase(title);
             return title;
         },
-        excerpt: data => {
-            if(data.excerpt){
-                return data.excerpt;
-            }
-            let excerpt = data.page.fileSlug.replace(/-/g, ' ');
-            return title;
-        },
+
     }
 };
