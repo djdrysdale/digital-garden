@@ -1,5 +1,8 @@
+---
+title: This is a big test
+---
 
 
-# Digital gardens are great
+# This is a big test
 
-Don't you think so?
+This is a big test of a blog post, don't you think? This is a [link](http://www.google.com). 
