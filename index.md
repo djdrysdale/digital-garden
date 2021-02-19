@@ -8,9 +8,6 @@ pagination:
 Welcome to my digital notes. Hope you find them interesting.
 
 {% for post in pagination.items %}
-    <h2>{{ post.data.title }}</h2>
-    <p>{{ post.data.description }}</p>
-    <a href="{{ post.url }}">Read more</a>
 
   <div class="card" style="width: 18rem;">
     <div class="card-body">
@@ -20,10 +17,4 @@ Welcome to my digital notes. Hope you find them interesting.
       <a href="{{ post.url }}" class="card-link">Read more</a>
     </div>
   </div>
-{% endfor %}
-
-{% for post in pagination.items %}
-    <h2>{{ post.data.title }}</h2>
-    <p>{{ post.data.description }}</p>
-    <a href="{{ post.url }}">Read more</a>
 {% endfor %}
