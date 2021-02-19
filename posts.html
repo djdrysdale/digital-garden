@@ -1,5 +1,10 @@
 ---
 layout: default
+title: Blog | Moby Diction
+pagination:
+  data: collections.posts
+  size: 2
+  alias: posts
 ---
 <h1>Blog</h1>
 
@@ -8,3 +13,11 @@ layout: default
     <p>{{ post.data.description }}</p>
     <a href="{{ post.url }}">Read more</a>
 {% endfor %}
+
+{% if pagination.href.previous %}
+  <a href="{{pagination.href.previous}}">Previous</a>
+{% endif %}
+
+{% if pagination.href.next %}
+  <a href="{{pagination.href.next}}">Next</a>
+{% endif %}
