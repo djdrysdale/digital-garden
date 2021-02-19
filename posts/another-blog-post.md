@@ -2,8 +2,8 @@
 title: Another blog
 description: A test post on Eleventy Garden
 date: 2021-02-01
-featuredImage: /images/uploads/test.jpg
+featuredImage: /assets/test.jpg
 ---
 lalala
 
-![test](/images/uploads/test.jpg)
+![test](/assets/test.jpg)
