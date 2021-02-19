@@ -5,5 +5,5 @@ layout: default
 {% for post in collections.posts %}
     <h2>{{ post.data.title }}</h2>
     <p>{{ post.data.description }}</p>
-    <h2><a href="{{ post.url }}">Read more</a></h2>
+    <a href="{{ post.url }}">Read more</a>
 {% endfor %}
