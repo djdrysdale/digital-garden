@@ -1,5 +1,8 @@
 ---
 layout: default
+pagination:
+  data: collections.posts
+  size: 3
 ---
 # Moby Diction
 Welcome to my digital notes. Hope you find them interesting.
@@ -17,7 +20,6 @@ Welcome to my digital notes. Hope you find them interesting.
       <a href="{{ post.url }}" class="card-link">Read more</a>
     </div>
   </div>
-
 {% endfor %}
 
 {% for post in pagination.items %}
