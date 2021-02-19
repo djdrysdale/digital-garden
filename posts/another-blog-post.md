@@ -5,5 +5,3 @@ date: 2021-02-01
 featuredImage: /assets/test.jpg
 ---
 lalala
-
-![test](/assets/test.jpg)
