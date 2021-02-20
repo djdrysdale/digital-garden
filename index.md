@@ -5,7 +5,12 @@ pagination:
   size: 3
 ---
 # Moby Diction
-Welcome to my digital notes. Hope you find them interesting.
+
+## Hi. I'm David Drysdale.
+
+#### I'm a design strategist and researcher based in London, Ontario, Canada.
+
+It's my mission to help people, teams, and organizations think more strategically, make better decisions, and achieve better results.
 
 ## Recent Posts
 
