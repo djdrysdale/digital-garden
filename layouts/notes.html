@@ -14,21 +14,20 @@ pagination:
    </div>
  </div>
 
-<article>
-    {{content}}
-</article>
 
-<hr>
+ <div class="container container-fluid">
+   <div class="row py-4">
 
-<H2> Recent notes </H2>
+     <ul>
+       {% for post in pagination.items %}
 
-<ul>
-{% for post in pagination.items %}
+         <li>
+           <a href="{{ post.url }}"><h5>{{ post.data.title }}</h5></a>
+           <p class="card-text">{{ post.data.description }}</p>
+         </li>
 
-  <li>
-    <a href="{{ post.url }}"><h5>{{ post.data.title }}</h5></a>
-    <p class="card-text">{{ post.data.description }}</p>
-  </li>
+       {% endfor %}
+     </ul>
 
-{% endfor %}
-</ul>
+   </div>
+ </div>
