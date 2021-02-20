@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: homepage
 pagination:
   data: collections.posts
   size: 3
