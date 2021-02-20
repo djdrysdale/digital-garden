@@ -58,10 +58,11 @@ main {
 
 a[href] {
     color: var(--accent);
+    text-decoration: none;
 }
 
 a[href]:hover {
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a[href]:focus {
