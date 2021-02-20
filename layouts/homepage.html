@@ -17,20 +17,3 @@ pagination:
 <article>
     {{content}}
 </article>
-
-<div class="row">
-  <div class="col-sm=4">
-
-  {% for post in pagination.items %}
-
-    <div class="card">
-      <div class="card-body">
-      <h5 class="card-title">{{ post.data.title }}</h5>
-      <h6 class="card-subtitle mb-2 text-muted">{{ post.data.category }}</h6>
-      <p class="card-text">{{ post.data.description }}</p>
-      <a href="{{ post.url }}" class="btn btn-primary">Read more</a>
-    </div>
-
-  {% endfor %}
-  </div>
-</div>
