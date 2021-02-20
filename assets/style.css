@@ -162,6 +162,7 @@ small {font-size: 0.8em;}
   background-size: cover;
   color: #fff;
   padding: 5em inherit;
+  min-height: 300px;
 }
 /*
 .jumbotron-image {
