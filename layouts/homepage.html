@@ -1,14 +1,38 @@
 ---
 layout: default
----
+layout: default
+title: Digital Researcher and Strategist in London, Ontario | Moby Diction
+pagination:
+  data: collections.posts
+  size: 3
 
+---
+<!--
 <div class="jumbotron text-white jumbotron-image shadow" style="background-image: url(https://images.unsplash.com/photo-1552152974-19b9caf99137?fit=crop&w=1350&q=80);">
   <div class="container-fluid">
     <h1 class="display-4">Moby Diction</h1>
   </div>
 </div>
-
+-->
 
 <article>
     {{content}}
 </article>
+
+<div class="row">
+
+  {% for post in pagination.items %}
+
+      <div class="col-sm-6">
+        <div class="card">
+          <div class="card-body">
+          <h5 class="card-title">{{ post.data.title }}</h5>
+          <h6 class="card-subtitle mb-2 text-muted">{{ post.data.category }}</h6>
+          <p class="card-text">{{ post.data.description }}</p>
+          <a href="{{ post.url }}" class="btn btn-primary">Read more</a>
+        </div>
+      </div>
+
+  {% endfor %}
+
+</div>
