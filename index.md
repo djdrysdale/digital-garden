@@ -4,8 +4,6 @@ pagination:
   data: collections.posts
   size: 3
 ---
-# Moby Diction
-
 Hi. I'm David Drysdale.
 
 I'm a design strategist and researcher based in London, Ontario, Canada.
