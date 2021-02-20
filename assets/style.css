@@ -157,10 +157,22 @@ small {font-size: 0.8em;}
 
 /* Bootstrap modifications */
 
+.jumbotron {
+  background: url('http://placekitten.com/800/500') no-repeat center center;
+  background-size: cover;
+  color: #fff;
+  padding: 5em inherit;
+}
+/*
 .jumbotron-image {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   padding: 5em inherit;
 
+}
+*/
+.nav-item {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 1.25em;
 }
