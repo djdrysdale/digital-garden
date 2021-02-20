@@ -18,16 +18,14 @@ pagination:
  <div class="container container-fluid">
    <div class="row py-4">
 
-     <ul>
-       {% for post in pagination.items %}
-
-         <li>
-           <a href="{{ post.url }}"><h5>{{ post.data.title }}</h5></a>
-           <p class="card-text">{{ post.data.description }}</p>
-         </li>
-
-       {% endfor %}
-     </ul>
+     {% for post in pagination.items %}
+       <div class="row">
+         <div class="col-md-8 px-0 mx-auto">
+           <h3>{{ post.data.title }}</h3>
+           <button type="button" class="btn btn-link"><a href="{{ post.url }}">Read more</a></button>
+         </div>
+       </div>
+     {% endfor %}
 
    </div>
  </div>
