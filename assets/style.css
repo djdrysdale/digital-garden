@@ -180,3 +180,9 @@ small {font-size: 0.8em;}
   display: flex;
   align-items: center;
 }
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
