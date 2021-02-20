@@ -12,7 +12,7 @@ I'm a design strategist and researcher based in London, Ontario, Canada.
 
 It's my mission to help people, teams, and organizations think more strategically, make better decisions, and achieve better results.
 
-## Recent Posts
+
 
 <!--
   {% for post in pagination.items %}
