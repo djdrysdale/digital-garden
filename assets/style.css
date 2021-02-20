@@ -164,7 +164,8 @@ small {font-size: 0.8em;}
   background-size: cover;
   color: #fff;
   padding: 5em inherit;
-
+  font-family: 'Nunito Sans', sans-serif;
+  text-align:center;
 }
 
 .nav-item {
