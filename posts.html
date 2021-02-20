@@ -4,20 +4,25 @@ title: Blog | Moby Diction
 pagination:
   data: collections.posts
   size: 10
-
 ---
 <h1>Blog</h1>
 
+<div class="container" "container-fluid">
 
-{% for post in pagination.items %}
-    <h2>{{ post.data.title }}</h2>
-    <p>{{ post.data.description }}</p>
-    <a href="{{ post.url }}">Read more</a>
-{% endfor %}
+  {% for post in pagination.items %}
+    <div class="row">
+      <div class="col-4">
+        <a href="{{post.url}}"><img src="{{post.featuredImage}}"></a>
+        </div>
+      <div class="col-8">
+        <h2>{{ post.data.title }}</h2>
+        <p>{{ post.data.description }}</p>
+        <a href="{{ post.url }}">Read more</a>
+      </div>
+    </div>
+  {% endfor %}
 
-<br>
-<br>
-<hr>
+</div>
 
 <center>
 {% if pagination.href.previous %}
