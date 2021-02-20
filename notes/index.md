@@ -6,4 +6,4 @@ pagination:
 ---
 # Notes
 
-These are my notes.
+These are my notes. 

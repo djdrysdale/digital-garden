@@ -3,7 +3,7 @@ layout: default
 title: Digital Zettelkasten | Moby Diction
 pagination:
   data: collections.notes
-  size: 9
+  size: 10
 
 ---
 
@@ -11,12 +11,11 @@ pagination:
     {{content}}
 </article>
 
+<H2> Recent notes </H2>
 
-  {% for post in pagination.items %}
+{% for post in pagination.items %}
 
-          <h5 class="card-title">{{ post.data.title }}</h5>
-          <h6 class="card-subtitle mb-2 text-muted">{{ post.data.category }}</h6>
-          <p class="card-text">{{ post.data.description }}</p>
-          <a href="{{ post.url }}" class="btn btn-primary">Read more</a>
+  <a href="{{ post.url }}"><h3>{{ post.data.title }}</h3></a>
+  <p class="card-text">{{ post.data.description }}</p>
 
-  {% endfor %}
+{% endfor %}
