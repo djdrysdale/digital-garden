@@ -15,7 +15,7 @@ pagination:
 
 {% for post in pagination.items %}
 
-  <a href="{{ post.url }}"><h3>{{ post.data.title }}</h3></a>
+  <a href="{{ post.url }}"><h5>{{ post.data.title }}</h5></a>
   <p class="card-text">{{ post.data.description }}</p>
 
 {% endfor %}
