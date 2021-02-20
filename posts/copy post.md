@@ -1,5 +1,6 @@
 ---
 title: The limits of your hypotheses
+category: strategy
 description: Modern product management methodologies like Lean UX cite the scientific method as an important inspiration and antecedent of its hypothesis-based product discovery model. But it’s missing one important step.
 date: Created
 featuredImage: /assets/petri-dish.jpg

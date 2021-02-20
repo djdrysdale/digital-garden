@@ -1,5 +1,6 @@
 ---
 title: You have been disconnected
+category: strategy
 description: If you’re in the business of translating digital ideas to non-digital folks, take some time to consider the metaphors that structure their understanding.
 date: Created
 featuredImage: /assets/binary.jpg
