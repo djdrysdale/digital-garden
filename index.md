@@ -4,6 +4,7 @@ pagination:
   data: collections.posts
   size: 3
 ---
+
 Hi. I'm David Drysdale.
 
 I'm a design strategist and researcher based in London, Ontario, Canada.
