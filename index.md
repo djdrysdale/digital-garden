@@ -1,5 +1,5 @@
 ---
-layout: blogLayout
+layout: homepage
 title: Digital Strategy and Research in London, Ontario | Moby Diction
 ---
 
