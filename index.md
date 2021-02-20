@@ -9,9 +9,6 @@ Welcome to my digital notes. Hope you find them interesting.
 
 ## Recent Posts
 
-<b> <em> THIS IS SOME BOLD TEXT </em> </b>
-
-<div class="row">
 
   {% for post in pagination.items %}
 
@@ -27,7 +24,6 @@ Welcome to my digital notes. Hope you find them interesting.
 
   {% endfor %}
 
-</div>
 
 <!--
 {% include recentposts.html %}
