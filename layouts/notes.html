@@ -13,9 +13,13 @@ pagination:
 
 <H2> Recent notes </H2>
 
+<ul>
 {% for post in pagination.items %}
 
-  <a href="{{ post.url }}"><h5>{{ post.data.title }}</h5></a>
-  <p class="card-text">{{ post.data.description }}</p>
+  <li>
+    <a href="{{ post.url }}"><h5>{{ post.data.title }}</h5></a>
+    <p class="card-text">{{ post.data.description }}</p>
+  </li>
 
 {% endfor %}
+</ul>
