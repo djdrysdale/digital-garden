@@ -9,7 +9,7 @@ Welcome to my digital notes. Hope you find them interesting.
 
 ## Recent Posts
 
-<b> THIS IS SOME BOLD TEXT </b>
+<b> <em> THIS IS SOME BOLD TEXT </em> </b>
 
 <div class="row">
 
