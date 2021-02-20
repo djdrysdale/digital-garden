@@ -12,10 +12,11 @@ pagination:
   {% for post in pagination.items %}
     <div class="row">
       <div class="col-4">
-        <a href="{{post.url}}"><img src="{{post.featuredImage}}" class="img-fluid" max-width: 100%></a>
+        <a href="{{post.url}}"><img src="{{post.data.featuredImage}}" class="img-fluid" max-width: 100%></a>
         </div>
       <div class="col-8">
-        <h2>{{ post.data.title }}</h2>
+        <h3>{{ post.data.title }}</h3>
+        <img src="{{post.data.featuredImage}}">
         <p>{{ post.data.description }}</p>
         <a href="{{ post.url }}">Read more</a>
       </div>
