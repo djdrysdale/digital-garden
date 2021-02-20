@@ -9,7 +9,7 @@ Welcome to my digital notes. Hope you find them interesting.
 
 ## Recent Posts
 
-
+<!--
   {% for post in pagination.items %}
 
       <div class="col-sm-6">
@@ -24,7 +24,5 @@ Welcome to my digital notes. Hope you find them interesting.
 
   {% endfor %}
 
-
-<!--
 {% include recentposts.html %}
 -->
