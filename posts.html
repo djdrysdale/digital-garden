@@ -8,6 +8,8 @@ pagination:
 ---
 <h1>Blog</h1>
 
+{% include recentposts.html %}
+
 {% for post in pagination.items %}
     <h2>{{ post.data.title }}</h2>
     <p>{{ post.data.description }}</p>
