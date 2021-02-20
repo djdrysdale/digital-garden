@@ -1,6 +1,6 @@
 ---
-title: Another blog
-description: If you’re in the business of translating digital ideas to non-digital folks, take some time to consider the metaphors that structure their understanding. 
+title: You have been disconnected
+description: If you’re in the business of translating digital ideas to non-digital folks, take some time to consider the metaphors that structure their understanding.
 date: Created
 featuredImage: /assets/binary.jpg
 ---
