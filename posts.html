@@ -12,7 +12,7 @@ pagination:
       <div class="col-md-8 px-0 mx-auto">
         <h3>{{ post.data.title }}</h3>
         <p>{{ post.data.description }}</p>
-        <button type="button" class="btn btn-link"><a href="{{ post.url }}">Read more</a></button>
+        <a href="{{ post.url }}"><button type="button" class="btn btn-link" value="Read more"></button></a>
       </div>
     </div>
   {% endfor %}
