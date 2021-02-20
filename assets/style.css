@@ -162,17 +162,9 @@ small {font-size: 0.8em;}
   background-size: cover;
   color: #fff;
   padding: 5em inherit;
-  min-height: 300px;
-}
-/*
-.jumbotron-image {
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding: 5em inherit;
 
 }
-*/
+
 .nav-item {
   font-family: 'Nunito Sans', sans-serif;
   font-size: 1.25em;
