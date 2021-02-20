@@ -172,3 +172,7 @@ small {font-size: 0.8em;}
   font-family: 'Nunito Sans', sans-serif;
   font-size: 1.25em;
 }
+
+.blogList {
+  max-height: 100px;
+}
