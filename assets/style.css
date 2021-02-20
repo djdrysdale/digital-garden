@@ -161,4 +161,6 @@ small {font-size: 0.8em;}
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
 }
