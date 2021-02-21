@@ -15,10 +15,12 @@ pagination:
         <button type="button" class="btn btn-link"><a href="{{ post.url }}">Read more</a></button>
 
     </div>
+    <hr> 
   {% endfor %}
 
 
 <center>
+  <hr>
 {% if pagination.href.previous %}
   <a href="{{pagination.href.previous}}">Previous</a>
 {% endif %}
