@@ -9,11 +9,11 @@ pagination:
 
   {% for post in pagination.items %}
     <div class="row">
-      <div class="col-md-8 px-0 mx-auto">
+/*      <div class="col-md-8 px-0 mx-auto"> */
         <h3>{{ post.data.title }}</h3>
         <p>{{ post.data.description }}</p>
         <button type="button" class="btn btn-link"><a href="{{ post.url }}">Read more</a></button>
-      </div>
+/*      </div> */
     </div>
   {% endfor %}
 
