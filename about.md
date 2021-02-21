@@ -2,7 +2,7 @@
 layout: default
 title: About Me
 ---
-# About Me
+
 My name is David Drysdale. I’m a digital design strategist and researcher based in London, Ontario, Canada. My background’s a bit eclectic: I completed a PhD in English Literature but didn’t like the long odds on the academic job market. So, I left academia for roles including consulting researcher, content marketing editor, and business analyst before finding my footing as a design strategist.
 
 Now I lead a team of strategists and researchers for a large corporation in the insurance and financial services industry.
