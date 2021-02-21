@@ -4,7 +4,7 @@ date: "2020-04-21"
 categories:
   - "vision"
   - "measurement"
-description: Strategy is more than just defining a key performance indicator or some other desired outcome. A strategy should be a statement of what’s important to you and your organization—including the values and principles that you will adhere to as you strive to achieve your goals. Just ask Zoom.
+description: "Strategy is more than just defining a key performance indicator or some other desired outcome. A strategy should be a statement of what’s important to you and your organization—including the values and principles that you will adhere to as you strive to achieve your goals. Just ask Zoom."
 ---
 
  

@@ -4,7 +4,7 @@ date: "2020-08-03"
 categories:
   - "bookshelf"
   - "strategy"
-description: A summary of Rita McGrath's _Seeing Around Corners_
+description: "A summary of Rita McGrath's _Seeing Around Corners_."
 ---
 Change doesn’t happen all at once—it just feels that way. Strategic inflection points are usually the culmination of a long, slow process of gestation. This means that it is possible for organizations to take advantage, if you’re able to spot them early enough. That means paying closer attention to the edges of your organization, and the places where the future has already arrived. From there, it’s possible to use a methodology like discovery-driven planning to respond learn from and respond to signals incrementally, without over-committing to change too early. Doing so creates significant advantages for those organizations who are able to overcome internal siloed and bureaucratic barriers to adapt to the changing future rather than react to it.
 

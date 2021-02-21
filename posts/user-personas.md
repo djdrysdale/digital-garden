@@ -3,7 +3,7 @@ title: "About User Personas"
 date: "2020-10-07"
 categories:
   - "research"
-description: Personas are among the most common research artifacts used by design teams. They’re used almost reflexively now, but it’s worth being mindful of their strengths, weaknesses, and the available alternatives. Note: this is a bit of an info dump, and will probably evolve over time.
+description: "Personas are among the most common research artifacts used by design teams. They’re used almost reflexively now, but it’s worth being mindful of their strengths, weaknesses, and the available alternatives. Note: this is a bit of an info dump, and will probably evolve over time."
 ---
 
  

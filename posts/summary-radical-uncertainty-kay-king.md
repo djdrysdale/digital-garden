@@ -3,7 +3,7 @@ title: "Summary: Radical Uncertainty by John Kay and Mervyn King"
 date: "2020-10-25"
 categories:
   - "bookshelf"
-description: A summary of John Kay and Mervyn King's _Radical Uncertainty_.
+description: "A summary of John Kay and Mervyn King's _Radical Uncertainty_."
 ---
 John Kay and Mervyn King's book _Radical Uncertainty: Decision-Making Beyond the Numbers_ is a long book that nevertheless delivers a very clear message. Kay, the first dean at Oxford's Said Business School, and King, former Governor of the Bank of England, take issue with economics' fixation with probabilistic thinking. Like Shiller's [_Narrative Economics_](https://mobydiction.ca/blog/review-shiller-narrative-economics), Kay and King argue that there is more to economics than data and algorithms, and suggest that focusing too narrowly on quantitative data has diminished the field's practical utility in the world.
 

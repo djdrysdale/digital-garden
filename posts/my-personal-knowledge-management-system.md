@@ -3,7 +3,7 @@ title: "My personal knowledge management system"
 date: "2020-07-25"
 categories:
   - "pkm"
-description: We’re exposed to more information more quickly than ever before. It’s important to have a way to not only manage all that knowledge, but to turn it into something meaningful. Here’s how I do it.
+description: "We’re exposed to more information more quickly than ever before. It’s important to have a way to not only manage all that knowledge, but to turn it into something meaningful. Here’s how I do it."
 ---
 
  

@@ -3,7 +3,7 @@ title: "Telling Stories: Why Narrative Matters to UX"
 date: "2018-12-01"
 categories:
   - "narrative"
-description: Whether we’re conscious of it or not, we’re always telling stories. But stories aren’t just about their content. They’re also about how we tell them.
+description: "Whether we’re conscious of it or not, we’re always telling stories. But stories aren’t just about their content. They’re also about how we tell them."
 ---
 
  

@@ -3,7 +3,7 @@ title: "It’s not about what customers say they want."
 date: "2020-07-05"
 categories:
   - "research"
-Description: Whether you do user research, customer research, market research, product research, it’s never been about getting customers to just tell you want they want.
+Description: "Whether you do user research, customer research, market research, product research, it’s never been about getting customers to just tell you want they want."
 ---
 
  

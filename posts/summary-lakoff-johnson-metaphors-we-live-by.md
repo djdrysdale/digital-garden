@@ -3,7 +3,7 @@ title: "Summary: Metaphors We Live By by George Lakoff and Mark Johnson"
 date: "2020-10-13"
 categories:
   - "bookshelf"
-description: A summary and review of George Lakoff and Mark Johnson's _Metaphors We Live By_.
+description: "A summary and review of George Lakoff and Mark Johnson's _Metaphors We Live By_."
 ---
 
 _Metaphors We Live By_ is one of those books that I'm pretty sure I understood before I ever knew it existed. Some of the ideas and arguments it presents about metaphors and their role in how we relate to the world around us seem almost second-nature to me.

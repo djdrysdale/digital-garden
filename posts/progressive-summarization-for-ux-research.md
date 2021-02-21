@@ -3,7 +3,7 @@ title: "Progressive summarization for UX research"
 date: "2020-06-14"
 categories:
   - "research"
-description: We’re exposed to more information more quickly than ever before. It’s important to have a way to not only manage all that knowledge, but to turn it into something meaningful. Here’s how I do it.
+description: "We’re exposed to more information more quickly than ever before. It’s important to have a way to not only manage all that knowledge, but to turn it into something meaningful. Here’s how I do it."
 ---
 
  

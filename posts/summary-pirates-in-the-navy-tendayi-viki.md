@@ -3,7 +3,7 @@ title: "Summary: Pirates in the Navy by Tendayi Viki"
 date: "2020-08-16"
 categories:
   - "bookshelf"
-description: A summary of Tendayi Viki's _Pirates in the Navy_.
+description: "A summary of Tendayi Viki's _Pirates in the Navy_."
 ---
 Steve jobs advised that "it's better to be a pirate than join the navy." Jobs meant to inspire Apple employees to embrace an anti-establishment zeal. He wanted them to work untethered from the usual constraints of corporate cultures—to be rebels, misfits, round pegs in square holes, et cetera.
 

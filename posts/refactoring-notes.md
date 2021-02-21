@@ -3,7 +3,7 @@ title: "The life-changing magic of refactoring notes"
 date: "2020-10-18"
 categories:
   - "pkm"
-description: If you just jot notes down, you’re probably not getting as much value out of them as you can. Refactoring them can help unlock the potential of your digital notes to drive new insights and ideas.
+description: "If you just jot notes down, you’re probably not getting as much value out of them as you can. Refactoring them can help unlock the potential of your digital notes to drive new insights and ideas."
 ---
 
  

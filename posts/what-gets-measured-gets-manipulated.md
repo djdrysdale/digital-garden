@@ -3,7 +3,7 @@ title: "What gets measured gets manipulated"
 date: "2017-05-02"
 categories:
   - "measurement"
-description: Or, what baseball can teach us about KPI-driven development.
+description: "Or, what baseball can teach us about KPI-driven development."
 ---
 
  

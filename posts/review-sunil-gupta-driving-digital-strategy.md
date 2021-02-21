@@ -4,7 +4,7 @@ date: "2020-06-03"
 categories:
   - "bookshelf"
   - "strategy"
-description: Reviewing Sunil Gupta’s _Driving Digital Strategy_
+description: "Reviewing Sunil Gupta’s _Driving Digital Strategy_"
 ---
 
  

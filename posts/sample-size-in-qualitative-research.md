@@ -3,7 +3,7 @@ title: "How many interviews?"
 date: "2020-07-18"
 categories:
   - "research"
-description: User researchers performing qualitative research often field questions about their sample sizes. Can you really make decisions after interviewing 5 or 10 users? It depends.
+description: "User researchers performing qualitative research often field questions about their sample sizes. Can you really make decisions after interviewing 5 or 10 users? It depends."
 ---
 
  

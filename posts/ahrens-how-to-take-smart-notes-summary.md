@@ -4,7 +4,7 @@ date: "2020-05-09"
 categories:
   - "bookshelf"
   - "pkm"
-description: A summary and review of Sönke Ahrens’ _How to Take Smart Notes_
+description: "A summary and review of Sönke Ahrens’ _How to Take Smart Notes_"
 ---
 
  

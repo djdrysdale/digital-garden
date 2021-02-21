@@ -4,7 +4,7 @@ date: "2020-11-15"
 categories:
   - "bookshelf"
   - "strategy"
-description: A summary and review of Richard Rumelt's classic _Good Strategy / Bad Strategy_.
+description: "A summary and review of Richard Rumelt's classic _Good Strategy / Bad Strategy_."
 ---
 
 Strategy is ostensibly meant to create a competitive advantage for an organization. Richard Rumelt's book _Good Strategy / Bad Strategy: The Difference and Why It Matters_ takes the contrarian position that simply having a strategy itself is a competitive advantage. That's because so many organizations today simply don't have one. They might have financial plans, budgets, SWOT analyses, and even roadmaps.

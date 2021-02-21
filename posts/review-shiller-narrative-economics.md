@@ -4,7 +4,7 @@ date: "2020-06-21"
 categories:
   - "bookshelf"
   - "narrative"
-description: Robert Shiller's book Narrative Economics adopts metaphors of contagion to unpack how stories spread and ultimately influence economic decisions and events. But this metaphor sits uneasily against his book's other major intervention, which is to consider the power of story and metaphor to begin with.
+description: "Robert Shiller's book Narrative Economics adopts metaphors of contagion to unpack how stories spread and ultimately influence economic decisions and events. But this metaphor sits uneasily against his book's other major intervention, which is to consider the power of story and metaphor to begin with."
 ---
 
  

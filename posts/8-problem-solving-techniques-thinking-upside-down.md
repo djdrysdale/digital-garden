@@ -3,7 +3,7 @@ title: "Problem solving in the upside-down"
 date: "2020-08-09"
 categories:
   - "strategy"
-description: Creative problem-solving means overcoming our bias for the familiar and looking instead for new angles and vantage points. Here are some techniques you can use to help avoid falling into old habits of thinking and look at things with a fresh perspective.
+description: "Creative problem-solving means overcoming our bias for the familiar and looking instead for new angles and vantage points. Here are some techniques you can use to help avoid falling into old habits of thinking and look at things with a fresh perspective."
 ---
 
  

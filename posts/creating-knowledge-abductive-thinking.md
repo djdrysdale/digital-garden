@@ -3,7 +3,7 @@ title: "Creating knowledge with abductive reasoning"
 date: "2020-11-25"
 categories:
   - "strategy"
-description: Effective knowledge management and mobilization requires that sometimes we take a leap of faith. 
+description: "Effective knowledge management and mobilization requires that sometimes we take a leap of faith." 
 ---
 
 One of the features of a good knowledge management system is its ability to bring together information or insights gathered from different contexts. When brought into juxtaposition with one another, knowledge from disparate domains can form new constellations of thought. As Luhmann writes, "information ... originates only in systems which possess a comparative schema—even if this amounts only to 'this or something else.'"

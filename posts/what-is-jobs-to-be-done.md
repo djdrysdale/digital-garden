@@ -4,7 +4,7 @@ date: "2020-06-07"
 categories:
   - "strategy"
   - "research"
-description: The “jobs to be done” framework can be a valuable tool for understanding and articulating customer or user needs. But it’s also the source of much confusion and misunderstanding. It doesn’t need to be so hard.
+description: "The jobs to be done framework can be a valuable tool for understanding and articulating customer or user needs. But it’s also the source of much confusion and misunderstanding. It doesn’t need to be so hard."
 ---
 
  

@@ -3,7 +3,7 @@ title: "Summary: Sensemaking by Christian Madsbjerg"
 date: "2020-09-13"
 categories:
   - "bookshelf"
-desription: A summary of Christian Madsberg's _Sensemaking_. 
+desription: "A summary of Christian Madsberg's _Sensemaking_." 
 ---
 The humanities have had a tough time lately. As colleges and universities tightened budgets and reallocated funding, humanities programs were often on the chopping block. Part of the problem has been a public narrative that humanities degrees are somehow less useful than those that offered a clearer professional path. Think of the tired old saw about the English grad serving coffee to business degree holders.
 

@@ -3,7 +3,7 @@ title: "Summary: The Opposable Mind by Roger L. Martin"
 date: "2020-12-02"
 categories:
   - "bookshelf"
-description: A summary and review of Roger L. Martin's _The Opposable Mind_.
+description: "A summary and review of Roger L. Martin's _The Opposable Mind_."
 ---
 
 When we confront a complex problem, our impulse is often to try and simplify. We try to figure out what kind of a problem is. We separate it out into different concerns. Finally, we try to make a decision. We look at the options, weigh the pros and cons, make some trade-offs, and hold our nose and pick one.

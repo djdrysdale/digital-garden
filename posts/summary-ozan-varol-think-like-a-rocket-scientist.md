@@ -3,7 +3,7 @@ title: "5 Lessons from Ozan Varol’s <em>Think Like a Rocket Scientist</em>"
 date: "2020-08-23"
 categories:
   - "bookshelf"
-description: A summary of Ozan Varol's _Think Like a Rocket Scientist_.
+description: "A summary of Ozan Varol's _Think Like a Rocket Scientist_."
 ---
 
 ## Get comfortable with uncertainty

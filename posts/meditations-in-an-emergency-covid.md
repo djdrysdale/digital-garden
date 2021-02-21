@@ -3,7 +3,7 @@ title: "Meditations in an emergency"
 date: "2020-05-07"
 categories:
   - "trends"
-description: COVID-19 is forcing us to find new stories about our way of being in the world.
+description: "COVID-19 is forcing us to find new stories about our way of being in the world."
 ---
 
 #### _COVID-19 is forcing us to find new stories about our way of being in the world._

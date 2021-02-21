@@ -3,7 +3,7 @@ title: "The problems with brainstorming"
 date: "2020-09-30"
 categories:
   - "strategy"
-description: Brainstorming’s a common suggestion any time there’s a complex problem to deal with. But research shows that it’s not as effective as practitioners might think. Can we design a better brainstorm?
+description: "Brainstorming’s a common suggestion any time there’s a complex problem to deal with. But research shows that it’s not as effective as practitioners might think. Can we design a better brainstorm?"
 ---
 
  

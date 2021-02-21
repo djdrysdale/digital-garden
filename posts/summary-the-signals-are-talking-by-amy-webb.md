@@ -3,7 +3,7 @@ title: "Summary: The Signals are Talking by Amy Webb"
 date: "2020-09-23"
 categories:
   - "bookshelf"
-description: A summary of Amy Webb's _The Signals Are Talking_. 
+description: "A summary of Amy Webb's _The Signals Are Talking_."
 ---
 I've always enjoyed retrofuturism. If you're unfamiliar, retrofuturism describes visions of the future as imagined in the past. Retrofuturism gives us a glimpse into how our ancestors pictured the world changing in the years ahead. Much like us today, folks living in the past liked to to forecast how the innovations of their time might transform the lives of their children or their children's children.
 
