@@ -1,15 +1,21 @@
 ---
-title: The limits of your hypotheses
-description: Modern product management methodologies like Lean UX cite the scientific method as an important inspiration and antecedent of its hypothesis-based product discovery model. But it’s missing one important step.
-date: Created
-featuredImage: /assets/petri-dish.jpg
+title: "The limit of your hypothesis"
+date: "2021-01-19"
+categories: 
+  - "strategy"
 ---
+
+ 
+
+#### _Product management today cites scientific knowledge production as its inspiration and antecedent. But experiment-based product management methods often something very important._
+
+ 
 
 Product management depends heavily on knowledge management. That is, how do we gather knowledge? How do we create new knowledge? And how can we deploy that knowledge to gain a competitive advantage and create new value for our business and for our customers? That is, to me, the essence of product management.
 
 These days, there is a strong bias towards modes of knowledge production that borrow heavily from science, math, and technology. These models assume that there is a concrete, knowable world, and that subjective knowledge can't be trusted. Therefore, we use the scientific method to help us understand what is true. Objectivity is a fundamental good; only objective knowledge is true knowledge. This has become the predominant perspective much of Western society, and certainly in places like Silicon Valley from which we borrow many of our approaches to product development and management.
 
-In many popular product management models, the way we acquire knowledge is through experimentation. Lean UX, for instance, champions "continuous discovery." You start by identifying your assumptions---things you believe to be true rather than hard requirements---and test those assumptions with each incremental release, ideally through real feedback from actual users. This is a very scientific model. You treat each assumption like a hypothesis and then subject it to test conditions to evaluate whether or not it will get you closer to the outcome you need to achieve. And so if you take, for example, a Scrum + UX course, based heavily on Lean UX, you'll be taught to write statements like these: "We believe that [assumption] is true. We will know we are [right/wrong] when we see [feedback]." The goal of each sprint is to learn something new through this experimental model.
+In many popular product management models, the way we acquire knowledge is through experimentation. Lean UX, for instance, champions "continuous discovery." You start by identifying your assumptions---things you believe to be true rather than hard requirements---and test those assumptions with each incremental release, ideally through real feedback from actual users. This is a very scientific model. You treat each assumption like a hypothesis and then subject it to test conditions to evaluate whether or not it will get you closer to the outcome you need to achieve. And so if you take, for example, a Scrum + UX course, based heavily on Lean UX, you'll be taught to write statements like these: "We believe that \[assumption\] is true. We will know we are \[right/wrong\] when we see \[feedback\]." The goal of each sprint is to learn something new through this experimental model.
 
 This experimental model is extremely useful and extremely powerful, if it's done right. It is an evaluative method: you have a belief and you are looking to determine if that belief is accurate. But it has one important limitation: it's requires that you have an existing mental model that you can put to the test. It requires that you have a strong sense of the problem space to the point that you are capable of designing a prototype that can help you test against specific outcomes.
 
@@ -19,6 +25,6 @@ Now, I get it. It's important that we're able to get an objective measure of suc
 
 But, there are a few problems here. One is that if we focus too narrowly on those sort of short-term, sprint-length feedback loops, we risk losing sense of the bigger context in which our product needs to function. Short feedback loops can be dangerous because they provide fast gratification: we start to prioritize fast feedback instead of meaningful feedback. We can easily get addicted to that kind of endorphin rush we get when we find out of our idea was effective or not. But we have to be very careful: it's easy to start to focus too narrowly on that short-term feedback and lose sight of the fact that the immediate feedback is intended to serve as feedback for some bigger mission that we've undertaken.
 
-Another is that we're also potentially subject to  Goodhart's law, which suggests that when a measure becomes a target, it ceases to become useful as a measure. We alter our behaviour in pursuit of the metric rather than the end state that the goal is supposed to measure. That's not to say we shouldn't measure things, but there are plenty of organizations that use KPIs and OKRs to inform things like performance reviews and bonuses rather than treating them as a form of measurement.
+Another is that we're also potentially subject to Goodhart's law, which suggests that when a measure becomes a target, it ceases to become useful as a measure. We alter our behaviour in pursuit of the metric rather than the end state that the goal is supposed to measure. That's not to say we shouldn't measure things, but there are plenty of organizations that use KPIs and OKRs to inform things like performance reviews and bonuses rather than treating them as a form of measurement.
 
 But even before we should worry about that, we should think hard about the source of those hypotheses that we're meant to be testing. Often in Lean UX environments, the hypotheses or assumptions that get tested are the result of activities like brainstorming, or more accurately brain dumping: the product team gets together and puts all their hypotheses and assumptions on the table and starts to sort through them. After all, that's what it tells you what to do in the book. You go through an "assumption declaration exercise" to get everyone's thoughts on the whiteboard. But all too often, those assumptions are not very well-informed. You're meant to bring subject-matter experts into the room, and of course Lean encourage you to to "get out of the building," but it also encourages "making over analysis." "There is more value in making the first version than in spending half a day debating its merits in a conference room," the authors write. The funny thing is, this is actually contrary to the whole scientific model that Lean product management, for all its emphasis on experiments and hypotheses, seems to champion. Because in the scientific method, those hypotheses don't come out of thin air, or from a product team sitting around a whiteboard; they come from a lot of observation and background research first.
