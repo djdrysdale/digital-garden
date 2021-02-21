@@ -26,4 +26,4 @@ Some examples of ways we do this:
 
 Miller, Mark, Kathryn Nave, George Deane, and Andy Clark. “Use Uncertainty to Leverage the Power of Your Predictive Brain.” *Aeon*. Accessed October 21, 2020. https://aeon.co/essays/use-uncertainty-to-leverage-the-power-of-your-predictive-brain.
 
-- [[Varol - Think Like a Rocket Scientist]]
+[[Varol - Think Like a Rocket Scientist]]
