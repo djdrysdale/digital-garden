@@ -1,6 +1,6 @@
 ---
-layout: homepage
-title: Digital Strategy and Research in London, Ontario | Moby Diction
+layout: default
+title: Moby Diction
 ---
 
 Hi. I'm David Drysdale.
