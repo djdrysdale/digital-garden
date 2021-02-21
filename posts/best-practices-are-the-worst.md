@@ -3,7 +3,7 @@ title: "Best practices are the worst."
 date: "2020-05-16"
 categories:
   - "strategy"
-description: Best practices feel safe and familiar. Recognize them for what they are--convenient shortcuts that need to be tested.
+description: "Best practices feel safe and familiar. Recognize them for what they are: convenient shortcuts that need to be tested."
 ---
 
  
