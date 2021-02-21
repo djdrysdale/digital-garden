@@ -1,8 +1,9 @@
 ---
 title: "Quantifying the work changes the work"
 date: "2020-07-11"
-categories: 
+categories:
   - "measurement"
+description: When we try to reduce our efforts down to the bare numbers, we transform our relationship to the work. What do we lose in the compression?
 ---
 
  

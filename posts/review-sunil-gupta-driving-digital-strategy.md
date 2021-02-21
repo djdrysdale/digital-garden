@@ -1,9 +1,10 @@
 ---
 title: "More than meets the eye: On digital transformation"
 date: "2020-06-03"
-categories: 
+categories:
   - "bookshelf"
   - "strategy"
+description: Reviewing Sunil Gupta’s _Driving Digital Strategy_
 ---
 
  

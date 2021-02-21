@@ -1,9 +1,10 @@
 ---
 title: "Choose to go to the moon"
 date: "2020-05-27"
-categories: 
+categories:
   - "strategy"
   - "narrative"
+description: A strong vision is a critical component to any strategy. But it needs to go beyond the fluff.
 ---
 
 A politician gets on stage and says,

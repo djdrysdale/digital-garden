@@ -1,20 +1,10 @@
 ---
 title: "Summary: Radical Uncertainty by John Kay and Mervyn King"
 date: "2020-10-25"
-categories: 
+categories:
   - "bookshelf"
+description: A summary of John Kay and Mervyn King's _Radical Uncertainty_.
 ---
-
-[
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/5e9e54ba9225353212ce08ab/1603646101578-5B93EBKWDU0C628Q60GZ/ke17ZwdGBToddI8pDm48kKYfOagNqMYNbM6xqqZpkF1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHgRdpW7zhNmEkE96WCEB59KJKeKn2Obr42QoJ0UNOFwdqa3S12oG7JiiZSdk0r0e4/51edjQBpSDL.\_SX328\_BO1%2C204%2C203%2C200\_.jpg" alt="51edjQBpSDL.\_SX328\_BO1,204,203,200\_.jpg" />
-
-](https://www.amazon.ca/Radical-Uncertainty-Decision-Making-Beyond-Numbers/dp/1324004770)
-
-[](https://www.amazon.ca/Radical-Uncertainty-Decision-Making-Beyond-Numbers/dp/1324004770)
-
 John Kay and Mervyn King's book _Radical Uncertainty: Decision-Making Beyond the Numbers_ is a long book that nevertheless delivers a very clear message. Kay, the first dean at Oxford's Said Business School, and King, former Governor of the Bank of England, take issue with economics' fixation with probabilistic thinking. Like Shiller's [_Narrative Economics_](https://mobydiction.ca/blog/review-shiller-narrative-economics), Kay and King argue that there is more to economics than data and algorithms, and suggest that focusing too narrowly on quantitative data has diminished the field's practical utility in the world.
 
 As I noted when summarizing _Narrative Economics_ I want to emphasize that I'm not an economist. So, what stood out to me from this book will likely be very different from someone who is better versed in that "dismal science." Nevertheless, I think there are a few generalizable points in this book that are worth summarizing for anyone who has to work under conditions of uncertainty (which is nearly everyone).

@@ -1,8 +1,9 @@
 ---
 title: "Strategy creates constraints"
 date: "2020-11-11"
-categories: 
+categories:
   - "strategy"
+description: Strategy isn’t a goal, a road map, or a plan of action. It’s about the careful imposition of constraints.
 ---
 
  

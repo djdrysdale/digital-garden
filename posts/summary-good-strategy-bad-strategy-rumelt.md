@@ -1,20 +1,11 @@
 ---
 title: "Summary: Good Strategy / Bad Strategy by Richard Rumelt"
 date: "2020-11-15"
-categories: 
+categories:
   - "bookshelf"
   - "strategy"
+description: A summary and review of Richard Rumelt's classic _Good Strategy / Bad Strategy_.
 ---
-
-[
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/5e9e54ba9225353212ce08ab/1605462733559-VSSUF1Y4TQB79VIOU20G/ke17ZwdGBToddI8pDm48kHrYQjnf30q2-i9syNdZH1hZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFpaFXBdX85Cw-SF91MHRbhUrowsi7SAtoEv6Z3eeYt7fpqTJJn4jT0lPPN4PYnmgo/5150WKzxbCL.\_SX327\_BO1%2C204%2C203%2C200\_.jpg" alt="5150WKzxbCL.\_SX327\_BO1,204,203,200\_.jpg" />
-
-](https://www.amazon.ca/Good-Strategy-Bad-Difference-Matters/dp/0307886239/ref=sr_1_1?crid=1NHBPETVZ49XX&dchild=1&keywords=good%20strategy%20bad%20strategy&qid=1605462709&sprefix=good%20strategy%20ba%2Caps%2C181&sr=8-1)
-
-[](https://www.amazon.ca/Good-Strategy-Bad-Difference-Matters/dp/0307886239/ref=sr_1_1?crid=1NHBPETVZ49XX&dchild=1&keywords=good%20strategy%20bad%20strategy&qid=1605462709&sprefix=good%20strategy%20ba%2Caps%2C181&sr=8-1)
 
 Strategy is ostensibly meant to create a competitive advantage for an organization. Richard Rumelt's book _Good Strategy / Bad Strategy: The Difference and Why It Matters_ takes the contrarian position that simply having a strategy itself is a competitive advantage. That's because so many organizations today simply don't have one. They might have financial plans, budgets, SWOT analyses, and even roadmaps.
 

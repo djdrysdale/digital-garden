@@ -1,19 +1,10 @@
 ---
 title: "Summary: Metaphors We Live By by George Lakoff and Mark Johnson"
 date: "2020-10-13"
-categories: 
+categories:
   - "bookshelf"
+description: A summary and review of George Lakoff and Mark Johnson's _Metaphors We Live By_.
 ---
-
-[
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/5e9e54ba9225353212ce08ab/1602549214843-I40KGLKIBIPLJAPS2WJK/ke17ZwdGBToddI8pDm48kIHVNcjNJVPxZWbaTP5f7GdZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-u6MDVvlsdTZenAvwpjN9VYcFrM3T3ALETHdzrtbZZKaw/download.jpeg" alt="download.jpeg" />
-
-](https://amzn.to/3jOrwhE)
-
-[](https://amzn.to/3jOrwhE)
 
 _Metaphors We Live By_ is one of those books that I'm pretty sure I understood before I ever knew it existed. Some of the ideas and arguments it presents about metaphors and their role in how we relate to the world around us seem almost second-nature to me.
 
@@ -40,13 +31,13 @@ Structural metaphors emphasize some aspects of experience but hide others. For e
 Some examples of structural metaphors:
 
 - Arguments are battles
-    
+
 - Ideas are objects
-    
+
 - Expressions are containers
-    
+
 - Communication is sending
-    
+
 
 ## Orientational metaphors organize concepts relationally
 

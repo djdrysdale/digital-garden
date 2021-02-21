@@ -1,8 +1,9 @@
 ---
 title: "Problem solving in the upside-down"
 date: "2020-08-09"
-categories: 
+categories:
   - "strategy"
+description: Creative problem-solving means overcoming our bias for the familiar and looking instead for new angles and vantage points. Here are some techniques you can use to help avoid falling into old habits of thinking and look at things with a fresh perspective.
 ---
 
  
@@ -48,20 +49,20 @@ To do that, we need processes and techniques that defamiliarize problems and fir
 There are different ways of we can flip the problem space. Here are some possibilities—but there are many more.
 
 1. **Spend more time articulating the problem.** Problem solving starts with problem definition. Often, we're so eager to come up with a good solution that we don't spend enough time clearly articulating the problem. In many cases, we unconsciously (or consciously!) imply the solution with the way we frame the problem. Think of as many ways to articulate your problem to solve as you can.
-    
+
 2. **Zoom out.** Move to a [higher level of abstraction](https://www.fastcompany.com/90483677/the-surprising-science-behind-better-brainstorming). Use the "[five whys](https://hbr.org/2012/02/the-5-whys.html)" technique to expand your problem space before you begin to converge. What is the broader context of your problem space? What would happen if you didn't do anything?
-    
+
 3. **Flip your scripts.** Collect a list of your assumptions, and imagine the reverse of each one was true. What opportunities would that create? How would you approach the situation differently?
-    
+
 4. **Try an** [**analogy**](https://hbr.org/2005/04/how-strategists-really-think-tapping-the-power-of-analogy)**.** Groups solving problems were [more likely](https://pdfs.semanticscholar.org/7421/31e4b64d9a5a15979a5aa5e0819af6801909.pdf) to come up with a solution when they were asked to [consider an analogous situation](https://i2insights.org/2016/09/13/analogies-in-problem-solving/) from outside of their typical domain. Look to adjacent or even distant industries or spaces to broaden your perspective on the opportunities and solutions available to you.
-    
+
 5. **Come up with bad ideas.** A lot of them. What is the worst thing you could do? What’s the most ridiculous thing you could do? Then, flip your bad idea around. What is the inverse of your bad idea? It should be a pretty good idea.
-    
+
 6. **Perform a** [**pre-mortem**](https://hbr.org/2007/09/performing-a-project-premortem)**.** Imagine you've made your decision. Then, think ahead two years and imagine that it has gone as poorly as you can possibly imagine. Where did you go wrong? Why did it fail?
-    
+
 7. **Ensure that you have a diverse team.** This doesn't mean only people who represent a broad range of experiences and backgrounds, but also people who represent diverse ways of thinking. [Researchers have found](https://hbr.org/2017/03/teams-solve-problems-faster-when-theyre-more-cognitively-diverse) that teams that are cognitively diverse—that is, they represent a variety of perspectives and information processing styles—solved problems more quickly than teams that were not.
-    
+
 8. **Engage in more debate.** When brainstorming, teams that discussed and debated their ideas have been [found to be more creative](https://pdfs.semanticscholar.org/7421/31e4b64d9a5a15979a5aa5e0819af6801909.pdf) and effective than those who were instructed to not critique one another's thinking. Debate and dissent forces us to find ways to better articulate and defend or thoughts, and provide feedback loops that help us to reassess and adapt our view points.
-    
+
 
 Ultimately, our brains are too powerful to recognize situations in which our conventional thinking is holding us back. These techniques, and others, can force us to think about things in new ways. When we abstract and disarticulate ideas, we make it possible to creatively recombine our insights and create new networks of thought.

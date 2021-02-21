@@ -1,8 +1,9 @@
 ---
 title: "The life-changing magic of refactoring notes"
 date: "2020-10-18"
-categories: 
+categories:
   - "pkm"
+description: If you just jot notes down, you’re probably not getting as much value out of them as you can. Refactoring them can help unlock the potential of your digital notes to drive new insights and ideas.
 ---
 
  
@@ -14,13 +15,13 @@ categories:
 If you've spent any time perusing my [online zettelkasten](https://publish.obsidian.md/mobydiction/), you'll probably noticed that I use a few tags to help me navivate. Some of these are pretty straightforward:
 
 - **#lit** denotes a literature note; that is, a note where I'm translating someone else's ideas that I've encountered in literature
-    
+
 - **#perm** denotes a "permanent" or "evergreen" note, usually when I've started to put different #lit notes in conversation with one another or where my own thoughts have entered the conversation
-    
+
 - **#concept** denotes a note that is a high-level description of some idea or concept. These are usually descriptive, and may serve as an entry point into other notes and act as a...
-    
+
 - **#moc**, which is a "map of content." It outlines different notes that I have covering a general area. (Credit to [Nick Milo](https://www.linkingyourthinking.com/) for this approach.)
-    
+
 
 One other tag you will see is **#refactor**. This is more a reminder to myself of an action I need to take, namely refactoring my notes. I think this is actually an important activity in my knowledge management strategy, so I wanted to spend some time describing it.
 

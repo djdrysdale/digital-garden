@@ -1,8 +1,9 @@
 ---
 title: "How many interviews?"
 date: "2020-07-18"
-categories: 
+categories:
   - "research"
+description: User researchers performing qualitative research often field questions about their sample sizes. Can you really make decisions after interviewing 5 or 10 users? It depends.
 ---
 
  
@@ -36,15 +37,15 @@ Data saturation means simply the point at which gathering of any additional data
 The trouble is that this can be highly subjective and difficult to predict. But, in general, there are a few variables that inform how many subjects you'll need to engage:
 
 1. How familiar is the research space? If you're conducting research on an established product or in a domain with which you are well familiar, you'll likely reach the saturation point more quickly. Your knowledge of the space can help you home in on the right questions to ask more quickly.
-    
+
 2. How experienced is the researcher? A more experienced researcher can often do more with less. Indeed, with qualitative research, the richness of the data is often more a factor of the the researcher's skill than the sample size. A good researcher has honed their interviewing skills and is adept at reading participants and asking the right questions at the right time. They can sense when to dig in further, and will be more comfortable chasing down leads that emerge through the discussion.
-    
+
 3. How diverse is the participant group? If you're working with a narrow, homogeneous group of participants, you won't need to engage with as many participants. However, if your participants represent a wide range of needs and contexts, you will probably need to speak to more to reach the point of saturation.
-    
+
 4. How big is the risk that you will be taken based on the research? Research is a vital activity for helping to mitigate risk when it comes to business, product, or ux strategy. If the work you are doing is to inform a big, "type one" decision—the kind that there's no going back from—you may want to be more cautious before you decide that you've reached saturation.
-    
+
 5. What's your budget? Unless your budget is considerable, you'll probably need to think about how many people you can actually afford to talk to. If you don't think your budget will let you reach the number of users you'll need to reach saturation, then you should be sure to flag that when presenting your research plan and the results to your stakeholders.
-    
+
 
 There are other factors that come into play as well. For example, if you are working in an Agile environment, you can get away with talking to fewer people due to the iterative nature of the work. In an Agile environment, each feature release is itself a research study; working together with the delivery team, you'll revise your understanding of the problem space through a mix of qualitative research methods and the data you get back from actual usage. As well, your line of questioning is likely to be more precise, focused narrowly on the sprint goal that you're working toward. With the release, you learn something; you take that back with you to your next round of research, and the process loops forward again and again.
 

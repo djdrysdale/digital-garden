@@ -1,20 +1,10 @@
 ---
 title: "Summary: Pirates in the Navy by Tendayi Viki"
 date: "2020-08-16"
-categories: 
+categories:
   - "bookshelf"
+description: A summary of Tendayi Viki's _Pirates in the Navy_.
 ---
-
-[
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/5e9e54ba9225353212ce08ab/1597601197518-5CP2N56TQUSQX9BUEL8A/ke17ZwdGBToddI8pDm48kJ4LJi4hAudnBdkFcLCo7GhZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-vz8vIYzd6V9X50ibz1N7BehxmrgZuSjZll22TArP6prg/51-YQDU-hUL.\_SY346\_.jpg" alt="51-YQDU-hUL.\_SY346\_.jpg" />
-
-](https://amzn.to/31SFeZ8)
-
-[](https://amzn.to/31SFeZ8)
-
 Steve jobs advised that "it's better to be a pirate than join the navy." Jobs meant to inspire Apple employees to embrace an anti-establishment zeal. He wanted them to work untethered from the usual constraints of corporate cultures—to be rebels, misfits, round pegs in square holes, et cetera.
 
 Forty years later, being a misfit has gone mainstream. Even the most venerable organizations are trying to embrace Jobs' message as the world shifts rapidly around them. For a few years, they've been launching innovation teams, labs, accelerators, and incubators in an attempt to disrupt themselves before they get disrupted by upstarts and start-ups. Everyone, it seems, is trying to find a way to create a reliable, repeatable process for innovation. You can even now become a certified innovation leader!
@@ -23,7 +13,7 @@ The results are usually mixed, or worse. Being a pirate in the navy is hard.
 
 Tendayi Viki's book explores why it's hard. His is a sobering message. Being asked to innovate in an enterprise or other large organization is an uphill battle. Viki shows us why.
 
-## **The enterprise is not a startup**
+## The enterprise is not a startup
 
 The first thing to realize is that the enterprise is not a start-up. Nor should it pretend to be.
 
@@ -35,7 +25,7 @@ Often the forces are cultural. Certain attitudes and beliefs have had a long tim
 
 Businesses are loss averse. Instinctively they will protect what they have, even at the cost of future opportunities. They've accrued layers of bureaucracy and process to protect what they have and ensure predictability. Individuals throughout the organization—especially middle management—are incentivized to succeed against current business models, not new ones. A top-down, deliberate strategy is the norm, and initiatives are undertaken only after long periods of planning and evaluation. Lengthy business cases and scoping efforts by design act like governors, slowing change and limiting volatility. This posture makes it very hard to innovate.
 
-## **Innovation theater**
+## Innovation theater
 
 Many organizations adopt the trappings of innovation, laying a thin veneer over old ways of doing things. This innovation theater plays out at multiple levels. Sometimes, teams are assembled and put on a compelling show with workshops and whiteboard walls cluttered with sticky notes. But instead of delivering value, they churn in endless discovery phases, never translating their work into viable products.
 
@@ -43,7 +33,7 @@ Meanwhile, leaders build and promote these teams without every providing the kin
 
 Too often, executives provide physical space for innovation, but not the creative or psychological space. The plan and execute model that may have sustained the core business for years is ill-suited for the rapid experiment, learn, and release cycle of innovation.
 
-## **More management than creativity**
+## More management than creativity
 
 But organizations that cling to their old habits and behaviours will have a hard time of it. Instead of new ideas, they find only tension and frustration until the innovation team ultimately is disbanded (voluntarily or not).
 
@@ -51,7 +41,7 @@ Innovation is not bean bag chairs and sticky notes. Many organizations have been
 
 Innovation needs a clear strategic focus that aligns with that of the broader business. And, it needs the support of policies and guidelines that ensure that innovators are able to collaborate well with the core of the organization. Without a strong, concerted effort toward integration, there will always be tension between the innovation teams and the others. And when it comes down to protecting the existing business and the possible future business, the existing business will win every time.
 
-## **Sustaining innovation**
+## Sustaining innovation
 
 Organizations must give up the notion that there are no bad ideas. This is simply not true. There are plenty. Ideas are easy; viable business models are hard. The innovation lab must do more than come up with new ideas. It must focus on sifting through those ideas to find the diamonds in the rough—the rare viable business model that aligns with the broader aims of the parent organization.
 
@@ -61,7 +51,7 @@ Instead of big business cases and big budgets, employ metered funding. Give inno
 
 And if the idea is successful? Celebrate it. The only way to win over skeptics across the business is by putting together a track record of success. Deeds speak louder than words. Nothing is as convincing as success.
 
-## **Leading transformation**
+## Leading transformation
 
 Viki doesn't mince words. This is very, very hard. Even with early success, organizational inertia and cynicism are difficult to overcome. Every organization has people who are content and comfortable with the way things are. For them, change can be frightening.
 

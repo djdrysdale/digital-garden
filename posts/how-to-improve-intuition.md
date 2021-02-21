@@ -1,8 +1,9 @@
 ---
 title: "How to improve your intuition"
 date: "2020-08-02"
-categories: 
+categories:
   - "strategy"
+description: Intuition is incredibly valuable: it’s the source of unique insight and can give us a nudge down innovative paths of discovery. Intuition often comes to us unpredictably, as a gut feeling or a vague hunch. But it is possible to hone our intuition.
 ---
 
  

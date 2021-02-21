@@ -1,8 +1,9 @@
 ---
 title: "About User Personas"
 date: "2020-10-07"
-categories: 
+categories:
   - "research"
+description: Personas are among the most common research artifacts used by design teams. They’re used almost reflexively now, but it’s worth being mindful of their strengths, weaknesses, and the available alternatives. Note: this is a bit of an info dump, and will probably evolve over time.
 ---
 
  
@@ -58,13 +59,13 @@ More important than these details are the persona's needs and objectives. In fac
 Cooper identifies four types of goals:
 
 1. Personal goals, e.g. to not feel stupid, to not make mistakes
-    
+
 2. Practical goals, e.g. to avoid meetings, to handle client demands, to record a client's order
-    
+
 3. Corporate goals, e.g. goals that are pre-requisites for function but that don't motivate in and of themselves
-    
+
 4. False goals, e.g. technology goals that are immaterial to the user but may be valued by a technology team, such as save key strokes, save memory, reduce load time
-    
+
 
 Scenarios, meanwhile, are a description of the persona using the product to achieve a goal. These may include both daily use scenarios, actions that the persona will perform frequently and may benefit from a shortcut; and necessary-use scenarios, which are performed less frequently but are nonetheless essential.
 

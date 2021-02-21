@@ -1,9 +1,10 @@
 ---
 title: "Get a job (to be done)"
 date: "2020-06-07"
-categories: 
+categories:
   - "strategy"
   - "research"
+description: The “jobs to be done” framework can be a valuable tool for understanding and articulating customer or user needs. But it’s also the source of much confusion and misunderstanding. It doesn’t need to be so hard.
 ---
 
  
@@ -29,15 +30,15 @@ The good news is that if you don’t get sucked into the debate, both approaches
 There are five key points:
 
 1. JTBD as a framework assumes that nobody actually wants your product. They want to achieve an outcome or objective.
-    
+
 2. A job is a process that someone undertakes to achieve that outcome. Your product can help with this.
-    
+
 3. Jobs can be multi-faceted. Main jobs can comprise many subordinate jobs. They can be functional, but also emotional or social.
-    
+
 4. Customer segments are best defined by shared needs and desired outcomes, not demographics.
-    
+
 5. JTBD does not specify solutions. It’s about capturing needs.
-    
+
 
 Okay. Now, some more detail.
 

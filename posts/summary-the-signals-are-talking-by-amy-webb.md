@@ -1,20 +1,10 @@
 ---
 title: "Summary: The Signals are Talking by Amy Webb"
 date: "2020-09-23"
-categories: 
+categories:
   - "bookshelf"
+description: A summary of Amy Webb's _The Signals Are Talking_. 
 ---
-
-[
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/5e9e54ba9225353212ce08ab/1600822268729-L5MEI95SRGZ3V73N1LUC/ke17ZwdGBToddI8pDm48kHrYQjnf30q2-i9syNdZH1hZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFpaFXBdX85Cw-SF91MHRbhUrowsi7SAtoEv6Z3eeYt7fpqTJJn4jT0lPPN4PYnmgo/41lhDns29vL.\_SX327\_BO1%2C204%2C203%2C200\_.jpg" alt="41lhDns29vL.\_SX327\_BO1,204,203,200\_.jpg" />
-
-](https://amzn.to/3j74aDq)
-
-[](https://amzn.to/3j74aDq)
-
 I've always enjoyed retrofuturism. If you're unfamiliar, retrofuturism describes visions of the future as imagined in the past. Retrofuturism gives us a glimpse into how our ancestors pictured the world changing in the years ahead. Much like us today, folks living in the past liked to to forecast how the innovations of their time might transform the lives of their children or their children's children.
 
 It's easy to treat retrofuturist idea as an object of fun. A picture of a Victorian maid controlling an "electric scrubbing" machine feels quaint to us. It's a strange mash-up of anachronisms, and sometimes it's hard to stifle a chuckle. It's charming.

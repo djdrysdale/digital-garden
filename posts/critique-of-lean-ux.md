@@ -1,8 +1,9 @@
 ---
 title: "The limit of your hypothesis"
 date: "2021-01-19"
-categories: 
+categories:
   - "strategy"
+description: Product management today cites scientific knowledge production as its inspiration and antecedent. But experiment-based product management methods often something very important.
 ---
 
  

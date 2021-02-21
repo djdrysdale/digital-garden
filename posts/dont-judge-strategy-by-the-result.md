@@ -1,8 +1,9 @@
 ---
 title: "Pulling the pitcher"
 date: "2020-10-28"
-categories: 
+categories:
   - "strategy"
+description: It’s easy to judge a decision based on the outcome it produces. But we shouldn’t be so hasty. An example from baseball can help illustrate why the quality of a decision and the result of a decision are two very different things.
 ---
 
  

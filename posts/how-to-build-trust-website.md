@@ -1,8 +1,9 @@
 ---
 title: "How to build trust with your digital design strategy"
 date: "2018-04-10"
-categories: 
+categories:
   - "psychology"
+description: Your users probably don’t trust your website as much as you’d like to think. Fortunately, there are ways you can cultivate and earn trust.
 ---
 
  

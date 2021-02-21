@@ -1,8 +1,9 @@
 ---
 title: "It's time to fold up the product roadmap"
 date: "2020-09-09"
-categories: 
+categories:
   - "strategy"
+desription: The roadmap is an obsolete, even dangerous metaphor for product management today. 
 ---
 
 Back in the olden days, we didn't carry around little GPS devices in our pockets. When we wanted to figure out how to get from A to B, we relied on roadmaps. They were big and they were awkward, but they showed you all of the streets and avenues in a given area. When you wanted to navigate around, you found your current location, hunted around from your destination, and then plotted a course.

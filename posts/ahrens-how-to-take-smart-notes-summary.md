@@ -1,9 +1,10 @@
 ---
 title: "Stop consuming knowledge. Start creating it."
 date: "2020-05-09"
-categories: 
+categories:
   - "bookshelf"
   - "pkm"
+description: A summary and review of Sönke Ahrens’ _How to Take Smart Notes_
 ---
 
  

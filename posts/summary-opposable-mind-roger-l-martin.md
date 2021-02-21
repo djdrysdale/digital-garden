@@ -1,19 +1,10 @@
 ---
 title: "Summary: The Opposable Mind by Roger L. Martin"
 date: "2020-12-02"
-categories: 
+categories:
   - "bookshelf"
+description: A summary and review of Roger L. Martin's _The Opposable Mind_.
 ---
-
-[
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/5e9e54ba9225353212ce08ab/1606873785786-YTPC1YZ5X44RK3A14QBH/ke17ZwdGBToddI8pDm48kNmXKD66x0m0dJGgBSJ38FFZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGX8mRy-H-uoDM16VIR5wnUk\_2HliDBc5\_lQp7lo\_i1krxGj4mcUABtj6z\_oo228xk/31PEkQrcffL.\_SX333\_BO1%2C204%2C203%2C200\_.jpg" alt="31PEkQrcffL.\_SX333\_BO1,204,203,200\_.jpg" />
-
-](https://www.amazon.ca/Opposable-Mind-Successful-Integrative-Thinking/dp/1422118924/ref=sr_1_1?dchild=1&keywords=martin%20opposable%20mind&qid=1606873731&sr=8-1)
-
-[](https://www.amazon.ca/Opposable-Mind-Successful-Integrative-Thinking/dp/1422118924/ref=sr_1_1?dchild=1&keywords=martin%20opposable%20mind&qid=1606873731&sr=8-1)
 
 When we confront a complex problem, our impulse is often to try and simplify. We try to figure out what kind of a problem is. We separate it out into different concerns. Finally, we try to make a decision. We look at the options, weigh the pros and cons, make some trade-offs, and hold our nose and pick one.
 

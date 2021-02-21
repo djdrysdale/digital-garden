@@ -1,21 +1,10 @@
 ---
 title: "5 Lessons from Ozan Varol’s <em>Think Like a Rocket Scientist</em>"
 date: "2020-08-23"
-categories: 
+categories:
   - "bookshelf"
+description: A summary of Ozan Varol's _Think Like a Rocket Scientist_.
 ---
-
-[
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/5e9e54ba9225353212ce08ab/1598186366528-BEA7QDCJNK6NQNJYYI7F/ke17ZwdGBToddI8pDm48kDmWUCwi0SiPnAcL0CtsnWVZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHojZrmHWXUsZ8wAu-9bJDk-ggdRK6VEXRgVNVixovwMksCQa7v\_VsJJls1p-nYGVg/41VmhqtTwNL.\_SX320\_BO1%2C204%2C203%2C200\_.jpg" alt="41VmhqtTwNL.\_SX320\_BO1,204,203,200\_.jpg" />
-
-](https://amzn.to/2Qj7rms)
-
-[](https://amzn.to/2Qj7rms)
-
-By reputation, rocket scientists are able to deal with some pretty complex problems. Launching satellites, putting people into orbit, and landing men on the moon are all incredible undertakings. The slightest glitch or oversight can mean disaster. In _Think Like a Rocket Scientist_, Ozan Varol, part of an operations team that sent two rovers to Mars, shares strategies that helped him and his colleagues deal with unsolvable problems. Many of his suggestions will be familiar to folks who have studied critical thinking strategies, but Varol's an engaging storyteller and offers plenty of engaging examples to illustrate his concepts.
 
 ## Get comfortable with uncertainty
 

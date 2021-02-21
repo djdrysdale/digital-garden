@@ -1,20 +1,10 @@
 ---
 title: "Summary: Sensemaking by Christian Madsbjerg"
 date: "2020-09-13"
-categories: 
+categories:
   - "bookshelf"
+desription: A summary of Christian Madsberg's _Sensemaking_. 
 ---
-
-[
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/5e9e54ba9225353212ce08ab/1600017281302-M0N5V3HH8TS56DQI5LM0/ke17ZwdGBToddI8pDm48kGZ9s5uS9Kw0yMak\_vy8vX1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVFPSOSWvxUwfWtiilG-sDfliuQHDHqFCOS0eBs8MbNQHorTrI55OG5e7z5gYnPqMa0/412jQeJu65L.jpg" alt="412jQeJu65L.jpg" />
-
-](https://amzn.to/3iszZGz)
-
-[](https://amzn.to/3iszZGz)
-
 The humanities have had a tough time lately. As colleges and universities tightened budgets and reallocated funding, humanities programs were often on the chopping block. Part of the problem has been a public narrative that humanities degrees are somehow less useful than those that offered a clearer professional path. Think of the tired old saw about the English grad serving coffee to business degree holders.
 
 Speaking as someone who holds an advanced degree in a humanities field (specifically, English), I categorically reject this narrative. One the one hand, there are plenty of folks who have humanities degrees who do quite well career-wise, and there is data to back that up.

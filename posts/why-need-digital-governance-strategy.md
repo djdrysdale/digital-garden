@@ -1,8 +1,9 @@
 ---
 title: "How does your garden grow?"
 date: "2020-06-27"
-categories: 
+categories:
   - "strategy"
+description: If you take good care of it, your website can be a well-maintained digital garden. But without the right plan and regular maintenance, you’ll soon have to deal with weeds—or worse.
 ---
 
  

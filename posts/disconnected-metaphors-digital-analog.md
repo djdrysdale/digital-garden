@@ -1,8 +1,9 @@
 ---
 title: "You have been disconnected: on broken metaphors"
 date: "2021-01-06"
-categories: 
+categories:
   - "narrative"
+description: A good strategist and communicator needs to understand the metaphors that stakeholders use to understand their problem space.
 ---
 
 Anyone who knows me very well knows that I think a lot about metaphors. It’s important to me, when communicating an idea, to find an apt metaphor. Metaphors, as George Lakoff [argues](https://mobydiction.ca/blog/summary-lakoff-johnson-metaphors-we-live-by), create systems and help structure our interpretation of the world around us. An apt metaphor, in my mind, helps translate an idea in my head into something someone outside my head can understand, and shapes my interlocutor’s perception of that idea.

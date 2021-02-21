@@ -1,8 +1,9 @@
 ---
 title: "Competitive analysis starts with customers"
 date: "2020-04-28"
-categories: 
+categories:
   - "research"
+description: The competitive analysis is a valuable tool in almost every strategist’s kit. But remember: even when your eye’s on the competition, it’s the customer who matters most in the end.
 ---
 
  

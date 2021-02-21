@@ -1,8 +1,9 @@
 ---
 title: "My personal knowledge management system"
 date: "2020-07-25"
-categories: 
+categories:
   - "pkm"
+description: We’re exposed to more information more quickly than ever before. It’s important to have a way to not only manage all that knowledge, but to turn it into something meaningful. Here’s how I do it.
 ---
 
  
@@ -50,9 +51,9 @@ Plus, most of what I read these days is digital. My most common sources of infor
 So, rather than a paper notebook, I use [Evernote](https://evernote.com/). I've tried a number of different note-taking apps, including [Bear](https://bear.app/) and, more recently [Roam Research](https://roamresearch.com/). Evernote is far from perfect, but for me, it has a few strengths that make me willing to accept some of the trade-offs (at least for now):
 
 1. It still does capture better than any other app I’ve found
-    
+
 2. I can use it on any device and access my notebook from anywhere
-    
+
 
 (Note: this has not stopped me from admiring a nice notebook and a good pen.)
 

@@ -1,21 +1,11 @@
 ---
 title: "Summary: Seeing Around Corners by Rita McGrath"
 date: "2020-08-03"
-categories: 
+categories:
   - "bookshelf"
   - "strategy"
+description: A summary of Rita McGrath's _Seeing Around Corners_
 ---
-
-[
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/5e9e54ba9225353212ce08ab/1596473714126-5QLCTSGVTKDAPJI8PKQE/ke17ZwdGBToddI8pDm48kKYfOagNqMYNbM6xqqZpkF1Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHgRdpW7zhNmEkE96WCEB59KJKeKn2Obr42QoJ0UNOFwdqa3S12oG7JiiZSdk0r0e4/41cgSYKNUBL.\_SX328\_BO1%2C204%2C203%2C200\_.jpg" alt="41cgSYKNUBL.\_SX328\_BO1,204,203,200\_.jpg" />
-
-](https://amzn.to/2XpTRlf)
-
-[](https://amzn.to/2XpTRlf)
-
 Change doesn’t happen all at once—it just feels that way. Strategic inflection points are usually the culmination of a long, slow process of gestation. This means that it is possible for organizations to take advantage, if you’re able to spot them early enough. That means paying closer attention to the edges of your organization, and the places where the future has already arrived. From there, it’s possible to use a methodology like discovery-driven planning to respond learn from and respond to signals incrementally, without over-committing to change too early. Doing so creates significant advantages for those organizations who are able to overcome internal siloed and bureaucratic barriers to adapt to the changing future rather than react to it.
 
 ## A strategic inflection point disrupts the underlying assumptions of a business or industry

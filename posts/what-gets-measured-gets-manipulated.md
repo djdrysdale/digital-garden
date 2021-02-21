@@ -1,8 +1,9 @@
 ---
 title: "What gets measured gets manipulated"
 date: "2017-05-02"
-categories: 
+categories:
   - "measurement"
+description: Or, what baseball can teach us about KPI-driven development.
 ---
 
  
@@ -30,9 +31,9 @@ The adoption of the Save stat led to the creation of new, specialized role on ba
 Here’s the problem. Let’s say a team’s closer is their most effective relief pitcher. Is the ninth inning in a close game the best time to deploy him? Probably not. Think about these two situations:
 
 1. In the seventh inning, a team is up by a run. The starting pitcher loads the bases with nobody out, with the opponent’s best hitter coming to the plate.
-    
+
 2. In the ninth inning, a team is up by a run. There is nobody out and there is nobody on base.
-    
+
 
 Where does it make the most sense to put in your best pitcher? I guess the argument is that in the latter case, the pitcher’s team has a smaller opportunity to catch up if there’s a run allowed. But if the batter in the former case hits a home run, the pitcher’s team has a much bigger deficit to overcome. I’d rather have my best pitcher handle the first situation.
 
