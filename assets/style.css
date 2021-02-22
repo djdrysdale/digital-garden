@@ -35,7 +35,7 @@ body {
 }
 
 .page-header nav a:not(:hover):not(:focus) {
-    color: var(--accent);
+    color: #0076BA;
     text-decoration: none;
 }
 
@@ -70,6 +70,7 @@ a[href]:hover {
 a[href]:focus {
     outline: 2px solid var(--accent);
     outline-offset: 4px;
+    color: #0076BA;
 }
 
 .footnotes {
@@ -195,8 +196,4 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
-}
-
-a {
-  color: #0076BA;
 }
