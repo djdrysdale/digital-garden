@@ -35,7 +35,7 @@ body {
 }
 
 .page-header nav a:not(:hover):not(:focus) {
-    color: currentColor;
+    color: var(--accent);
     text-decoration: none;
 }
 
