@@ -169,6 +169,12 @@ small {font-size: 0.8em;}
   text-align:center;
 }
 
+.jumbotron-image {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .nav-item {
   font-family: 'Nunito Sans', sans-serif;
   font-size: 1.25em;
