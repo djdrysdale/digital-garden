@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: notes
 title: Notes
 pagination:
   data: collections.notes
