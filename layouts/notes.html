@@ -8,16 +8,30 @@ pagination:
 ---
 
    <div class="row py-4">
+     <ul>
+     {% for post in pagination.items %}
+       <div class="row">
+            <li>
+             <h3><a href="{{ post.url }}">{{ note.data.title }}</a></h3>
+             <p>{{ note.data.description }}</p>
+             <a href="{{ post.url }}">Read more...</a>
+            </li>
 
-     <div class="card-group">
-       {% for post in pagination.items %}
-         <div class="card">
-           <div class="card-body">
-             <p class="card-text">{{ post.data.title }}</p>
-             <p class="card-text"><small class="text-muted"><a href="{{ post.url }}">Read more...</a></small></p>
-           </div>
-         </div>
-      {% endfor %}
+       </div>
+       <hr>
+     {% endfor %}
+
+
+   <center>
+
+   {% if pagination.href.previous %}
+     <a href="{{pagination.href.previous}}">Previous</a>
+   {% endif %}
+
+   {% if pagination.href.next %}
+     <a href="{{pagination.href.next}}">Next</a>
+   {% endif %}
+   </center>
 
   <!--
      <div class="row">
