@@ -29,49 +29,6 @@ pagination:
 
 
 
-
-
-     <!--
-          <div class="container container-fluid">
-            <div class="row py-4">
-              <div class="row">
-                <div class="col-md-8 px-0 mx-auto">
-                  <article>
-                      {{content}}
-                  </article>
-                </div>
-              </div>
-
-            </div>
-     -->
-     <!--
-            <div class="card-deck">
-              {% for item in pagination.items %}
-              <div class="card">
-                <img class="card-img-top" src="..." alt="Card image cap">
-                <div class="card-body">
-                  <p class="card-text">{{ post.data.title }}</p>
-                </div>
-              </div>
-              {% end for %}
-            </div>
-
-          </div>
-
-          <center>
-
-          {% if pagination.href.previous %}
-            <a href="{{pagination.href.previous}}">Previous</a>
-          {% endif %}
-
-          {% if pagination.href.next %}
-            <a href="{{pagination.href.next}}">Next</a>
-          {% endif %}
-          </center>
-     -->
-
-
-
      {% for post in pagination.items %}
        <div class="row">
          <div class="col-md-8 px-0 mx-auto">
