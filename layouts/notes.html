@@ -7,10 +7,10 @@ pagination:
   reverse: true
 ---
 
-   <div class="row py-4">
+   <div class="row py-4 notes">
      <ul>
      {% for post in pagination.items %}
-       <div class="row notes">
+       <div class="row">
             <li>
              <p>{{ note.data.title }}</p>
              <a href="{{ post.url }}">Read more...</a>
