@@ -161,6 +161,9 @@ small {font-size: 0.8em;}
     display: block;
 }
 
+div .notes {
+   column-count: 2;
+}
 /* Bootstrap modifications */
 
 .jumbotron {
