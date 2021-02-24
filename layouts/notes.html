@@ -7,20 +7,19 @@ pagination:
   reverse: true
 ---
 
-   <div class="row py-4 newspaper">
-     <ul>
-       {% for post in pagination.items %}
-         <div class="row">
-              <li>
-               <p>{{ note.data.title }}</p>
-               <a href="{{ post.url }}">Read more...</a>
-              </li>
-
-         </div>
-         <hr>
-       {% endfor %}
-     </ul>
-</div>
+   <div class="row py-4">
+     <div class="col-12 container" style="height: 350px;">
+       <ul class="list-unstyled row">
+         {% for post in pagination.items %}
+                <li>
+                 <p>{{ note.data.title }}</p>
+                 <a href="{{ post.url }}">Read more...</a>
+                </li>
+           <hr>
+         {% endfor %}
+       </ul>
+     </div>
+    </div>
 
    <center>
 
