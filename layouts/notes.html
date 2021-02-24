@@ -8,20 +8,26 @@ pagination:
 ---
 
    <div class="row py-4">
-     <div class="col-12 container" style="height: 350px;">
-       <ul class="list-unstyled row">
-         {% for post in pagination.items %}
-                <li class="list-item col-6 border-top py-2">
-                 <p>{{ note.data.title }}</p>
-                 <a href="{{ post.url }}">Read more...</a>
-                </li>
-         {% endfor %}
-       </ul>
-     </div>
+     <div class="card-group">
+       <div class="col-12 container" style="height: 350px;">
+           {% for post in pagination.items %}
+            <div class="card">
+              <div class="card-body col-6 border-bottom py-2">
+                <p class="card-text">
+                   {{ note.data.title }}
+                </p>
+                 <p>
+                   <a href="{{ post.url }}">Read more...</a>
+                </p>
+              </div>
+            </div>
+            {% endfor %}
+       </div>
     </div>
+</div>
 
-   <div class="row py-4">
-     <center>
+ <div class="row py-4">
+   <center>
 
      {% if pagination.href.previous %}
        <a href="{{pagination.href.previous}}">Previous</a>
@@ -30,7 +36,8 @@ pagination:
      {% if pagination.href.next %}
        <a href="{{pagination.href.next}}">Next</a>
      {% endif %}
-     </center>
+     
+    </center>
   </div>
 
   <!--
