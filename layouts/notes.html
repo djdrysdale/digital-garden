@@ -9,16 +9,17 @@ pagination:
 
    <div class="row py-4 newspaper">
      <ul>
-     {% for post in pagination.items %}
-       <div class="row">
-            <li>
-             <p>{{ note.data.title }}</p>
-             <a href="{{ post.url }}">Read more...</a>
-            </li>
+       {% for post in pagination.items %}
+         <div class="row">
+              <li>
+               <p>{{ note.data.title }}</p>
+               <a href="{{ post.url }}">Read more...</a>
+              </li>
 
-       </div>
-       <hr>
-     {% endfor %}
+         </div>
+         <hr>
+       {% endfor %}
+     </ul>
 </div>
 
    <center>
