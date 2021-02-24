@@ -8,10 +8,10 @@ pagination:
 ---
 
     <div class="row py-4">
-      {% for post in pagination.items %}
+      {% for note in pagination.items %}
         <div class="card-body col-12 col-md-6 border-bottom py-2">
           <p class="card-text">
-            {{ post.data.title }}
+            {{ note.data.title }}
           </p>
           <p>
             <a href="">Read more...</a>
