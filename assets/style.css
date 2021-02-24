@@ -201,11 +201,7 @@ img {
   height: auto;
 }
 
-.twoColumns{
-    -webkit-column-gap: 20px;
-       -moz-column-gap: 20px;
-            column-gap: 20px;
-    -webkit-column-count: 2;
-       -moz-column-count: 2;
-            column-count: 2;
+.newspaper {
+  column-count: 3;
+  column-width: 100px;
 }
