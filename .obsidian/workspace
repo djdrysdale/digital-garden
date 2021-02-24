@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/A scene comprises large-scale and small-scale structures.md",
+            "file": "notes/_Index.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/A scene comprises large-scale and small-scale structures.md",
+                "file": "notes/_Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +86,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "notes/_Index.md",
     "notes/A scene has comprises a large-scale structure and a small-scale structure.md",
     "notes/§ Branding.md",
     "notes/_Symbols.md",
-    "notes/_Index.md",
     "notes/_About.md",
     "notes/Build randomness into knowledge generation systems.md",
     "notes/≈ Muller - The Tyranny of Metrics.md"

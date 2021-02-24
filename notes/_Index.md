@@ -26,6 +26,7 @@
 - [[≈ King and Kay - Radical Uncertainty]]
 - [[≈ Lakoff and Johnson - Metaphors We Live By]]
 - [[≈ Shiller - Narrative Economics]]
+- [[§ Writing]]
 
 ## Strategy
 - [[§ Digital transformation]]

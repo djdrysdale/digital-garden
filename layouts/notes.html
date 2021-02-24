@@ -10,12 +10,14 @@ pagination:
     <div class="row py-4">
       {% for note in pagination.items %}
         <div class="card-body col-12 col-md-6 border-bottom py-2">
-          <p class="card-text">
-            {{ note.data.title }}
-          </p>
-          <p>
-            <a href="{{ note.url }}">Read more...</a>
-          </p>
+          <div class="paddedCol">
+            <p class="card-text">
+              {{ note.data.title }}
+            </p>
+            <p>
+              <a href="{{ note.url }}">Read more...</a>
+            </p>
+          </div>
         </div>
       {% endfor %}
     </div>

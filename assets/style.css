@@ -201,7 +201,6 @@ img {
   height: auto;
 }
 
-.newspaper {
-  column-count: 3;
-  column-width: 100px;
+.paddedCol {
+  padding: 10px;
 }
