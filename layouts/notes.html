@@ -15,22 +15,23 @@ pagination:
                  <p>{{ note.data.title }}</p>
                  <a href="{{ post.url }}">Read more...</a>
                 </li>
-           <hr>
          {% endfor %}
        </ul>
      </div>
     </div>
 
-   <center>
+   <div class="row py-4">
+     <center>
 
-   {% if pagination.href.previous %}
-     <a href="{{pagination.href.previous}}">Previous</a>
-   {% endif %}
+     {% if pagination.href.previous %}
+       <a href="{{pagination.href.previous}}">Previous</a>
+     {% endif %}
 
-   {% if pagination.href.next %}
-     <a href="{{pagination.href.next}}">Next</a>
-   {% endif %}
-   </center>
+     {% if pagination.href.next %}
+       <a href="{{pagination.href.next}}">Next</a>
+     {% endif %}
+     </center>
+  </div>
 
   <!--
      <div class="row">
