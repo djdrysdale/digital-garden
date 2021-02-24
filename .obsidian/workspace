@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/§ Branding.md",
+            "file": "notes/A scene comprises large-scale and small-scale structures.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/§ Branding.md",
+                "file": "notes/A scene comprises large-scale and small-scale structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "notes/A scene has comprises a large-scale structure and a small-scale structure.md",
     "notes/§ Branding.md",
     "notes/_Symbols.md",
     "notes/_Index.md",

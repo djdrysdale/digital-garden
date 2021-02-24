@@ -11,7 +11,7 @@ pagination:
       {% for post in pagination.items %}
         <div class="card-body col-12 col-md-6 border-bottom py-2">
           <p class="card-text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+            {{ post.data.title }}
           </p>
           <p>
             <a href="">Read more...</a>
@@ -34,5 +34,3 @@ pagination:
 
     </center>
   </div>
-
-  
