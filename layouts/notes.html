@@ -9,9 +9,8 @@ pagination:
 
     <div class="row py-4">
 
-      <ul>
       {% for note in pagination.items %}
-        <li><div class="card-body col-12 col-md-6 border-bottom py-10 px-10">
+        <div class="card-body col-12 col-md-6 border-bottom py-10 px-10">
             <p class="card-text">
               {{ note.data.title }}
             </p>
@@ -21,7 +20,7 @@ pagination:
 
         </div>
       {% endfor %}
-      </ul>
+
     </div>
 
 
