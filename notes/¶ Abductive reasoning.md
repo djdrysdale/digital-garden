@@ -1,4 +1,9 @@
-Tags: #concept #refactor
+---
+Title: Abductive reasoning
+Date: 2021-02-26
+Description: Abductive reasoning infers a likely explanation based on novel, observed details
+Tags: concept
+---
 
 Interestingly, Sherlock Holmes is famously associated with the art of [[¶ Deductive reasoning|deduction]]. However, his methods typically illustrate a third type of reasoning, called abductive reasoning. Abductive reasoning describes the inference of the most likely explanation based on novel, observed details that do not fit an existing model. It's non-linear; it does not start with any suppositions or hypotheses, but starts from a state of openness to all forms of data and are then synthesized into a theory or theories. Theories, then, develop into an explanatory insight. 
 
@@ -11,12 +16,12 @@ CS Peirce suggested that abductive reasoning is the only mode of reasoning that 
 Roger Martin identifies a capacity for abductive reasoning as a key quality of integrative thought. 
 
 ---
-## Related
+#### Related
 - [[¶ Inductive reasoning]] develops a cogent position or hypothesis that is likely true given available data
 - [[¶ Deductive reasoning]] begins with a general theory and then tests against data to prove or disprove it
 - [[¶ OODA Loop]] is a decision-making concept that relies heavily on abductive reasoning in its observe and orient phases
 
-## Citations 
+#### Citations 
 [[≈ Ladner - Mixed Methods|Ladner, Sam. Mixed Methods: A Short Guide to Applied Mixed Methods Research. Sam Ladner, 2019.]]
 
 [[≈ Madsbjerg - Sensemaking|Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.]]

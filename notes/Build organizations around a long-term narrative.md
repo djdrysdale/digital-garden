@@ -1,4 +1,9 @@
-Tags: #perm
+---
+Title: Build organizations around a long-term narrative
+Date: 2021-02-26
+Description: Sustainable organizations benefit from having a long-term narrative strategy that aligns the organization around a common mission.
+Tags: literature
+---
 
 In order for an organization to be sustainable over the long term, it needs to have a long-term objective that it is working toward—a mission or vision that provides its reason for existence and animates all of its activities. Simon Sinek refers to this as the organization's "just cause": it helps orient the organization to longer horizons than the  quarterly or annual report and provides its people with a sense of purpose. Moreover, a "just cause" helps serve as a first filter against unethical or counter-productive ideas. Narratives [[Narratives enable us to act decisively in conditions of uncertainty|enable us to act decisively amid uncertainty]]; Sinek's concept applies this at an organization level and emphasizes how the "just cause," a kind of narrative, guides decision making and strategy. It may help [[Express strategy as simple rules|express strategy as simple rules]], as a kind of shorthand that guides action.
 

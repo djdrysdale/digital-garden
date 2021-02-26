@@ -1,4 +1,9 @@
-Tags: #lit 
+---
+Title: A scene comprises large-scale and small-scale structures
+Date: 2021-02-26
+Description: The large-scale structure of a scene may be that of a scene or a sequel; the small-scale structure comprises motivation-reaction units (MRUs).
+Tags: literature
+---
 
 A well-crafted scene comprises both a large-scale structure and a small-scale structure.
 
@@ -22,8 +27,8 @@ After the reaction should come another motivation.
 Each scene and sequel is a series of MRUs. 
 
 ---
-## Related
-- Link
+#### Related
+- [[§ Writing]]
 
-## Citations
+#### Citations
 Ingermanson, Randy. “Writing The Perfect Scene: Advanced Fiction Writing Tips.” _Advanced Fiction Writing_ (blog). Accessed January 9, 2021. [https://www.advancedfictionwriting.com/articles/writing-the-perfect-scene/](https://www.advancedfictionwriting.com/articles/writing-the-perfect-scene/).

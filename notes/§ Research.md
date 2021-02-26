@@ -1,4 +1,9 @@
-Tags: #moc 
+---
+Title: Research
+Date: 2021-02-26
+Description: Structure note mapping content related to research
+Tags: structure
+---
 
 ## General
 - [[Good research starts with a good question]]

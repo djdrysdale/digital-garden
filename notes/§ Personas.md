@@ -1,4 +1,9 @@
-Tags: #moc 
+---
+Title: Personas
+Date: 2021-02-26
+Description: Structure note mapping content related to personas
+Tags: structure
+---
 
 ## General information
 - [[¶ Persona]]

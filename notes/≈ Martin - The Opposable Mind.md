@@ -1,3 +1,10 @@
+---
+Title: The Opposable Mind by Roger L Martin
+Date: 2021-02-26
+Description: Successful leaders practice integrative thinking, a problem-solving approach that eschews simplification and binary models. 
+Tags: literature
+---
+
 ## About
 title: The Opposable Mind: How Successful Leaders Win Through Integrative Thinking
 author: [[Roger L. Martin]]

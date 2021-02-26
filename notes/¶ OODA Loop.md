@@ -1,4 +1,9 @@
-Tags: #concept 
+---
+Title: OODA Loop
+Date: 2021-02-26
+Description: The OODA Loop is a decision-making concept developed by military strategist John Boyd.
+Tags: concept
+---
 
 The OODA (observe, orient, decide, act) loop is a decision-making concept that was developed by military strategist John Boyd to describe the means by which an enemy can be defeated or a goal can be achieved even in the face of an imbalance of strength. Since its initial application in combat operations, it has been applied frequently in business, litigation, law enforcement, and other venues. 
 
@@ -27,7 +32,7 @@ To gain an advantage over an opponent, focus on the Orient phase. You can do thi
 - **Disrupt your opponent's orientation** with false information that reinforce mistaken mental models and inhibiting their sensemaking capacity
 
 ---
-## Related
+#### Related
 - [[¶ Abductive reasoning]]
 - [[¶ Deductive reasoning]]
 - [[Strategic inflection points disrupt the underlying assumptions of a business or industry]]
@@ -35,7 +40,7 @@ To gain an advantage over an opponent, focus on the Orient phase. You can do thi
 - [[Winning strategies result from good sensemaking]]
 
 
-## Citations
+#### Citations
 - [[Chin - Much Ado About the OODA Loop]]
 - [[Chin - Good Synthesis is the Start of Good Sensemaking]]
 - [Farnam Street](https://fs.blog/2018/01/john-boyd-ooda-loop/)

@@ -1,4 +1,9 @@
-Tags: #lit 
+---
+Title: Sharp's 7 Rules of Marketing
+Date: 2021-02-26
+Description: In How Brands Grow, Sharp outlines what he claims are 7 scientific rules of marketing.
+Tags: literature
+---
 
 In *How Brands Grow*, Byron Sharp outlines what he claims are 7 "scientific" rules of marketing:
 
@@ -11,10 +16,10 @@ In *How Brands Grow*, Byron Sharp outlines what he claims are 7 "scientific" rul
 7) Be competitive: Don’t give consumers a reason not to buy. 
 
 ---
-## Related
+#### Related
 - [[Advertising is defensive]]
 - [[Focus marketing on new or light buyers rather than heavy buyers]]
 - [[A brand is a constellation of impressions that takes shape over time]]
 
-## Citations
+#### Citations
 Sharp, Byron. How Brands Grow: What Marketers Don’t Know. Illustrated edition. Oxford ; New York: Oxford University Press, 2010.

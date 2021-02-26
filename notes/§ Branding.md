@@ -1,3 +1,9 @@
+---
+Title: Branding
+Date: 2021-02-26
+Description: Structure note related to branding
+Tags: structure
+---
 ## What is branding?
 
 - [[¶ Brand]]

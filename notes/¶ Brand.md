@@ -1,4 +1,9 @@
-Tags: #concept 
+---
+Title: Brand
+Date: 2021-02-26
+Description: A brand is a holistic impression of an organization, service, or individual.
+Tags: concept
+---
 
 "Brand" is more than the colours, the imagery, the voice, or the *look* of that an organization or individual puts forward; "brand" describes the gestalt impression that develops through every point of contact an individual has with that brand. A brand is a constellation of impressions that accretes over time; it drives whatever expectations an individual might when engaging with the brand. 
 
@@ -7,8 +12,8 @@ Effective branding grows the value of a product or service to the organization o
 - [[Advertising changes the cultural meaning of products]]: People attach to brands that help them signify to others in particular ways and are therefore an expression of self-identity
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Citations
 Godin, Seth. “Define: Brand.” Seth’s Blog (blog), 2013. https://seths.blog/2009/12/define-brand/.

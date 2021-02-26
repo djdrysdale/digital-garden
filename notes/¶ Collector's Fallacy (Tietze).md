@@ -1,4 +1,9 @@
-Tags: #lit
+---
+Title: Collector's Fallacy (Tietze)
+Date: 2021-02-26
+Description: The collector mistakes possessing a fact or information for understanding it.
+Tags: concept
+---
 
 Knowing *about* something isn't the same as knowing something. Therein lies the root of "the collector's fallacy," a mistaken belief that by capturing information we have mastered it. 
 

@@ -1,4 +1,9 @@
-Tags: #lit 
+---
+Title: Buyers eliminate most options unconsciously
+Date: 2021-02-26
+Description: To cope with abundant choice in the market, buyers will unconsciously limit the range of their options before making a decision.
+Tags: literature
+---
 
 Most buyers do not consciously evaluate all of the options that are available to them. People cope with abundant choice by unconsciously eliminating options. Even prior to examining the available options, a buyer will reduce the number of options to a select few options that conform to their sense of what Byron Sharp calls "brand salience." 
 

@@ -1,4 +1,9 @@
-Tags: #refactor
+---
+Title: Base strategy on leading indicators
+Date: 2021-02-26
+Description: Relying on lagging indicators to develop strategy means you will be too slow to react to change. 
+Tags: literature
+---
 
 Many organizations rely too heavily on lagging indicators for their strategic decision-making—measurements that inform us about what has happened in the past rather than indicating what may happen in the future. Relying on lagging indicators for strategic decisions means you will react too late.
 
@@ -7,7 +12,7 @@ Leading indicators look very different from lagging indicators. They’re more q
 There is a roughly inverse relationship between strategic degrees of freedom and signal strength. In other words, the longer you wait to act on a signal, the fewer options you will have available to you. Early on, signals are weak, and it would be foolish to make a big move at that level of uncertainty. But, If you wait too long, the inflection point will be obvious, and you will be too late to take advantage. In the centre, where signal strength and degrees of freedom cross, is the period of optimum warning. It is vital to stay on top of signals to identify the right moment to act. 
 
 ---
-## Related:
+#### Related:
 - [[Inflection points reveal themselves first at the edges]]
 - [[Narratives generate real-world effects.]]
 - [[Our vision of the future is always constrained by our view of the past.]]
@@ -18,6 +23,6 @@ There is a roughly inverse relationship between strategic degrees of freedom and
 - [[Strategy is time-sensitive]]
 - [[Winning strategies result from good sensemaking]]
 
-## Citations
+#### Citations
 - [[McGrath - Seeing Around Corners]]
 

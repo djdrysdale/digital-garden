@@ -1,3 +1,10 @@
+---
+Title: Radical Uncertainty by King and Kay
+Date: 2021-02-26
+Description: Situations of radical uncertainty cannot be resolved through probablistic thinking alone.
+Tags: literature
+---
+
 Tags: #lit #moc 
 
 - [[¶ Radical uncertainty (King and Kay)]]

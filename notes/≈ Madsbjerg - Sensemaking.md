@@ -1,3 +1,10 @@
+---
+Title: Where Good Ideas Come From by Steven Johnson
+Date: 2021-02-26
+Description: A bias toward scientific or algorithmic thinking limits our ability to develop deep understanding and intuition.
+Tags: literature
+---
+
 ## About
 title: Sensemaking: The Power of the Humanities in the Age of the Algorithm
 author: Christian Madsbjerg

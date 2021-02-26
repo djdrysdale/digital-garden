@@ -1,3 +1,10 @@
+---
+Title: Metaphors We Live By by George Lakoff
+Date: 2021-02-26
+Description: Metaphors are conceptual tools that help us construct and interpret experience.
+Tags: literature
+---
+
 ## About
 title: Metaphors We Live By
 author: [[George Lakoff]] and [[Mark Johnson]]

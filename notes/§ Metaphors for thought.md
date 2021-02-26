@@ -1,4 +1,9 @@
-Tags: #moc 
+---
+Title: Metaphors for thought
+Date: 2021-02-26
+Description: A collection of metaphors related to thought, ideation, and innovation
+Tags: structure
+---
 
 A list of [[Metaphors structure our interpretation of the world|metaphors]] for thoughts, ideas, and innovation
 
@@ -7,5 +12,3 @@ A list of [[Metaphors structure our interpretation of the world|metaphors]] for 
 - [[Ideas are constellations]]
 - [[Ideas are networks]]
 - [[Ideas are remixes]]
-
----

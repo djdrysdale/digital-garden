@@ -1,4 +1,9 @@
-Tags: #moc 
+---
+Title: Strategy
+Date: 2021-02-26
+Description: A collection of notes related to strategy
+Tags: structure
+---
 
 ## What is strategy
 - [[Strategy provides a framework for bridging the gap between the current state and an ideal state]]
@@ -43,10 +48,3 @@ Tags: #moc
 - See [[§ Resilient strategy]]
 - [[Winning strategies become best practices]]
 - [[Strategy is time-sensitive]]
-
----
-## Related
-- Link
-
-## Citations
-- Link

@@ -1,4 +1,9 @@
-#refactor
+---
+Title: The Signals Are Talking by Amy Webb
+Date: 2021-02-26
+Description: Amy Webb's methodology for spotting trends and discerning the future.
+Tags: literature
+---
 
 
 ## About

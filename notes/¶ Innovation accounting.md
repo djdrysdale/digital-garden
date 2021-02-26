@@ -1,4 +1,9 @@
-Tags: #lit 
+---
+Title: Innovation accounting
+Date: 2021-02-26
+Description: Innovation should be funded against specific, incremental goals.
+Tags: concept
+---
 
 Supporting innovation requires organizations adopt new methods of investment decision-making and innovation accounting. This means linking investing to specific, incremental goals rather than funding a long-term project up front.
 

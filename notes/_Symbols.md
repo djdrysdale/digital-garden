@@ -1,3 +1,9 @@
+---
+Title: Symbols I use
+Date: 2021-02-26
+Description: Summarizes some of the notes I use to organize my notes
+Tags: meta
+---
 # Symbols I use
 
 - § - Denotes a *structure* note, basically a note that organizes other notes (Opt-6)

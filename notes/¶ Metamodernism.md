@@ -1,4 +1,9 @@
-Tags: #concept #lit 
+---
+Title: Metamodernism
+Date: 2021-02-26
+Description: Metamodernism is a cultural mode associated primarily with the Age of the Internet.
+Tags: concept
+---
 
 Metamodernism, a cultural mode following modernism and postmodernism, describes a pattern of cultural philosophy emerged in the late twentieth century. The term was coined in 1975 by Mas'ud Zavarzade, but has become associated primarily with the Age of the Internet. 
 
@@ -7,8 +12,8 @@ According to theorists Timotheus Vermeulen and Robin van den Akker, metamodernis
 Metamodernism works often combine honesty with irony, and "remix" past cultural materials in new combinations. However, in contrast to postmodern pastiche, these works are usually produced with sincerity rather than cynicism. 
 
 ---
-## Related
+#### Related
 - 
 
-## Citations
+#### Citations
 Cunff, Anne-Laure Le. “An Introduction to Metamodernism: The Cultural Philosophy of the Digital Age.” *Ness Labs* (blog), December 12, 2019. https://nesslabs.com/metamodernism.

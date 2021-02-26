@@ -1,10 +1,15 @@
-Tags: #lit #concept 
+---
+Title: Paradox of the Present
+Date: 2021-02-26
+Description: Our judgment is biased by the needs and restrictions of the present.
+Tags: concept
+---
 
 The “paradox of the present” describes how our judgment is biased by the needs and restrictions of the present, making us misunderstand the potential of disruptive forces of change until it is too late. We need to be “chronologically ambidextrous,” Amy Webb writes, considerate of present needs as well as a moment far in the future. 
 
 ---
-## Related
+#### Related
 - [[Our vision of the future is always constrained by our view of the past.]]
 
-## Citations
+#### Citations
 [[≈ Webb - The Signals are Talking|Webb, Amy. The Signals Are Talking: Why Today’s Fringe Is Tomorrow’s Mainstream. New York: PublicAffairs, 2018.]]

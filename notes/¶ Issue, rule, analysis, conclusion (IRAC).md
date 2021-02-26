@@ -1,4 +1,9 @@
-Tags: #lit #concept #framework 
+---
+Title: Issue, rule, analysis, conclusion (IRAC)
+Date: 2021-02-26
+Description: IRAC is a method of legal analysis that is useful when one needs to find practical knowledge.
+Tags: concept
+---
 
 "Issue, rule, analysis, conclusion," or IRAC, is a methodology for legal analysis but one that is useful in any situation in which one needs to find practical knowledge. 
 
@@ -10,7 +15,8 @@ Tags: #lit #concept #framework
 This methodology seems functional for work involving [[Situations of radical uncertainty cannot be resolved through probabilistic thinking alone|situations of high uncertainty]] in general, where "wicked problems" require [[¶ Sensemaking (Madsbjerg)|sensemaking]] of diverse data and a problem cannot be easily reduced to [[Different kinds of uncertainty|expected certainty]] or probabilities.
 
 ---
-## Related
+#### Related
 - [[¶ OODA Loop]]
-## Citations
+
+#### Citations
 - [[≈ King and Kay - Radical Uncertainty|Kay, John, and Mervyn King. Radical Uncertainty: Decision-Making Beyond the Numbers. New York, NY: WW Norton, 2020.]]

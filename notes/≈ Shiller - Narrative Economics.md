@@ -1,3 +1,10 @@
+---
+Title: Narrative Economics by Robert J Shiller
+Date: 2021-02-26
+Description: Economic narratives spread like contagions, creating real-world economic effects. 
+Tags: literature
+---
+
 ## About
 title: Narrative Economics: How Stories Go Viral and Drive Major Economic Events
 author: Robert J. Shiller

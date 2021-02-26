@@ -1,3 +1,9 @@
+---
+Title: About these notes
+Date: 2021-02-26
+Description: A description of these notes
+Tags: meta
+---
 # About these notes
 Welcome to my digital notebook. 
 

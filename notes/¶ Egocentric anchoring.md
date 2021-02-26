@@ -1,4 +1,9 @@
-Tags: #lit #concept
+---
+Title: Egocentric anchoring
+Date: 2021-02-26
+Description: People base their views of others in comparison to themselves.
+Tags: concept
+---
 
 "Egocentric anchoring" is a term used to describe a phenomenon whereby one's view of an other begins by defining that other in relation to the self. An individual engaging in egocentric anchoring would look at another person or group and define them based on the degree of similarity or difference they exhibit compared to the observer's own self-identity. Any new information gathered about the other is evaluated against this initial assessment. 
 
@@ -8,8 +13,8 @@ Haag and Marsden have found that egocentric anchoring is difficult to overcome w
 Egocentric anchoring has long been identifies as a critical fallacy in design. An aversion to egocentric design is often expressed axiomatically as "you are not your user," to remind designers to begin from the needs of the other rather than designing based on their own needs and preferences. Designers implement [[Methods to overcome the limitations of personas|a number of techniques and processes]] to mitigate the risks of egocentric anchoring, including [[§ Personas|personas]].
 
 ---
-## Related
+#### Related
 - [[§ Personas]]
 
-## Citations
+#### Citations
 Haag, Maren, and Nicola Marsden. “Exploring Personas as a Method to Foster Empathy in Student IT Design Teams.” *International Journal of Technology and Design Education*, April 24, 2018. https://doi.org/10.1007/s10798-018-9452-5.

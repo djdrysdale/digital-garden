@@ -1,4 +1,9 @@
-Tags: #concept 
+---
+Title: Principle of Atomicity
+Date: 2021-02-26
+Description: Knowledge management should articulate single, contained, atomic insights.
+Tags: concept
+---
 
 The principle of atomicity is a governing idea of the *[[§ Zettelkasten|zettelkasten]]* method of notetaking and knowledge management. 
 
@@ -9,12 +14,12 @@ Decomposing a text or concept in this fashion helps [[Decontextualize ideas to m
 But, notes should not be so narrowly focused that they become fragments. If notes are too granular, they may lack context. Be kind to your future self: write notes so that they are completely understandable without need for additional references. 
 
 ---
-## Related
+#### Related
 - [[Ideas are constellations]]
 - [[People fill information gaps with assumptions]]
 - [[Writing is thinking]]
 
-## Citations
+#### Citations
 Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. Sönke Ahrens, 2017.
 
 Matuschak, Andy. “Evergreen Notes Should Be Atomic.” Andyʼs working notes. Accessed October 10, 2020. https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic.

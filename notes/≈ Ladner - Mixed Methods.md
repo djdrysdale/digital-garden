@@ -1,3 +1,10 @@
+---
+Title: Mixed Methods by Sam Ladner
+Date: 2021-02-26
+Description: Quantitative and qualitative methods have complementary their strengths that emerge through their epistemological and ontological differences.
+Tags: literature
+---
+
 ## About
 title: Mixed Methods: A Short Guide to Applied Mix Methods Research
 author: Sam Ladner

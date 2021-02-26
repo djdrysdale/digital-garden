@@ -1,5 +1,9 @@
-Tags: #moc
-
+---
+Title: Writing
+Date: 2021-02-26
+Description: A collection of notes related to writing 
+Tags: structure
+---
 ## Write better
 - [[Give abstract concepts a human face]]
 - [[Show, don't tell]]
@@ -25,9 +29,3 @@ Tags: #moc
 
 ## Dialogue
 * [[Talking Heads Avoidance Device (Elizabeth George)]]
----
-## Related
-- Link
-
-## Citations
-- Link

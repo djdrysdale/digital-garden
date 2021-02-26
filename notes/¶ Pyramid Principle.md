@@ -1,4 +1,9 @@
-Tags: #concept 
+---
+Title: Pyramid Principle
+Date: 2021-02-26
+Description: A framework for organizing information popularized by Barbara Minto
+Tags: concept
+---
 
 The Pyramid Principle, popularized by McKinsey's Barbara Minto, is a framework for organizing information. 
 
@@ -47,6 +52,6 @@ However, if you fear pushback, you may use indirect storytelling to ease the aud
 - audiences who love data but are not impatient
 
 --- 
-## Citations
+#### Citations
 - https://strategyu.co/structure-your-ideas-pyramid-principle-part-1/
 - https://strategyu.co/pyramid-principle-part-2-communicate-top-down/

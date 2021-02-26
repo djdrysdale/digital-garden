@@ -1,3 +1,10 @@
+---
+Title: The Infinite Game by Simon Sinek
+Date: 2021-02-26
+Description: Mission-driven organizations who play an infinite game have a long-term advantage over those focused on short-term outcomes.
+Tags: literature
+---
+
 ## About
 title: The Infinite Game
 author: Simon Sinek

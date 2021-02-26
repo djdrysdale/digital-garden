@@ -1,4 +1,9 @@
-Tags: #moc
+---
+Title: Innovation
+Date: 2021-02-26
+Description: Structure note linking content related to innovation
+Tags: structure
+---
 
 ## What is innovation?
 - [[Corporate innovation means discovering sustainable new business models]]

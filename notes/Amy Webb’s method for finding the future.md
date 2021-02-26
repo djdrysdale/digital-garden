@@ -1,4 +1,9 @@
-Tags: #lit 
+---
+Title: Finding the future
+Date: 2021-02-26
+Description: Amy Webb's 6-step method for "finding the future" from The Signals Are Talking
+Tags: literature
+---
 
 Amy Webb's 6-step method for "finding the future": 
 
@@ -10,8 +15,8 @@ Amy Webb's 6-step method for "finding the future":
 6. Pressure-test your strategy to determine if it is in fact effective
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Citations
 [[≈ Webb - The Signals are Talking|Webb, Amy. The Signals Are Talking: Why Today’s Fringe Is Tomorrow’s Mainstream. New York: PublicAffairs, 2018.]]

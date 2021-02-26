@@ -1,4 +1,9 @@
-Tags: #lit
+---
+Title: Brainstorming surfaces available ideas
+Date: 2021-02-26
+Description: The apparatuses used for brainstorming facilitate the surfacing of existing, mentally available ideas, not new ones.
+Tags: literature
+---
 
 Brainstorming is a common suggestion whenever anyone is hunting for ideas. But brainstorming doesn't generate new thinking; it can only bring forward existing, readily available ideas. And it brings them up in their raw, unprocessed form. These aren't necessarily our best ideas. They're just the ones that are top of mind. They may not represent our own, original thought, or the idea best suited to the problem at hand; they're just what's most available to us.  
 
@@ -11,10 +16,10 @@ What's more, researchers have consistently found that brainstorming does not hel
 Ideally, you should never be in a position where you *have* to brainstorm. Instead, work on collecting and processing ideas into an always-available repository of ideas. 
 
 ---
-## Related 
+#### Related 
 - [[Knowledge work means transforming old ideas into new ones]]
 
-## Citations
+#### Citations
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]
 
 [[≈ Johnson - Where Good Ideas Come From|Johnson, Steven. Where Good Ideas Come from: The Seven Patterns of Innovation. London: Penguin, 2011.]]

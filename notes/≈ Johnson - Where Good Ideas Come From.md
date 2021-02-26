@@ -1,3 +1,10 @@
+---
+Title: Where Good Ideas Come From by Steven Johnson
+Date: 2021-02-26
+Description: Ideas don't emerge in a flash of insight, but through networks of adjacent possibilities.
+Tags: literature
+---
+
 ## About
 title: Where Good Ideas Come From: The Natural History of Innovation
 author: [[Steven Johnson]]

@@ -1,3 +1,10 @@
+---
+Title: Good Strategy Bad Strategy by Richard Rumelt
+Date: 2021-02-26
+Description: Strategy depends on a three-part kernel of a diagnosis, a guiding policy, and coordinated action.
+Tags: literature
+---
+
 ## About
 title: Good Strategy Bad Strategy: The Difference and Why It Matters
 author: Richard Rumelt

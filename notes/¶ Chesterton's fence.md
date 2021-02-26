@@ -1,4 +1,9 @@
-Tags: #concept 
+---
+Title: Chesterton's Fence
+Date: 2021-02-26
+Description: Chesterton's Fence is a heuristic that illustrates the importance of second-order thinking.
+Tags: concept
+---
 
 "Chesterton's Fence" is a heuristic used to illustrate the importance of second-order thinking. The name of the heuristic is a reference to a passage from G. K. Chesteron: 
 
@@ -9,10 +14,10 @@ Chesterton's Fence suggests the importance of thinking through the second-order 
 The original context of the quote is from *The Thing,* Chesterton's 1929 defense of Catholicism; it's very much a classically conservative argument, an admonition against reformers who, from Chesterton's point of view, demand change from a position of ignorance. Yet, as Rory Sutherland implies, it's advice that may be worth keeping in mind in the age of Silicon Valley and its insatiable appetite for disruption. 
 
 ---
-## Related
+#### Related
 - [[Design thinking promotes superficial ways of knowing]]
 
-## Citations
+#### Citations
 Parrish, Shane. “Chesterton’s Fence: A Lesson in Second Order Thinking.” Farnam Street (blog), March 9, 2020. https://fs.blog/2020/03/chestertons-fence/.
 
 Sutherland, Rory. “Watch out for Chesterton’s Fences." *The Spectator.* Accessed October 24, 2020. https://www.spectator.co.uk/article/watch-out-for-chesterton-s-fences.

@@ -1,3 +1,10 @@
+---
+Title: Pirates in the Navy by Tendayi Viki
+Date: 2021-02-26
+Description: Innovation in the enterprise must follow a different playbook than the one used by startups and disruptors. 
+Tags: literature
+---
+
 ## About
 title: Pirates in the Navy: How Innovators Lead Transformation
 author: [[Tendayi Viki]]

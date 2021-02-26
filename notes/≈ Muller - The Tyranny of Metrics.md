@@ -1,3 +1,10 @@
+---
+Title: The Tyranny of Metrics by Jerry Z Muller
+Date: 2021-02-26
+Description: Muller outlines how an obsession with metrics and measurement can be counterproductive and even risky.
+Tags: literature
+---
+
 ## About
 title: The Tyranny of Metrics
 author: Jerry Z. Muller

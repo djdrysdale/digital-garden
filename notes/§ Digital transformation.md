@@ -1,5 +1,9 @@
-Tags: #moc 
-
+---
+Title: Digital Transformation
+Date: 2021-02-26
+Description: Structure note mapping content related to digital transformation
+Tags: structure
+---
 
 ## Digital transformation in the context of rapid change 
 - [[Change happens gradually, then suddenly.]]

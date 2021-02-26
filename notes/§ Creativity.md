@@ -1,4 +1,9 @@
-Tags: #moc 
+---
+Title: Creativity
+Date: 2021-02-26
+Description: Structure note related to creativity
+Tags: structure
+---
 
 ## Creativity in groups
 - [[Cognitive diversity enhances team problem solving capabilities]]

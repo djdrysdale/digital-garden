@@ -1,4 +1,9 @@
-Tags: #lit #concept 
+---
+Title: Economic Narrative (Shiller)
+Date: 2021-02-26
+Description: An economic narrative is a contagious story that affects economic decision-making.
+Tags: concept
+---
 
 An "economic narrative" is a contagious story that has the potential to change how people make economic decisions, such as how, why, and where to invest; how much to spend and to save; and whether to buy a home or take a certain job. 
 
@@ -19,9 +24,9 @@ As Shiller puts it, "new contagious narratives cause economic events, and econom
 
 
 ---
-## Related
+#### Related
 - [[Narratives generate real-world effects.]]
 - [[Metaphors structure our interpretation of the world]]
 
-## Citation
+#### Citation
 Shiller, Robert J. *Narrative Economics: How Stories Go Viral and Drive Major Economic Events*. Princeton: Princeton University Press, 2019.

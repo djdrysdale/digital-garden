@@ -1,4 +1,9 @@
-Tags: #lit #concept
+---
+Title: Sensemaking (Madsjberg)
+Date: 2021-02-26
+Description: Sensemaking is a humanities-based approach to knowledge production derived from phenomenology. 
+Tags: concept
+---
 
 Sensemaking is a humanities-based approach to knowledge production that looks to build deep understanding of a people and what matters to them. It is derived heavily from phenomenology, particularly Martin Heidegger's notion of "being" as a filter through which we understand and interpret the world around us. 
 
@@ -11,9 +16,9 @@ Madsbjerg positions sensemaking in opposition to what he calls [[Cultural bias t
 Sensemaking helps us identify the most appropriate contexts for data collection, and then helps us bring that data together into a perspective on the world. It doesn't provide strict turn-by-turn directions, but a north star we can use to orient ourselves. 
 
 ---
-## Related
+#### Related
 - [[¶ Abductive reasoning]]
 - [[Different forms of empathy]]
 
-## Citation
+#### Citation
 Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.
