@@ -1,8 +1,8 @@
 ---
-Title: The Signals Are Talking by Amy Webb
-Date: 2021-02-26
-Description: Amy Webb's methodology for spotting trends and discerning the future.
-Tags: literature
+title: The Signals Are Talking by Amy Webb
+date: 2021-02-26
+description: Amy Webb's methodology for spotting trends and discerning the future.
+tags: literature
 ---
 
 
@@ -12,7 +12,7 @@ author: [[Amy Webb]]
 type: #Book
 link: https://www.goodreads.com/book/show/29502380-the-signals-are-talking?from_search=true&from_srp=true&qid=WWip2JB4o6&rank=1
 
-Tags: #lit #moc 
+tags: #lit #moc 
 
 ## Notes
 

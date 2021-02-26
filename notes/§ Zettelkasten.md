@@ -1,8 +1,8 @@
 ---
-Title: Zettelkasten
-Date: 2021-02-26
-Description: A set of notes related to the zettelkasten method of knowledge management
-Tags: structure
+title: Zettelkasten
+date: 2021-02-26
+description: A set of notes related to the zettelkasten method of knowledge management
+tags: structure
 ---
 
 "Zettelkasten" describes a method of [[Personal knowledge management|personal knowledge management]] inspired by prolific sociologist Niklas Luhmann.

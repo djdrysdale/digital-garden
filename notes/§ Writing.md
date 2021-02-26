@@ -1,8 +1,8 @@
 ---
-Title: Writing
-Date: 2021-02-26
-Description: A collection of notes related to writing 
-Tags: structure
+title: Writing
+date: 2021-02-26
+description: A collection of notes related to writing 
+tags: structure
 ---
 ## Write better
 - [[Give abstract concepts a human face]]

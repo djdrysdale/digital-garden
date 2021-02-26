@@ -1,8 +1,8 @@
 ---
-Title: Constellation (Shiller)
-Date: 2021-02-26
-Description: A constellation comprises multiple, mutually reinforcing narratives.
-Tags: concept
+title: Constellation (Shiller)
+date: 2021-02-26
+description: A constellation comprises multiple, mutually reinforcing narratives.
+tags: concept
 ---
 
 According to Robert Shiller, large-scale [[¶ Economic narrative (Shiller)|economic narratives]] may comprise many other, smaller narratives. Shiller calls these constellations: they are narratives that reinforce one another and are made more plausible by dint of their relationship to other narratives. No single economic event can be explained by just one economic narrative; they are not so easily explicable. Rather, they emerge in constellations. 

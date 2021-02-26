@@ -1,8 +1,8 @@
 ---
-Title: Egocentric anchoring
-Date: 2021-02-26
-Description: People base their views of others in comparison to themselves.
-Tags: concept
+title: Egocentric anchoring
+date: 2021-02-26
+description: People base their views of others in comparison to themselves.
+tags: concept
 ---
 
 "Egocentric anchoring" is a term used to describe a phenomenon whereby one's view of an other begins by defining that other in relation to the self. An individual engaging in egocentric anchoring would look at another person or group and define them based on the degree of similarity or difference they exhibit compared to the observer's own self-identity. Any new information gathered about the other is evaluated against this initial assessment. 

@@ -1,4 +1,4 @@
-Tags: #lit #refactor
+tags: #lit #refactor
 
  - One myth around innovation is that there are no bad ideas. This is not true. Innovative projects must continue to align with the larger business strategy. 
 - Another myth is that you can continually pivot until you find something that works. In the enterprise, some initiatives will inevitably need to be killed. 

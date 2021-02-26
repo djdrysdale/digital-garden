@@ -1,8 +1,8 @@
 ---
-Title: Deductive Reasoning
-Date: 2021-02-26
-Description: Deductive reasoning tests a general theory against gathered data.
-Tags: concept
+title: Deductive Reasoning
+date: 2021-02-26
+description: Deductive reasoning tests a general theory against gathered data.
+tags: concept
 ---
 
 In contrast to [[¶ Inductive reasoning|inductive research]], deductive research seeks to test a theory or hypothesis based on the observation of data. It begins with the general theory, and gathers data in order to validate or invalidate it. It necessarily leads to a concrete conclusion: the proposition is either true or it is false. Deductive research cannot increase human knowledge; it can only determine if existing knowledge is accurate. It can't be used to predict future events, or to provide insight into unobserved phenomena. 

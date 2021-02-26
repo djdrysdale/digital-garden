@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 Most brands appeal to the same people. According to Byron Sharp, there is little evidence that brand appeals to its own slice of niche buyers, e.g. the "price-conscious shopper" or "the strawberry ice cream fan." Any buyer might, in one situation or another, fall into another one of these supposedly distinct audiences. They're not meaningful identities.
 

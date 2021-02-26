@@ -1,8 +1,8 @@
 ---
-Title: A scene comprises large-scale and small-scale structures
-Date: 2021-02-26
-Description: The large-scale structure of a scene may be that of a scene or a sequel; the small-scale structure comprises motivation-reaction units (MRUs).
-Tags: literature
+title: A scene comprises large-scale and small-scale structures
+date: 2021-02-26
+description: The large-scale structure of a scene may be that of a scene or a sequel; the small-scale structure comprises motivation-reaction units (MRUs).
+tags: literature
 ---
 
 A well-crafted scene comprises both a large-scale structure and a small-scale structure.

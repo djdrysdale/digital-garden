@@ -1,8 +1,8 @@
 ---
-Title: Sensemaking (Madsjberg)
-Date: 2021-02-26
-Description: Sensemaking is a humanities-based approach to knowledge production derived from phenomenology. 
-Tags: concept
+title: Sensemaking (Madsjberg)
+date: 2021-02-26
+description: Sensemaking is a humanities-based approach to knowledge production derived from phenomenology. 
+tags: concept
 ---
 
 Sensemaking is a humanities-based approach to knowledge production that looks to build deep understanding of a people and what matters to them. It is derived heavily from phenomenology, particularly Martin Heidegger's notion of "being" as a filter through which we understand and interpret the world around us. 

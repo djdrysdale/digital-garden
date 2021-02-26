@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 Literature notes are notes that record anything from a text that you might want to use later. They should accurately and faithfully reflect the work you are consuming, but [[Make notes in your own words|translate the ideas into new words]] to help facilitate better understanding. 
 

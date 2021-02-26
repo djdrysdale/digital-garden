@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 The third part of Richard Rumelt's [[Strategy revolves around a diagnosis, a guiding policy, and coherent action.|kernel of strategy]] is coherent action. Coherent action is a set of coordinated activities, including resource allocations, initiatives, or projects that implement the [[Guiding policy is a general approach to overcoming a challenge|guiding policy]]. 
 

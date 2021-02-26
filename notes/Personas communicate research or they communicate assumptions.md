@@ -1,4 +1,4 @@
-Tags: #perm
+tags: #perm
 
 [[§ Personas]] should communicate insights generated through user research. If they contain information not uncovered through research, that information should be treated as an assumption and subject to research and evaluation. 
 

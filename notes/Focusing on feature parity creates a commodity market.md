@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 Striving for feature parity with competitors risks homogenizing the available solutions in the eyes of consumers. As options become interchangeable, they become commoditized; this, in turn, leads to declining prices as it becomes more difficult or impossible to compete on differentiating features between products. 
 

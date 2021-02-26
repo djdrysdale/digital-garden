@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 While ux researchers are generally less concerned with [[Qualitative researchers care more about data saturation than sample size|sample size]] than quantitative researchers, they should be mindful of strength of evidence. 
 

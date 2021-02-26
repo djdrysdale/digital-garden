@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Harry Dry's favourite landing page formula:
 

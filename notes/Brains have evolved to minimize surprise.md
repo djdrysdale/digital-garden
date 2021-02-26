@@ -1,8 +1,8 @@
 ---
-Title: Brains evolved to minimize surprise
-Date: 2021-02-26
-Description: The theory of predictive processing suggests that brains evolved to limit prediction error. 
-Tags: literature
+title: Brains evolved to minimize surprise
+date: 2021-02-26
+description: The theory of predictive processing suggests that brains evolved to limit prediction error. 
+tags: literature
 ---
 
 Neuroscientists who support the theory of "predictive processing" argue that our brains are designed to minimize average surprise, or prediction error. Our inquisitive drive is consistent with this, in that it leads us to probe, to discover, to identify areas of uncertainty and determine how to resolve them.  

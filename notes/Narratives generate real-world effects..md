@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 Narratives, alone or in constellation with one another, produce real-world effects. People use narratives to help them interpret events. As [[Kahnemann]] and Tversky outline in their model of the "representativeness heuristic," stories frame people's expectations and therefore inform how they will behave. 
 

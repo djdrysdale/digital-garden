@@ -1,8 +1,8 @@
 ---
-Title: Resilient strategy
-Date: 2021-02-26
-Description: Content and links related to the concept of resilient strategy
-Tags: structure
+title: Resilient strategy
+date: 2021-02-26
+description: Content and links related to the concept of resilient strategy
+tags: structure
 ---
 Resilient strategy is an idea I am kicking around that describes using strategy and foresight to promote sustainable businesses and organizations that are primed for resilience, durability, and longevity. Contrary to [[¶ Presentism]] sustainable strategy is a long game. 
 

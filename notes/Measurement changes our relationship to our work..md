@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 Measurement of our work transforms the way we relate to our work. Not everything we do is measurable; but, once our performance is tracked, rewarded, or disciplined based on quantitative performance, we begin to focus on the work that is easily measured, neglecting other elements of our roles. In other words, we sacrifice quality for countability. Measurement alienates us from the intrinsic motivations that draw us to our work and instead focuses us on extrinsic behaviour, which contributes to reduced satisfaction. 
 

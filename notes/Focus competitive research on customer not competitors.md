@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 A common practice in design and product research is to perform a feature-by-feature comparison between competitors. Sometimes, this is a heavy influence on the product roadmaps, under the supposition that feature parity is desirable or even critical to compete. 
 

@@ -1,8 +1,8 @@
 ---
-Title: The Elements of Story by Francis Flaherty
-Date: 2021-02-26
-Description: A manual on nonfiction writing from the NY Times story doctor.
-Tags: concept
+title: The Elements of Story by Francis Flaherty
+date: 2021-02-26
+description: A manual on nonfiction writing from the NY Times story doctor.
+tags: concept
 ---
 
 ## About

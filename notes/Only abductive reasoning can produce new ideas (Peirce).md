@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Charles Sanders Peirce suggested that only [[¶ Abductive reasoning|abductive reasoning]] can produce new ideas. As Madsbjerg recounts, Peirce argues that only this kind of non-linear thinking, which develops educated guesses after observing phenomena with no set explanation, is capable of generating creative insights. This is because abductive thinking begins without any preconceptions about what is known or unknown; it begins with a state of openness to data and information from a wide variety of sources. As patterns emerge and are identified, theories are allowed to emerge; these, then, can turn into a new insight. 
 

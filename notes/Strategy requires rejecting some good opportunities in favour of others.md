@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Strategy means saying no. It's as much about what you don't do as what you do. Strategy requires that we make hard choices; a strategic leader must be willing to choose from among competing options, many of which may be viable. 
 

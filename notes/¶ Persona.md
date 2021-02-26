@@ -1,8 +1,8 @@
 ---
-Title: User Persona
-Date: 2021-02-26
-Description: A user persona is a research artifact describing patterns of behaviour, needs, and attributes of users.
-Tags: concept
+title: User Persona
+date: 2021-02-26
+description: A user persona is a research artifact describing patterns of behaviour, needs, and attributes of users.
+tags: concept
 ---
 
 User personas are research artifacts that describe patterns of needs, behaviour, and attributes of users. Usually presented as a character or a description of a specific, individual user, personas are commonly used to help product design teams understand and empathize with likely users. Personas draw attention to some aspects of the user and make concrete the abstract findings of research. 

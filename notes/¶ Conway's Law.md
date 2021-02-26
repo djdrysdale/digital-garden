@@ -1,8 +1,8 @@
 ---
-Title: Conway's Law
-Date: 2021-02-26
-Description: Organizations construct systems that replicate their own communications structures.
-Tags: concept
+title: Conway's Law
+date: 2021-02-26
+description: Organizations construct systems that replicate their own communications structures.
+tags: concept
 ---
 
 Conway's Law, coined in 1967 by programmer Melvin Conway, states that organizations create systems that mirror their internal communications structures. That is, the system is isomorphic to the conditions of its creation.

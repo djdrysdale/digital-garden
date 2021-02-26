@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Economists often work from an assumption that people are rational actors who seek to make optimal decisions. But as [[≈ King and Kay - Radical Uncertainty|King and Kay]] write, "real households, real businesses, and real governments do not optimize; they cope." 
 

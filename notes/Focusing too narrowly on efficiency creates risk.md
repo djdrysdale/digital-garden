@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 A narrow focus on efficiency can expose us to [[risk]]: for example, we may neglect second-order effects of a change introduced for the sake of efficiency. [[Sutherland - Alchemy|Rory Sutherland]] uses the example of a doorman: from an efficiency expert's perspective, a doorman might serve only open doors, a task that is easily automated. But, this neglects the ways in which a doorman might signal the status of a hotel, to say nothing of the additional functions they serve in terms of security, or handling the mail. Automating the doorman seems like an obvious way to cut costs; but, a great deal more is lost that may not even appear on the ledger sheet. Indeed, Sutherland claims that efficiency is over-valued by economists and "bean-counters"; when it comes to a product or experience, consumers may prefer something that is inefficient if the experience is more pleasurable. For example, a consumer may choose a more comfortable train ride over one that is faster. 
 

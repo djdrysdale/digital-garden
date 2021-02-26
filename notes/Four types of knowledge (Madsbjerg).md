@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Madsbjerg identifies four types of knowledge: 
 

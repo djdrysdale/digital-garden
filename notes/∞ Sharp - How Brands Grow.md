@@ -1,8 +1,8 @@
 ---
-Title: How Brands Grow by Byron Sharp
-Date: 2021-02-26
-Description: Sharp challenges the conventional wisdom and best practices of marketing.
-Tags: literature
+title: How Brands Grow by Byron Sharp
+date: 2021-02-26
+description: Sharp challenges the conventional wisdom and best practices of marketing.
+tags: literature
 ---
 
 ## About

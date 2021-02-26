@@ -1,8 +1,8 @@
 ---
-Title: Innovation theater
-Date: 2021-02-26
-Description: Innovation theater goes through the motions without delivering.
-Tags: concept
+title: Innovation theater
+date: 2021-02-26
+description: Innovation theater goes through the motions without delivering.
+tags: concept
 ---
 
 Innovation theater is the creation of shiny workspaces that don't actually produce results. It may be characterized by innovation labs or teams that go through the motions of innovation without ever producing a [[Corporate innovation means discovering sustainable new business models|sustainable business model]]. 

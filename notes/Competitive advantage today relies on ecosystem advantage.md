@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 Competitive advantage no longer comes from lower costs or product differentiation. Today, the advantage lies in building an ecosystem of complementary, connected products that deliver network effects while increasing switching costs. 
 

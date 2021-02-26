@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 The purpose of qualitative research is to build a deep understanding of the problem space. Qualitative researchers are looking to understand *why* a phenomenon might exist, and to understand how people relate to a phenomenon. As Schuler puts it, qualitative research helps us understand things we don't already know, how people think and feel, and the factors that inform their behaviour. 
 

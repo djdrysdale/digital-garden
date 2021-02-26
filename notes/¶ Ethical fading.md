@@ -1,8 +1,8 @@
 ---
-Title: Ethical Fading
-Date: 2021-02-26
-Description: Accepting small transgressions makes it easier to accept subsequent trangressions.
-Tags: concept
+title: Ethical Fading
+date: 2021-02-26
+description: Accepting small transgressions makes it easier to accept subsequent trangressions.
+tags: concept
 ---
 
 "Ethical fading" describes the cumulative result of accepting many small transgressions because they serve some short-term need. These many small acts accrue, and [[Organizations have become primarily focused on short-term results|may compromise long-term success]]. Furthermore, each small transgression makes the next easier to accept. 

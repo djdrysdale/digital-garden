@@ -1,8 +1,8 @@
 ---
-Title: Presentism
-Date: 2021-02-26
-Description: Presentism describes a resistance to future thinking in favour of a focus on the immediate moment.
-Tags: concept
+title: Presentism
+date: 2021-02-26
+description: Presentism describes a resistance to future thinking in favour of a focus on the immediate moment.
+tags: concept
 ---
 
 "Presentism" is a term coined by historian François Hartag to describe a resistance to long-term, future-forward thinking in favour of a focus on the immediate moment. In Hartag's words, presentism is "the sense that only the present exists, a present characterized at once by the tyranny of the instant and by the treadmill of an unending now" (qtd. in Fisher). 

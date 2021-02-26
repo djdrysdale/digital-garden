@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 The rise of computing in the mid- to-late twentieth century have provided a new vocabulary for discussing cognition. Increasingly, the computer has become the dominant metaphor through which people understand thinking. For example, Ray Kurzweil’s pattern recognition theory of mind understands our neocortex as an algorithmic function. This metaphor continues to inform our understanding of how humans process the world.
 

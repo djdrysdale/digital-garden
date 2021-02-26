@@ -1,8 +1,8 @@
 ---
-Title: Martec's Law
-Date: 2021-02-26
-Description: Martec's Law describes the discrepancy between paces of change in technologies and organizations
-Tags: concept
+title: Martec's Law
+date: 2021-02-26
+description: Martec's Law describes the discrepancy between paces of change in technologies and organizations
+tags: concept
 ---
 
 Martec's law describes a conflict between the pace at which technology changes and the pace at which organizations change. To whit, technology changes at an exponential rate, while organizations change at a logarithmic rate. This can create [[If two parts of a system move at different rates, it can create conflict|conflict]] within the organization, as it must strive to keep up with a world that changes more quickly than it can adjust to it. 

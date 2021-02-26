@@ -1,8 +1,8 @@
 ---
-Title: Abductive reasoning
-Date: 2021-02-26
-Description: Abductive reasoning infers a likely explanation based on novel, observed details
-Tags: concept
+title: Abductive reasoning
+date: 2021-02-26
+description: Abductive reasoning infers a likely explanation based on novel, observed details
+tags: concept
 ---
 
 Interestingly, Sherlock Holmes is famously associated with the art of [[¶ Deductive reasoning|deduction]]. However, his methods typically illustrate a third type of reasoning, called abductive reasoning. Abductive reasoning describes the inference of the most likely explanation based on novel, observed details that do not fit an existing model. It's non-linear; it does not start with any suppositions or hypotheses, but starts from a state of openness to all forms of data and are then synthesized into a theory or theories. Theories, then, develop into an explanatory insight. 

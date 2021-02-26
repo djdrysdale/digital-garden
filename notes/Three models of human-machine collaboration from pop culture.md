@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Alexis Lloyd uses pop culture to think about three models for human-machine collaboration
 

@@ -1,8 +1,8 @@
 ---
-Title: Personas
-Date: 2021-02-26
-Description: Structure note mapping content related to personas
-Tags: structure
+title: Personas
+date: 2021-02-26
+description: Structure note mapping content related to personas
+tags: structure
 ---
 
 ## General information

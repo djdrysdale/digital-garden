@@ -1,4 +1,4 @@
-Tags: #perm #refactor 
+tags: #perm #refactor 
 
 Personas have a number of shortcomings: 
 

@@ -1,8 +1,8 @@
 ---
-Title: Skeumorphism
-Date: 2021-02-26
-Description: The creation of an object or design whose elements hearken to attributes of some other material.
-Tags: concept
+title: Skeumorphism
+date: 2021-02-26
+description: The creation of an object or design whose elements hearken to attributes of some other material.
+tags: concept
 ---
 
 Skeuomorphism describes the creation of an object or design that contains elements that hearken back to attributes or structures of some other material or technique. 

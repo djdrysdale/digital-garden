@@ -1,8 +1,8 @@
 ---
-Title: Chesterton's Fence
-Date: 2021-02-26
-Description: Chesterton's Fence is a heuristic that illustrates the importance of second-order thinking.
-Tags: concept
+title: Chesterton's Fence
+date: 2021-02-26
+description: Chesterton's Fence is a heuristic that illustrates the importance of second-order thinking.
+tags: concept
 ---
 
 "Chesterton's Fence" is a heuristic used to illustrate the importance of second-order thinking. The name of the heuristic is a reference to a passage from G. K. Chesteron: 

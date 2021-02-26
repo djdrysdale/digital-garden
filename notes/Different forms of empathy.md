@@ -1,4 +1,4 @@
-Tags: #perm
+tags: #perm
 
 "Empathy" is a complex, multifaceted concept that can often be applied in a reductive way, especially in the world of design and UX. 
 

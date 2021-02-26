@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Strategy provides a framework of principles and decisions that help the organization move closer to an idealized future state. Its purpose is to help guide the team along via the path that is most likely to ensure success en route to realizing the vision and accomplishing the mission of the organization. 
 

@@ -1,8 +1,8 @@
 ---
-Title: Sharp's 7 Rules of Marketing
-Date: 2021-02-26
-Description: In How Brands Grow, Sharp outlines what he claims are 7 scientific rules of marketing.
-Tags: literature
+title: Sharp's 7 Rules of Marketing
+date: 2021-02-26
+description: In How Brands Grow, Sharp outlines what he claims are 7 scientific rules of marketing.
+tags: literature
 ---
 
 In *How Brands Grow*, Byron Sharp outlines what he claims are 7 "scientific" rules of marketing:

@@ -1,8 +1,8 @@
 ---
-Title: Principle of Atomicity
-Date: 2021-02-26
-Description: Knowledge management should articulate single, contained, atomic insights.
-Tags: concept
+title: Principle of Atomicity
+date: 2021-02-26
+description: Knowledge management should articulate single, contained, atomic insights.
+tags: concept
 ---
 
 The principle of atomicity is a governing idea of the *[[§ Zettelkasten|zettelkasten]]* method of notetaking and knowledge management. 

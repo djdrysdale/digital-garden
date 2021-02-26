@@ -1,8 +1,8 @@
 ---
-Title: Brand
-Date: 2021-02-26
-Description: A brand is a holistic impression of an organization, service, or individual.
-Tags: concept
+title: Brand
+date: 2021-02-26
+description: A brand is a holistic impression of an organization, service, or individual.
+tags: concept
 ---
 
 "Brand" is more than the colours, the imagery, the voice, or the *look* of that an organization or individual puts forward; "brand" describes the gestalt impression that develops through every point of contact an individual has with that brand. A brand is a constellation of impressions that accretes over time; it drives whatever expectations an individual might when engaging with the brand. 

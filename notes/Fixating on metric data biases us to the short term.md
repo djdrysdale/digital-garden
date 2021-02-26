@@ -1,4 +1,4 @@
-Tags: #perm
+tags: #perm
 
 Measurement culture compels us to fixate on the short term even at the expense of longer-term goals and ambitions. Longer-term aims are by their nature more difficult to measure, and so we by nature subordinate these goals shorter-term ones that provide more immediate feedback.
 

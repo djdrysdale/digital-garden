@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 Strategy is a kind of narrative: it serves to [[Good strategy simplifies a complex problem space|simplify a complex situation]] in a way that [[Narrative helps the human mind make sense of events|make sense of complex and situations]] and [[Narratives enable us to act decisively in conditions of uncertainty|act amid uncertainty]]. 
 

@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 Personas tend to be shallow. They rely heavily on superficial demographic information but lack contextual information that indicates *why* the persona sought a solution to their problem in the first place. This gap leaves the brain unsatisfied: the narrative is incomplete. When the brain encounters these kinds of gaps, it subconsciously fills them in with assumptions to help explain causality. 
 

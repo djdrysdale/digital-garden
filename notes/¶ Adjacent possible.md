@@ -1,8 +1,8 @@
 ---
-Title: Adjacent possible
-Date: 2021-02-26
-Description: The adjacent possible possible immediate futures that are available from a given moment.
-Tags: concept
+title: Adjacent possible
+date: 2021-02-26
+description: The adjacent possible possible immediate futures that are available from a given moment.
+tags: concept
 ---
 
 The "adjacent possible" describes the open space of direction that the future may take—the realm of the possible that is available at a given moment. Greater change is possible, but unlikely to extend beyond the adjacent space. Innovation doesn't happen in leaps and bounds, but occurs through [[Innovation accrues in small, incremental steps.|small, incremental steps]]. When ideas skip too far ahead beyond the "adjacent possible," they're unlikely to be adopted in the short-term. This is what we would call an idea that is "ahead of its time." They've skipped too far past the adjacent possible. 

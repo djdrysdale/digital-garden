@@ -1,4 +1,4 @@
-Tags: #framework 
+tags: #framework 
 
 A "job story" is an alternative to the traditional user story format. In contrast to the user story, which foregrounds the [[¶ Persona|persona]] performing an action, a job story highlights the context in which the action is performed. 
 

@@ -1,8 +1,8 @@
 ---
-Title: Pirates in the Navy by Tendayi Viki
-Date: 2021-02-26
-Description: Innovation in the enterprise must follow a different playbook than the one used by startups and disruptors. 
-Tags: literature
+title: Pirates in the Navy by Tendayi Viki
+date: 2021-02-26
+description: Innovation in the enterprise must follow a different playbook than the one used by startups and disruptors. 
+tags: literature
 ---
 
 ## About
@@ -11,7 +11,7 @@ author: [[Tendayi Viki]]
 type: #Book
 link: https://www.goodreads.com/book/show/52166407-pirates-in-the-navy?from_search=true&from_srp=true&qid=PJ0lBUFBwP&rank=1
 
-Tags: #lit #moc
+tags: #lit #moc
 
 ## Summary
 Innovation within established organizations goes very differently than innovation in start-ups. Large organizations must typically deal with more rules, contend with finding new business models while supporting their existing ones, and work with and around entrenched cultures and attitudes. Innovating within an enterprise is not for the faint of heart. To succeed, innovators must deliver innovation that aligns with the company strategy and yields clear benefits. Building a series of small wins can help win over skeptics, and create opportunities to help transform the organization more broadly. 

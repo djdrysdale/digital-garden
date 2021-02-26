@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 The traditional approach to project planning is typified by the road map: a document that lists various initiatives that the organization intends to accomplish over a set period. In incumbent organizations, these often fit into the annual budgeting process and are used to help forecast costs and resourcing needs. 
 

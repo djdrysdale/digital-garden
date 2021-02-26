@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 Mental models are tools that help us more efficiently arrive at decisions: they filter information and give it narrative shape. But they always represent a particular lens. They help make meaning, but meaning comes at the expense of information. 
 

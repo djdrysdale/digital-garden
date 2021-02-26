@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 The futurist considers scenarios across three planes: the probable, or what is likely should current patterns continue; the plausible, based on what other experimentation is conceivable given what we know of the laws of science and humanity; and the possible, things that seem far-fetched today but may become possible in the future. 
 

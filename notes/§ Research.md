@@ -1,8 +1,8 @@
 ---
-Title: Research
-Date: 2021-02-26
-Description: Structure note mapping content related to research
-Tags: structure
+title: Research
+date: 2021-02-26
+description: Structure note mapping content related to research
+tags: structure
 ---
 
 ## General

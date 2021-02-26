@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Strategy is often framed as a choice or a system of choices; however, rarely will anyone be presented with a clear set of alternatives that they must decide between. 
 

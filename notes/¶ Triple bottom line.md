@@ -1,8 +1,8 @@
 ---
-Title: Triple Bottom Line
-Date: 2021-02-26
-Description: Organizations should be evaluated against their contributions to broader social factors.
-Tags: concept
+title: Triple Bottom Line
+date: 2021-02-26
+description: Organizations should be evaluated against their contributions to broader social factors.
+tags: concept
 ---
 
 The "triple bottom line" is a term coined by British consultant John Elkington to suggest that a business's impact should be measured across three planes: profit, people, and planet. Elkington introduces the notion that an organization should be evaluated not just in terms of the value it yields to shareholders (see the [[Friedman doctrine]]), which had been the predominant perspective for decades, but on broader social factors. The triple bottom line is an important idea in business sustainability. 

@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 In design, it can be tempting to rush to develop a prototype to get "real" feedback on an idea. Erika Hall posits that this is because a prototype, no matter how low fidelity, feels tangible: it provides physical, concrete evidence of progress. 
 

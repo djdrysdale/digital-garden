@@ -1,8 +1,8 @@
 ---
-Title: Jobs to be done (JTBD)
-Date: 2021-02-26
-Description: JTBD assumes that people engage with products or services to satisfy a fundamental need, or job.
-Tags: concept
+title: Jobs to be done (JTBD)
+date: 2021-02-26
+description: JTBD assumes that people engage with products or services to satisfy a fundamental need, or job.
+tags: concept
 ---
 
 Jobs to be done (JTBD) is a product development methodology that assumes that people only engage with products or services insofar as they help them satisfy some fundamental need, called a job. A "job" is a process of reaching some objective under given circumstances. It might be emotional, functional, or social. And, any given job may itself comprise many smaller jobs. 

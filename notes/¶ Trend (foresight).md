@@ -1,8 +1,8 @@
 ---
-Title: Trend
-Date: 2021-02-26
-Description: A trend is a manifestation of sustained change.
-Tags: concept
+title: Trend
+date: 2021-02-26
+description: A trend is a manifestation of sustained change.
+tags: concept
 ---
 
 Amy Webb defines a trend as “a new manifestation of sustained change…. A starting point that helps us to simultaneously meet the demands of the present while planning for the future.” Trends occur when basic human needs are met with a catalyzing technology. But, they can be difficult to spot, emerging as constellations

@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 It's a common practice to strive for feature parity with a competitor. If they launch a new feature, you rush to release something similar because, in theory, this lets you maintain your position in the marketplace.
 

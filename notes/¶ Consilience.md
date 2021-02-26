@@ -1,8 +1,8 @@
 ---
-Title: Consilience
-Date: 2021-02-26
-Description: Consilience describes the unity of knowledge among disparate disciplines.
-Tags: concept
+title: Consilience
+date: 2021-02-26
+description: Consilience describes the unity of knowledge among disparate disciplines.
+tags: concept
 ---
 
 In [[≈ Shiller - Narrative Economics|Narrative Economics]], Robert Shiller uses the word "consilience" to describe the unity of knowledge among disparate academic disciplines, particularly the sciences and the humanities. This is a metaphor from biology; biologist E. O. Wilson used the term for his concept of synthesizing knowledge from disparate fields.

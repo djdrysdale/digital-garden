@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 There are trade-offs between quantitative and qualitative methods; quant methods offer scale and focus on causation, but sacrifice coherence and focus. They demand more of the consumer of the research in terms of sensemaking. Qual methods, meanwhile, offer that coherence and focus, but lack scale and the same sense of causation. 
 

@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Cognitive biases are often dismissed disparagingly as being irrational—as errors to be overcome in the pursuit of more refined, logical thinking. 
 

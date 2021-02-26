@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Even strategy can be trendy. Popular strategies come and go. One organization succeeds, and its approach is repackaged by consultancies, adapted by competitors, and becomes adopted as a best practice. 
 

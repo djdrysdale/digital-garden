@@ -1,8 +1,8 @@
 ---
-Title: Paradox of the Present
-Date: 2021-02-26
-Description: Our judgment is biased by the needs and restrictions of the present.
-Tags: concept
+title: Paradox of the Present
+date: 2021-02-26
+description: Our judgment is biased by the needs and restrictions of the present.
+tags: concept
 ---
 
 The “paradox of the present” describes how our judgment is biased by the needs and restrictions of the present, making us misunderstand the potential of disruptive forces of change until it is too late. We need to be “chronologically ambidextrous,” Amy Webb writes, considerate of present needs as well as a moment far in the future. 

@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Jim McKelvey (founder of Square) advises that bias should be toward the minimum amount of [[§ Innovation|innovation]]: innovate when and where you have to, in those places where innovation is the only viable option. Copy where you can, McKelvey says; innovate where you must. 
 

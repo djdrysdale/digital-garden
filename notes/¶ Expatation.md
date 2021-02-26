@@ -1,8 +1,8 @@
 ---
-Title: Exaptation
-Date: 2021-02-26
-Description: A trait developed by an organism may be adapted to serve other purposes.
-Tags: concept
+title: Exaptation
+date: 2021-02-26
+description: A trait developed by an organism may be adapted to serve other purposes.
+tags: concept
 ---
 
 “Exaptation” describes how a trait developed by a given organism may be adapted for a completely different function than its original purpose. 

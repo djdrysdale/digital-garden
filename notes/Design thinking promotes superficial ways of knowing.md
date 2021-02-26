@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Design thinking privileges a kind of innocent mind state: expertise is a burden, and prevents the kind of innovative thinking that can come only from the novice mind. It professes empathy and user-centredness, but Christian Madsbjerg says that it does so in a superficial way—with knowledge acquired through brief, limited contact. Design thinking adopts the language of the humanities, but avoids deep understanding of context in favour of rigid rules, processes, and the collection of sticky notes. 
 

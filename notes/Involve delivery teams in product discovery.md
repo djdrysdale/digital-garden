@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 A common error committed by product organizations, Marty Cagan writes, is to separate discovery efforts from delivery efforts. Separating discovery and delivery into two activities occurs sometimes where the product leader believes it is their job to define "the requirements" to an implementation team. Not only does this create the risk of lost knowledge, but it can be damaging to morale insofar as it will make the delivery team feel "like mercenaries" who have little stake in the product being developed. Over the long-term, Cagan says, the make-up of the team will begin to self-select toward people who are willing to work this way, and may therefore be less effective than a truly invested team.
 

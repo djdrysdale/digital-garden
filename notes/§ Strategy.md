@@ -1,8 +1,8 @@
 ---
-Title: Strategy
-Date: 2021-02-26
-Description: A collection of notes related to strategy
-Tags: structure
+title: Strategy
+date: 2021-02-26
+description: A collection of notes related to strategy
+tags: structure
 ---
 
 ## What is strategy

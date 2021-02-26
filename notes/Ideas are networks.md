@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 Ideas are networks: they emerge as clusters of neurons firing together to form a conscious thought. A hunch may be the first, germinal stage of innovation; but, over periods of time, they accrue connections—mutating, evolving, growing stronger—until they catalyze into thought.
 

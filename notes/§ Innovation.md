@@ -1,8 +1,8 @@
 ---
-Title: Innovation
-Date: 2021-02-26
-Description: Structure note linking content related to innovation
-Tags: structure
+title: Innovation
+date: 2021-02-26
+description: Structure note linking content related to innovation
+tags: structure
 ---
 
 ## What is innovation?

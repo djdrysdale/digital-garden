@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 [[Qualitative researchers care more about data saturation than sample size]]. This makes it difficult to estimate up front how many samples or participants will be necessary for a qualitative study. 
 

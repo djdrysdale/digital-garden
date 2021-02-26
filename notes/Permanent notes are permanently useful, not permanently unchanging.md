@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 There's much confusion between "permanent" notes and "literature" notes in the zettelkasten world. In fact, permanent notes are not specially appointed by any means; a more productive way to think about it is to think of "permanent" as signifying "permanently useful," regardless of the originality of its content.
 

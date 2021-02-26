@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 In epistemology, there are generally four theories by which a claim may be evaluated as true. These are
 

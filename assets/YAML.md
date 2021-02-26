@@ -1,6 +1,6 @@
 ---
-Title: 
-Date: 
-Description: 
-Tags: 
+title: 
+date: 
+description: 
+tags: 
 ---

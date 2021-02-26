@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 An integrative thinker, according to Roger Martin, rejects binary frameworks and either/or decision-making, instead seeking synthesis between apparently opposed options. 
 

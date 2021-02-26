@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Organizations are attracted to the illusion of certainty: they are fundamentally risk-averse and will pursue tactics that they believe are sure things rather than pursue less knowable, but potentially more profitable, lines of inquiry. 
 

@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 A strategy is a hypothesis: based on [[Strategic diagnosis is a clear, honest description of the challenge at hand|a strategic diagnosis of the situation]], it proposes actions that are believed to create an advantage for the organization. 
 

@@ -1,4 +1,4 @@
-Tags: #perm
+tags: #perm
 
 Innovation doesn't typically happen in great leaps forward, or in sudden "eureka" moments of inspiration. More commonly, it accrues over time with small, incremental steps. 
 

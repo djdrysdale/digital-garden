@@ -1,8 +1,8 @@
 ---
-Title: Issue, rule, analysis, conclusion (IRAC)
-Date: 2021-02-26
-Description: IRAC is a method of legal analysis that is useful when one needs to find practical knowledge.
-Tags: concept
+title: Issue, rule, analysis, conclusion (IRAC)
+date: 2021-02-26
+description: IRAC is a method of legal analysis that is useful when one needs to find practical knowledge.
+tags: concept
 ---
 
 "Issue, rule, analysis, conclusion," or IRAC, is a methodology for legal analysis but one that is useful in any situation in which one needs to find practical knowledge. 

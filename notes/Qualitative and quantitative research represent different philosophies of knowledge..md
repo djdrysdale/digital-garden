@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 The difference between qualitative and quantitative research is more than the kinds or amount of data they work with. 
 

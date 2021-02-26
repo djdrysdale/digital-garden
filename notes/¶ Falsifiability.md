@@ -1,8 +1,8 @@
 ---
-Title: Falsifiability
-Date: 2021-02-26
-Description: Falsifiability describes the capacity of a statement to be be proven false.
-Tags: concept
+title: Falsifiability
+date: 2021-02-26
+description: Falsifiability describes the capacity of a statement to be be proven false.
+tags: concept
 ---
 
 *Faslifiability* describes the capacity of a statement to be proven false. For example, the presence of a black swan *falsifies* the statement "All swans are white." [[Karl Popper]] suggested that a focus on falsifiability may enable us to more quickly move from observation to scientific law. That is, it may be impossible to verify that all swans are white; however, finding a swan that is not white quickly invalidates the statement.  

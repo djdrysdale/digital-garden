@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 Read (and consume any information) with purpose: approaching a text with intention can help focus our attention on the most important information. Read looking for [[Take notes with connection in mind|connections]] with information you have already processed, and look explicitly for limitations, elisions, and contradictions. 
 

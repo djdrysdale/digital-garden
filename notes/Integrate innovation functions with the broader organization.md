@@ -1,4 +1,4 @@
-Tags: #perm #refactor
+tags: #perm #refactor
 
 Organizations need to consider how innovation fits into their org chart, including defining clear career paths for innovators. 
 

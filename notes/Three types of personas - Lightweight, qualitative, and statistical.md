@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 In general, there are three types of [[Personas document shared understanding about users|persona]]: proto-personas, qualitative personas, and statistical (or mixed-method) personas. 
 

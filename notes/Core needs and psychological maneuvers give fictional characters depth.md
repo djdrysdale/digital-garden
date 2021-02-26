@@ -1,4 +1,4 @@
- Tags: #lit     
+ tags: #lit     
 
 In *Mastering the Process: From Idea to Novel* Elizabeth George suggests that wo ingredients that help understand characters are their **core need** and their **psychopathology** or psychological maneuver. 
 

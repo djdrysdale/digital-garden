@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 An effective strategy is honest about the challenge ahead. Bad strategy skirts past the true nature of the challenge and its uncomfortable details in order to placate the interests of others. It tries to be everything to everyone, sweeping over difficulty with broad generalizations and the shiny language of blue-sky vision statements and empty buzzwords. 
 

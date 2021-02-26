@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Resilience, like happiness, has a modifiable set point. Resilience describes our ability to move forward in spite of adversity. While some have a greater capacity for resilience than others, it is possible to grow one's own, and others', capacity for resilience, according to research from the ADP Research Institute. 
 

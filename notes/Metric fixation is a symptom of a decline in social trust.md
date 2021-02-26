@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 Quantitative measurement of performance—of peoples, of organizations, of institutions—purports to provide accountability and transparency. But this heightened expectations for [[key performance indicators]] and metrics is a symptom of a broader erosion of social trust. It’s part of a broader [[¶ Economic narrative (Shiller)|economic narrative]] that tells us that human judgment is inherently fallible and untrustworthy; numbers provide the objective truth of the matter where human judgment cannot or will not. Numbers provide objective criteria by which to assess the performance of others and ourselves, while providing evidence to protect us accusations of mismanagement or poor [[decision-making]]. Often, we're less interested in the right decision than the defensible one; pointing to supposedly "scientific" or "objective" data helps on that score. 
 

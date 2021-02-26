@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 To be able to adapt quickly without losing cohesion, organizations need have a clear, common strategic objective, and trust the ability of its subordinates to execute toward that objective. The group must share a common outlook and approach as precondition of enabling freedom of action. 
 

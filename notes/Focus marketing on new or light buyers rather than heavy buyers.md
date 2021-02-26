@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 According to Byron Sharp, brands grow primarily by targeting new customers and rarely by extending their relationships with existing customers by cross-selling or introducing new uses for their products. Brands grow when they are good at acquiring new customers; they contract when they are not. 
 

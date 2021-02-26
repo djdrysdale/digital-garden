@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Strategy is action supported by argument. This is shaped by the kernel of strategy. 
 

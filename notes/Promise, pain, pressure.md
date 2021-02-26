@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 "Promise, pain, pressure" is an exercise that can be used to elicit from a team our group different perspectives on their product. 
 First, ask about the product's promise(s) to its different audiences, users, or target personas: "The promise our product makes to our customers is to be laser-focused on ___." 

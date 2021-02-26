@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 We tend to judge decisions or strategies by their outcome. If a decision leads to a poor result, say it was a bad choice. But we make this judgment with the benefit of knowing the outcome, information that wasn't available when the decision itself was made. And even the best decisions can yield a poor outcome, due to circumstances that are beyond or control or that we could never have predicted. 
 

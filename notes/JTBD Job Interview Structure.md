@@ -1,4 +1,4 @@
-Tags: #lit #framework 
+tags: #lit #framework 
 
 This interview structure can be used to uncover customer jobs-to-be-done. 
 

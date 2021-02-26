@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Innovation is management as much as it is creativity. It is hard work. Much of that work is stakeholder management. 
 

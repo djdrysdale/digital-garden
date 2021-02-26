@@ -1,4 +1,4 @@
-Tags: #lit #concept 
+tags: #lit #concept 
 
 Weak ties are strong. Steven Johnson suggests that weak ties help promote [[¶ Expatation|exaptation]] of ideas, and  force encounters with alternative “idea spaces.” 
 

@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 In science, entropy describes how a system comprised of smaller components tends toward disorder. Organizations, too, can experience entropy. Weakly managed organizations, in particular, may find themselves internally at odds. This forces leaders and managers to spend excessive time and energy building alignment between people and teams even when conditions under which there is little change. 
 

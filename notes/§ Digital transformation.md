@@ -1,8 +1,8 @@
 ---
-Title: Digital Transformation
-Date: 2021-02-26
-Description: Structure note mapping content related to digital transformation
-Tags: structure
+title: Digital Transformation
+date: 2021-02-26
+description: Structure note mapping content related to digital transformation
+tags: structure
 ---
 
 ## Digital transformation in the context of rapid change 

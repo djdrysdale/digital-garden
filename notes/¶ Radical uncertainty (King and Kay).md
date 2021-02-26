@@ -1,8 +1,8 @@
 ---
-Title: Radical Uncertainty (King and Kay)
-Date: 2021-02-26
-Description: A condition of uncertainty that is non-stationary and reflexive. 
-Tags: concept
+title: Radical Uncertainty (King and Kay)
+date: 2021-02-26
+description: A condition of uncertainty that is non-stationary and reflexive. 
+tags: concept
 ---
 
 "Radical uncertainty" is a term from King and Kay's book of the same name. They use it to describe a particular [[Different kinds of uncertainty|kind of uncertainty]] that is characterized by both non-stationarity (that is, it changes) and reflexivity (it may change in response to our beliefs about it). 

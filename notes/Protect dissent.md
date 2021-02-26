@@ -1,4 +1,4 @@
-Tags: #perm
+tags: #perm
 
 When planning or engaging in strategy work, we're subject to any number of cognitive biases that cloud or ability to objectively evaluate the odds of success. We're irrationally optimistic about the expected outcomes, but underestimate the cost of delivery. Groupthink makes us reluctant to voice a contrary opinion for fear of rocking the boat. In most organizations, dissenters are punished more than those who maintain the harmony of the group, even if the dissenters are right. 
 

@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 In [[≈ Johnson - Where Good Ideas Come From|Where Good Ideas Come From]], Steven Johnson cites Robert Darnton's account of how early modern readers in England didn’t simply consume ideas. They remixed them in their commonplace books and engaged with them by writing about them and recontextualizing them against information from other sources. 
 

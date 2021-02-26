@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 [[Winning strategies result from good sensemaking|The orientation phase is the most critical of the OODA cycle]]; the other phases are more or less instantaneous actions, whereas orientation is the space in which there is the greatest opportunity (as well as the greatest risk). Sensemaking means either developing a narrative from observed facts or applying an existing narrative (a mental model) to the situation.
 

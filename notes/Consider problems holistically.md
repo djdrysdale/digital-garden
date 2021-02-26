@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 When faced with complex problems, it's tempting to try to simplify. We want to immediately categorize the problem as being of a certain kind, or one that is soluble by the application of certain skills or techniques. Or, we look to subdivide the problem into its constituent parts, refactoring it into a series of discrete sub-problems that can be resolved in turn. But problems are often more than the some of their parts. There's a kind of synergy at play. 
 

@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Problem-solving involves identifying the salient features of a problem. This is a subjective activity; different thinkers will identify different matters of salience. 
 

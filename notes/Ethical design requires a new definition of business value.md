@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 "Good" design—in the sense of ethical design—is constrained by the context in which it is produced. Design work being performed in a corporate or profit-motivated environment, then, is limited by the outcomes that it's intended to produce. The role of design in a business is to deliver results that are also good for the business. 
 

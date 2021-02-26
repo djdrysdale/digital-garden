@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 A winning strategy is more about synthesis than analysis: it requires developing a new mental model or theory. [[¶ Deductive reasoning|Deductive analysis]] cannot produce the level of insight necessary to create a defensible moat. Strategy requires synthesizing an understanding of the “meta game” and adapting more quickly than the competition—not quickly following the [[Reading about strategy won't produce a winning strategy.|last successful strategy]].
 

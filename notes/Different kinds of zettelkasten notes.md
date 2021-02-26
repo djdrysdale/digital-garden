@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 In the [[§ Zettelkasten|zettelkasten]] method as described by [[≈ Ahrens - How to Take Smart Notes|Ahrens]], there are three kinds of notes: 
 

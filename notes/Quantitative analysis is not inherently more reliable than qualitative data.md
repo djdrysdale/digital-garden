@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 It’s naive to assume that quantitative analysis is inherently a more reliable or scientific than human judgment. Quantitative data, too, is the product of [[bias]]. 
 

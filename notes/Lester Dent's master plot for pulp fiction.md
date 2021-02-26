@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Prolific pulp writer Lester Dent (Doc Savage) outlines a simple master plot for crafting short (6000-word) stories. 
 

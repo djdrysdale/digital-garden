@@ -1,8 +1,8 @@
 ---
-Title: Creativity
-Date: 2021-02-26
-Description: Structure note related to creativity
-Tags: structure
+title: Creativity
+date: 2021-02-26
+description: Structure note related to creativity
+tags: structure
 ---
 
 ## Creativity in groups

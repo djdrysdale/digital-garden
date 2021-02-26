@@ -1,4 +1,4 @@
-Tags: #framework 
+tags: #framework 
 
 UX research methods can be organized according to a 3-dimensional framework with the following axes:
 

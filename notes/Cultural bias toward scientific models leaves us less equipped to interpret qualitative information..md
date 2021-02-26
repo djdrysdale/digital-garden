@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 Our culture is currently biased toward [[Objectivism assumes a concrete, knowable world|science, math, and engineering]] as modes of producing new knowledge, often at the expense of the humanities. 
 

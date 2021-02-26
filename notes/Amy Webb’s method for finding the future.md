@@ -1,8 +1,8 @@
 ---
-Title: Finding the future
-Date: 2021-02-26
-Description: Amy Webb's 6-step method for "finding the future" from The Signals Are Talking
-Tags: literature
+title: Finding the future
+date: 2021-02-26
+description: Amy Webb's 6-step method for "finding the future" from The Signals Are Talking
+tags: literature
 ---
 
 Amy Webb's 6-step method for "finding the future": 

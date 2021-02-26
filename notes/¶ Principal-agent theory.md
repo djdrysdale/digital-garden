@@ -1,8 +1,8 @@
 ---
-Title: Principal-agent Theory
-Date: 2021-02-26
-Description: A situation in which an agent is empowered to take action on behalf of a second party.
-Tags: concept
+title: Principal-agent Theory
+date: 2021-02-26
+description: A situation in which an agent is empowered to take action on behalf of a second party.
+tags: concept
 ---
 
 "Principal-agent theory" refers to a situation in which an agent is empowered to take action on behalf of, or that impact, a second party (the principal).

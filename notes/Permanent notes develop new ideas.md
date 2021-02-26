@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 Permanent notes are not intended just for the [[¶ Collector's Fallacy (Tietze)|collection of ideas]]; instead, they help us develop ideas. 
 

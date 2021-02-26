@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 1) **Double jeopardy law**: brands with less market share have fewer buyers who will be less loyal
 2) **Retention double jeopardy law**: Brands lose consumers in proportion to their market share

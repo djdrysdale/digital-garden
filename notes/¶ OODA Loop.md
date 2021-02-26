@@ -1,8 +1,8 @@
 ---
-Title: OODA Loop
-Date: 2021-02-26
-Description: The OODA Loop is a decision-making concept developed by military strategist John Boyd.
-Tags: concept
+title: OODA Loop
+date: 2021-02-26
+description: The OODA Loop is a decision-making concept developed by military strategist John Boyd.
+tags: concept
 ---
 
 The OODA (observe, orient, decide, act) loop is a decision-making concept that was developed by military strategist John Boyd to describe the means by which an enemy can be defeated or a goal can be achieved even in the face of an imbalance of strength. Since its initial application in combat operations, it has been applied frequently in business, litigation, law enforcement, and other venues. 

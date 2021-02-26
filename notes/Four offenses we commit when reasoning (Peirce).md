@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 CS Peirce outlined four offenses that we commit when we reason. As recounted by Madsbjerg, these offenses are: 
 

@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Personas are frequently cited as helping development teams achieve empathy for their users. 
 

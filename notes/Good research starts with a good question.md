@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 Good research needs to start with a good question. Without a clear question to guide inquiry, research will end up churning and pursuing leads that may be interesting but that don't contribute to finding a solution. 
 

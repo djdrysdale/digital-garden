@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 "Radical uncertainty" is a term from [[≈ King and Kay - Radical Uncertainty|Mervyn King and John Kay]] to describe situations in which there is no means to resolve the uncertainty. In contrast to "resolvable uncertainty," a situation in which answers can be found by looking something up or represented as a known probability, situations of radical uncertainty may produce not only results that we did not expect, but results we could not have imagined. 
 

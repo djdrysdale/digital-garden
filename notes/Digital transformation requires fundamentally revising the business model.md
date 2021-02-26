@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 Many organizations are going about digital transformation the wrong way: they don’t recognize that it means fundamentally revisiting your business model from a customer-first perspective. Common approaches, like [[Integrate innovation functions with the broader organization|setting up innovation teams or labs]], aren’t capable of tackling the fundamental, organization-wide shift in mindset that needs to happen.
 

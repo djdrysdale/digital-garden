@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 We are biased to measure the things that are most easily measured, rather than the things that are most meaningful. 
 

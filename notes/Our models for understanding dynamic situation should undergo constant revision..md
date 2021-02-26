@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Dynamic situations by definition are constantly in flux. Therefore, by the time we build a new mental model of the situation, it's already outdated. A good strategist needs to be able to constantly shift back and forth between analysis and synthesis, repeatedly destroying and recreating their mental models in response to new or changed information. As soon as a mismatch between the mental model and reality becomes apparent, it's time to abandon that model. 
 

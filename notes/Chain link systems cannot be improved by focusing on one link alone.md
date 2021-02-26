@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 The term "chain-link system" describes a system in which the performance of the whole is limited by the performance of its weakest link. Each link is interdependent. One issue with chain link systems is that stronger links are disincentivized to improve, as their performance will always be constrained by the weaker links in the system. 
 

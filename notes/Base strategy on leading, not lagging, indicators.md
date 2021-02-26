@@ -1,8 +1,8 @@
 ---
-Title: Base strategy on leading indicators
-Date: 2021-02-26
-Description: Relying on lagging indicators to develop strategy means you will be too slow to react to change. 
-Tags: literature
+title: Base strategy on leading indicators
+date: 2021-02-26
+description: Relying on lagging indicators to develop strategy means you will be too slow to react to change. 
+tags: literature
 ---
 
 Many organizations rely too heavily on lagging indicators for their strategic decision-making—measurements that inform us about what has happened in the past rather than indicating what may happen in the future. Relying on lagging indicators for strategic decisions means you will react too late.

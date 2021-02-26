@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 The terrain of competition is more focused than ever. No longer can organizations look to win the big moments, like holidays or the Superbowl. People touch their phones almost constantly, and every touch is a moment in which their loyalty can be earned or squandered. These are "micromoments" and to succeed, organizations must deliver the right experience in the right context at precisely the right time. Attention spans in these moments are astonishingly short; for more than one-third of mobile apps, engagements last less than a minute. But really, you may only have the time it takes for a customer to glance at their phone.
 

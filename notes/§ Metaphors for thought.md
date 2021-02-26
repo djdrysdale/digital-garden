@@ -1,8 +1,8 @@
 ---
-Title: Metaphors for thought
-Date: 2021-02-26
-Description: A collection of metaphors related to thought, ideation, and innovation
-Tags: structure
+title: Metaphors for thought
+date: 2021-02-26
+description: A collection of metaphors related to thought, ideation, and innovation
+tags: structure
 ---
 
 A list of [[Metaphors structure our interpretation of the world|metaphors]] for thoughts, ideas, and innovation

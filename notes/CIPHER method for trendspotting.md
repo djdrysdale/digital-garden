@@ -1,4 +1,4 @@
-Tags: #lit #framework #refactor 
+tags: #lit #framework #refactor 
 
 Webb identifies six pattern identifiers that help her spot trends, collected using the acronym CIPHER: 
 - contradictions, 

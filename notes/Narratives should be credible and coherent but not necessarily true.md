@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Narratives are useful for helping us make sense of "[[¶ What is going on here|what is going on here]]" under conditions of [[¶ Radical uncertainty (King and Kay)|radical uncertainty]]. 
 

@@ -1,4 +1,4 @@
-Tags: #perm
+tags: #perm
 
 Personas shouldn't be created so much as discovered. First and foremost, personas document research. Personas articulate patterns of thought and feeling. These are attributes that can't easily be quantified. Effective user personas should be an outcome of qualitative research. Personas should be the result of [[Sensemaking MOC|sensemaking]], not measurement. 
 

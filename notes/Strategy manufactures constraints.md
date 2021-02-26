@@ -1,4 +1,4 @@
-Tags: #perm 
+tags: #perm 
 
 The essence of strategy is the thoughtful narrowing of options based on clear policies, guidelines, or values that the strategist believes will maximize the odds of achieving some result.
 

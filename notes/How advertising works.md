@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 A lot of people like to say that advertising doesn't "work" on them—that, as rational beings, they're not likely to be swayed by advertising. And yet, companies spend billions on advertising every year. 
 

@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 When articulating strategy, there is benefit to expressing the strategy in the form of simple rules that clearly define the appropriate approach to boundaries, priorities, timing, and existing. 
 

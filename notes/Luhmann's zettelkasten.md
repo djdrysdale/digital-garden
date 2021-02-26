@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 "[[§ Zettelkasten]]" is the German word for "slip box." Whenver Luhmann read something, he would record the bibliographic information on the source and some brief descriptive notes about the content on either side of a note card. He would store these in one box. Then, he would think about what he had read and its relevance to his work. He would record these thoughts on other cards, and store them in a second slip box.These represented [[¶ Principle of atomicity|atomic units]] of thought: one idea per card. Each note would include a unique identifier. 
 

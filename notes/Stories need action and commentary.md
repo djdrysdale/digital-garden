@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 A story needs both action and commentary, not just one or the other. Action propels the story forward, while commentary slows it down. The deft application of each is needed: movement and explanation; action with interpretation. 
 

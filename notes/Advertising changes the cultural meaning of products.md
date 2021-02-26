@@ -1,8 +1,8 @@
 ---
-Title: Advertising changes the cultural meaning of products
-Date: 2021-02-26
-Description: Advertising works by changing the landscape of interpretations and meanings that accrue to a brand or product, thereby shifting how we believe others perceive us when we use it.
-Tags: literature
+title: Advertising changes the cultural meaning of products
+date: 2021-02-26
+description: Advertising works by changing the landscape of interpretations and meanings that accrue to a brand or product, thereby shifting how we believe others perceive us when we use it.
+tags: literature
 ---
 
 A common misconception is that advertising creates networks of emotional associations around their product. However, according to Kevin Simler, people are not so easily manipulated. He argues instead that advertising works by "cultural imprinting." This means that advertising works by adjusting the landscape of cultural meanings around the brand or product, and thereby shifts how we believe we are perceived by others when we use the product. 

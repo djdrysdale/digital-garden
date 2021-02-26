@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 According to Roger Martin, perspective on a given issue is formed by the interaction between three things: our **stance**, our **tools**, and our **experience**. 
 

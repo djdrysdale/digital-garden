@@ -1,4 +1,4 @@
-Tags: #perm
+tags: #perm
 
 "Fleeting notes" as described by [[≈ Ahrens - How to Take Smart Notes|Sönke Ahrens]], refer to the scraps of [[Different kinds of zettelkasten notes|notes]] we (should) habitually take while reading or thinking via some ubiquitous capture method (digital or analog). These are the raw material of ideas. They don't serve much purpose on their own but to act as reminders. Put them in an inbox to be processed later—but not too much later. If there's too much of a delay between capturing the fleeting notes and when we process them, we may forget information we wanted to keep.
 

@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Design and product development methodologies like Lean are biased toward delivery. They're intended to limit waste and drive efficiency through "just in time" delivery of minimum viable solutions. This approach is intended to rapidly gather feedback from the market in order to drive continuous iteration on the product. 
 

@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 [[¶ Persona|Personas]] may be broad or narrow in scope. Their scope should be carefully selected to suit needs: a broad persona will [[Personas lack rich context|lack the rich detail]] necessary for focused design work, whereas a narrow personas will probably be too specific to influence larger-scale decision-making. 
 

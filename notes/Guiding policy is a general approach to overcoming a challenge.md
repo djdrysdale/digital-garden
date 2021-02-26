@@ -1,4 +1,4 @@
-Tags: #lit
+tags: #lit
 
 Guiding policy is a component of Richard Rumelt's [[Strategy revolves around a diagnosis, a guiding policy, and coherent action.|kernel of strategy]]. It describes an overall approach to overcoming the challenge defined in the [[Strategic diagnosis is a clear, honest description of the challenge at hand|strategic diagnosis]] with the aim of creating leverage or developing an advantage.
 

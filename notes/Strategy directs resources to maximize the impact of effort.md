@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Effective strategy, according to Richard Rumelt, means "finding the most effective way to direct and leverage your resources." Put another way, strategy involves the effective allocation of resource to maximize the impact of any effort applied. Choosing the correct mix of resources and applying it to precisely the right leverage point delivers an advantage, ideally in a way that is more efficient than a competitor's application of their own resources. This means that strategy has to be sufficiently novel that it's unlikely a competitor can easily replicate it.
 

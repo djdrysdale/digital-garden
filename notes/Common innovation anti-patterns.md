@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 There are a number of common anti-patterns among large organizations that stifle innovation. These include:
 - expecting innovators to just come up with “[[¶ Innovation theater|cool stuff]]” without a guiding objective or strategy; 

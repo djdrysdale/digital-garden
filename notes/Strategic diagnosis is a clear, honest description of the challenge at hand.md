@@ -1,4 +1,4 @@
-Tags: #lit 
+tags: #lit 
 
 Diagnosis is one aspect of Richard Rumelt's [[Strategy revolves around a diagnosis, a guiding policy, and coherent action.|strategy kernel]].
 
