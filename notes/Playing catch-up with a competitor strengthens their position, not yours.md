@@ -7,10 +7,10 @@ Playing catch-up may benefit the competitor more than the organization trying to
 When you play the game this way, you are allowing the competitor to define the terrain of competition, putting you at a disadvantage. 
 
 ---
-## Related
-- [[Focus competitive research on customer not competitors]]
+#### Related
+- [[Focus competitive research on customers not competitors]]
 - [[Loss aversion creates tension between the need to innovate and the need to protect the status quo in large organizations]] - Striving to maintain competitive parity is a form of loss aversion. 
 - 
 
-## Citations
+#### Related
 - Link

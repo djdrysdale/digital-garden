@@ -7,8 +7,8 @@ Be selective when making literature notes: avoid succumbing to the [[¶ Collecto
 Always make literature notes with consideration for what other [[Take notes with connection in mind|notes you've already taken]], and with an eye toward creating new [[Permanent notes develop new ideas|permanent notes]]. 
 
 ---
-## Related
+#### Related
 - [[Different kinds of zettelkasten notes]]
 
-## Citations
+#### Related
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]

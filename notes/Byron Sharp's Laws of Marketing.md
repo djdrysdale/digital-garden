@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Sharp's 7 Laws of Marketing
+date: 2021-02-26
+description: The 7 laws of marketing as identified by Byron Sharp
+tags: literature
+---
 
 1) **Double jeopardy law**: brands with less market share have fewer buyers who will be less loyal
 2) **Retention double jeopardy law**: Brands lose consumers in proportion to their market share
@@ -12,10 +17,10 @@ tags: #lit
 10) Non-linear relationship between availability 
 
 ---
-## Related
+#### Related
 - [[Advertising is defensive]]
 - [[Focus marketing on new or light buyers rather than heavy buyers]]
 - [[A brand is a constellation of impressions that takes shape over time]]
 
-## Citations
+#### Citation
 Sharp, Byron. How Brands Grow: What Marketers Don’t Know. Illustrated edition. Oxford ; New York: Oxford University Press, 2010.

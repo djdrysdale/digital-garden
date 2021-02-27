@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: How many users should you interview?
+date: 2021-02-26
+description: The number of users to interview in UX or product research is difficult to estimate, but there are some rules of thumb. 
+tags: perm
+---
 
 The number of interviews of participants you might need to engage with in a round of qualitative interviews to achieve data saturation can be difficult to estimate. But, there are a few variables that usually factor in. 
 
@@ -9,11 +14,11 @@ Second, think about the breadth and diversity of the participants. If you're foc
 Finally, a more experienced researcher can do more with less. With qualitative research, the richness of the data is more often a factor of the researcher's skill than the sample size. They've honed their interviewing skills and are adept at asking the right questions and determining on the fly where they need to dig in further.
 
 ---
-## Related
+#### Related
 - [[UX researchers should care about strength of evidence]]
 - [[Qualitative researchers care more about data saturation than sample size]]
 
-## Citations
+#### Citations
 Seaman, Mitchel. “The Right Number of User Interviews.” Medium (blog), October 5, 2015. https://medium.com/@mitchelseaman/the-right-number-of-user-interviews-de11c7815d9.
 
 Yocco, Victor. “Filling Up Your Tank, Or How To Justify User Research Sample Size And Data.” Smashing Magazine (blog). https://www.smashingmagazine.com/2017/03/user-research-sample-size-data/.

@@ -9,8 +9,8 @@ One way to facilitate connection is by [[Decontextualize ideas to make them new|
 Finally, write permanent notes as though they will be permanent. They should be written such that if you encounter one years from now, completely absent of any other context, the note should be completely understandable (including relevant citations!). 
 
 ---
-## Related
+#### Related
 - [[Different kinds of zettelkasten notes]]
 
-## Citations
+#### Related
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]

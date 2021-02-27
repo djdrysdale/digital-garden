@@ -16,11 +16,11 @@ tags: #lit #moc
 - [[¶ Issue, rule, analysis, conclusion (IRAC)]]
 
 ---
-## Related
+#### Related
 - [[Different kinds of uncertainty]]
 - [[Volatile environments motivate us to avoid uncertainty]]
 - [[Narratives generate real-world effects.]]
 - [[≈ Shiller - Narrative Economics]]
 
-## Citations
+#### Citation
 Kay, John, and Mervyn King. Radical Uncertainty: Decision-Making Beyond the Numbers. New York, NY: WW Norton, 2020.

@@ -7,11 +7,11 @@ The matter's made worse when we try to fit these activities into standardized me
 In contrast, qualitative data is highly compressed. In Farsighted, Steven Johnson talks about how storytelling is a tool for compressing "the flux of real life down to archetypal moral messages" and describing the complexity of lived experience. 
 
 ---
-## Related
+#### Related
 - [[Quantitative analysis is not inherently more reliable than qualitative data]]
 - [[Qualitative and quantitative research represent different philosophies of knowledge.]]
 
-## Citations
+#### Related
 [[≈ Madsbjerg - Sensemaking|Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.]]
 
 - [[≈ Muller - The Tyranny of Metrics]]

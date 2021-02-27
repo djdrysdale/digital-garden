@@ -7,11 +7,11 @@ Specialization narrows our perspective on what is salient. It biases us toward c
 When faced with challenges, we often turn to specialists for their finely honed expertise. But when encountering particularly wicked problem domains, a specialist may actually be the worst suited to the task: their specialization undermines their ability to consider the problem holistically. 
 
 ---
-## Related
+#### Related
 - [[Narratives enable us to act decisively in conditions of uncertainty]] - Specialization inures us to specific narratives about the world.
 - [[People fill information gaps with assumptions]] - Specialization conditions the assumptions we apply to conditions of uncertainty
 - [[Situations of radical uncertainty cannot be resolved through probabilistic thinking alone]] - Example of how we rely on familiar mental models when facing conditions of radical uncertainty
 
 
-## Citations
+#### Related
 [[≈ Martin - The Opposable Mind|Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.]]

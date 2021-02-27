@@ -5,9 +5,9 @@ tags: #lit
 The orientation phase is where the OODA loop is most vulnerable to disruption. The OODA loop can be disrupted by a competitor speeding up their own tempo to overwhelm their rivals with new data; by acting in an unexpected, forceful way; or by subverting orientation with false impressions that cultivate an inaccurate mental model.
 
 ---
-## Related
+#### Related
 - [[¶ OODA Loop]]
 - [[Strategic inflection points disrupt the underlying assumptions of a business or industry]]
 
-## Citations
+#### Related
 Chin, Cedric. “Much Ado About The OODA Loop.” Commonplace - The Commoncog Blog (blog), May 19, 2020. https://commoncog.com/blog/much-ado-about-the-ooda-loop/.

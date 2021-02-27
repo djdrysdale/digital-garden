@@ -6,10 +6,10 @@ Moreover, strategies have a shelf life: the longer they are in the wild, the mor
 
 
 ---
-## Related
+#### Related
 - [[¶ OODA Loop]]
 
-## Citations
+#### Related
 Chin, Cedric. “Much Ado About The OODA Loop.” Commonplace - The Commoncog Blog (blog), May 19, 2020. https://commoncog.com/blog/much-ado-about-the-ooda-loop/.
 
 Chin, Cedric. “Good Synthesis Is the Start of Good Sensemaking.” Commonplace - The Commoncog Blog (blog), May 26, 2020. https://commoncog.com/blog/good-synthesis-adapting-to-uncertainty/.

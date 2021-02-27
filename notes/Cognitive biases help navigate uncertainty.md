@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Cognitive biases help us navigate uncertainty
+date: 2021-02-26
+description: Cognitive biases are important tools that help us make decisions under conditions of uncertainty. 
+tags: literature
+---
 
 Cognitive biases are often dismissed disparagingly as being irrational—as errors to be overcome in the pursuit of more refined, logical thinking. 
 
@@ -8,9 +13,9 @@ Algorithms are not the solution to every decision-making problem; many decisions
 
 
 ---
-## Related
+#### Related
 - [[Different kinds of uncertainty]]
 - [[Volatile environments motivate us to avoid uncertainty]]
 
-## Citations
+#### Citation
 [[≈ King and Kay - Radical Uncertainty|Kay, John, and Mervyn King. Radical Uncertainty: Decision-Making Beyond the Numbers. New York, NY: WW Norton, 2020.]]

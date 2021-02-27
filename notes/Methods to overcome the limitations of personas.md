@@ -1,4 +1,9 @@
-tags: #perm #refactor 
+---
+title: Overcoming the limitations of personas
+date: 2021-02-26
+description: Personas suffer from a number of shortcomings. Various alternatives seek to overcome these limitations. 
+tags: structure
+---
 
 Personas have a number of shortcomings: 
 
@@ -18,13 +23,13 @@ In addition, a large body of work has emerged around the Jobs to be Done framewo
 
 
 ---
-## Related
+#### Related
 
 - [[§ Personas]]
 
 - [[¶ Persona]]
 
-## Citations
+#### Citations
 
 Cooper, Alan. The Inmates Are Running the Asylum. Sams Publishing, 2004.
 

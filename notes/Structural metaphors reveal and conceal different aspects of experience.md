@@ -9,9 +9,9 @@ Some examples of structural metaphors:
 - Communication is sending
 
 ---
-## Related
+#### Related
 - [[Metaphors create coherent systems of meaning]]
 - [[Metaphors structure our interpretation of the world]]
 
-## Citations
+#### Related
 [[≈ Lakoff and Johnson - Metaphors We Live By|Lakoff, George, and Mark Johnson. Metaphors We Live By. University of Chicago Press, 2008.]]

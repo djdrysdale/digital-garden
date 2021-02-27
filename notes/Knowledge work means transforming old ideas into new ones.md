@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Knowledge work transforms old ideas into new ones
+date: 2021-02-26
+description: The primary function of a knowledge worker is to transmute old ideas and information into new ideas and information. 
+tags: perm
+---
 
 Knowledge work is not about coming up with some random insight; it’s about transforming existing ideas into something new. “Every intellectual effort starts with an already existing preconception,” Ahrens writes, “that can be transformed during further inquiries and can serve as a starting point for following endeavours.” 
 
@@ -9,11 +14,11 @@ By seeing connections in unexpected places, we increase the odds that our insigh
 Note-taking is therefore critical for knowledge work. By capturing ideas as notes—ideally as [[¶ Principle of atomicity|atomic notes]]—we're able to [[Decontextualize ideas to make them new|decontextualize and recontextualize]] ideas and [[Ideas are remixes|recombine]] them in ways that produce [[Ideas are constellations|new insights]].
 
 ---
-## Related
+#### Related
 - [[Ideas are constellations]]
 - [[Knowledge is a compounding investment]]
 
-## Citations 
+#### Citations 
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]
 
 Bhargava, Rohit. Non Obvious Megatrends: How to See What Others Miss and Predict the Future. Ideapress Publishing, 2020.

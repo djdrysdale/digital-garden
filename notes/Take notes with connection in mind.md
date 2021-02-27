@@ -5,8 +5,8 @@ When taking notes, always write them with consideration for the notes that you a
 When we write notes with an eye toward these connections from the start, we are more apt to reveal contradictions and inconsistencies in thinking; as well, being able to draw links between new ideas we encounter and old ones we've seen before can help promote deeper understanding of the material. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]

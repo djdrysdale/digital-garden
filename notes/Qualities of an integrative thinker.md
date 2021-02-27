@@ -10,10 +10,10 @@ The integrative thinker evinces four key qualities:
 4) They strive to resolve tensions, not accept unpleasant trade-offs. 
 
 ---
-## Related
+#### Related
 - [[Salience is subjective]] - Integrative thinking recognizes that our perspective on what matters is subjective and personal. 
 - [[Specialization narrows our perspective on what is salient to a problem]] - Adopting only the perspective of our specialization limits our ability to recognize what is salient. 
 - [[Put mental models in conversation with one another]] - Integrative thinkers apply multiple and even contradictory mental models to expand their lens on what is salient. 
 
-## Citations
+#### Related
 Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.

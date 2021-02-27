@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Good decisions can result in bad outcomes
+date: 2021-02-26
+description: Decisions cannot be evaluated on the basis of their outcome. Poor decisions may yield good results, and good decisions may yield poor results.
+tags: perm
+---
 
 We tend to judge decisions or strategies by their outcome. If a decision leads to a poor result, say it was a bad choice. But we make this judgment with the benefit of knowing the outcome, information that wasn't available when the decision itself was made. And even the best decisions can yield a poor outcome, due to circumstances that are beyond or control or that we could never have predicted. 
 
@@ -9,13 +14,13 @@ The truth is that even the best decision can result in a bad outcome. In conditi
 In other words, we must focus, as Ozan Varol advises us, on the variables within our control, and build good processes for decision-making and strategy. And blaming the decision for the outcome—called "resulting" by poker player Annie Duke—may cause us to miss out on opportunities to improve those processes.
 
 ---
-## Related
+#### Related
 - [[Base strategy on leading, not lagging, indicators]]
 - [[De-risk innovation by making smaller bets]]
 - [[Honing intuition]]
 - [[¶ What is going on here]]
 
-## Citations
+#### Citations
 Duke, Annie. *Thinking in Bets: Making Smarter Decisions When You Don’t Have All the Facts*. New York: Portfolio, 2019.
 
 [[Varol - Think Like a Rocket Scientist|Varol, Ozan. Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life. New York: PublicAffairs, 2020.]]

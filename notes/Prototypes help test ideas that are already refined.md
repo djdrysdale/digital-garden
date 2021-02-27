@@ -7,9 +7,9 @@ But a prototype assumes you're already answering the right question. If you rush
 Instead of rushing to a prototype, spend more time in the problem space. 
 
 ---
-## Related
+#### Related
 - [[Spend more time in the problem space]] - Invest in building a strong understanding of the problem before starting to converge around a solution
 - [[Lean methodologies promote velocity at the expense of understanding]] - Lean methodologies prioritize "shipping" artifacts quickly, but don't leave enough time for developing deep understanding
 
-## Citations
+#### Related
 Hall, Erika. “The 9 Rules of Design Research.” Medium (blog), October 24, 2019. https://medium.com/mule-design/the-9-rules-of-design-research-1a273fdd1d3b.

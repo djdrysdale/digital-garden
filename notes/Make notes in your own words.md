@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Make notes in your own words
+date: 2021-02-26
+description: Taking notes in your own words facilitates stronger understanding of the material. 
+tags: literature
+---
 
 When we are reading a text, it can be difficult to identify and remember what is most important. Especially when reading theoretical texts, we must balance our short-term and long-term memories so that we can focus on what is truly important. 
 
@@ -11,10 +16,10 @@ Reading, by itself, is not understanding. Copying notes in another's words trick
 One of the benefits of the [[§ Zettelkasten]] method is that it involves multiple acts of translation. You translate the original source into your fleeting notes, which are then translated into your own thoughts and positions in the slip box. Then, these ideas are translated again as you write for publication. Each of these is a feedback loop that confronts you with gaps in your understanding and forces you to overcome them.
 
 ---
-## Related
+#### Related
 - [[Decontextualize ideas to make them new]]
 
-## Citations
+#### Citations
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]
 
 Luhmann, Niklas. “Learning How to Read.” Translated by Manfred Kuehn. Two Essays by Niklas Luhmann. Accessed October 27, 2020. https://luhmann.surge.sh/learning-how-to-read.

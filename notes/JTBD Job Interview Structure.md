@@ -1,4 +1,9 @@
-tags: #lit #framework 
+---
+title: JTBD interview structure
+date: 2021-02-26
+description: A structure for conducting jobs-to-be-done (JTBD) interviews from Jim Kalbach.
+tags: literature
+---
 
 This interview structure can be used to uncover customer jobs-to-be-done. 
 
@@ -32,9 +37,9 @@ This interview structure can be used to uncover customer jobs-to-be-done.
 	2. What conditions influence your decisions?
 	3. How do the environment and setting affect your attitude and feelings while getting the job done?  
 ---
-## Related
+#### Related
 - [[¶ Persona]]
 - [[Methods to overcome the limitations of personas]]
 
-## Citations
+#### Citations
 Kalbach, Jim, and Michael Schrage. *The Jobs To Be Done Playbook: Align Your Markets, Organization, and Strategy Around Customer Needs*. New York: Two Waves Books, 2020.

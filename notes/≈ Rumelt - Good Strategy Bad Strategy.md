@@ -37,5 +37,5 @@ Rumelt argues that having a strategy is itself a competitive advantage, in that 
 - [[Entropy forces organizations to waste energy on alignment]]
 - [[Chain link systems cannot be improved by focusing on one link alone]]
 
-## Citation
+#### Citation
 Rumelt, Richard. *Good Strategy Bad Strategy: The Difference and Why It Matters*. Illustrated edition. New York: Currency, 2011.

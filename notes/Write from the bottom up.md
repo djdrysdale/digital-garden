@@ -9,11 +9,11 @@ Writing bottom up can also help mitigate the anxiety of a blank page, because th
 As well, this approach is more likely to surface disconfirming ideas and information. We re-examine information and ideas that we've had previously and are forced to look anew at paradoxes and contradictions.
 
 ---
-## Related
+#### Related
 - [[Knowledge is a compounding investment]]
 - [[Knowledge work means transforming old ideas into new ones]]
 - [[Writing is thinking]]
 - [[¶ Abductive reasoning]]
 
-## Citations
+#### Related
 - [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]

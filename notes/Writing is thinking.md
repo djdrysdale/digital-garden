@@ -5,9 +5,9 @@ Rather than the result of thinking, writing *is* thinking. Translating the ideas
 Writing further provides a productive feedback loop: to be able write something clearly in our own words, we must be able to understand it. 
 
 ---
-## Related
+#### Related
 - [[Knowledge is a compounding investment]]
 - [[Write from the bottom up]]
 
-## Citations
+#### Related
 - Link

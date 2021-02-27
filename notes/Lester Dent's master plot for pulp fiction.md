@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Lester Dent's Master Plot for Pulp Fiction
+date: 2021-02-26
+description: Writer Lester Dent offers a simple structure for constructing short (6000-word) pulp stories. 
+tags: literature
+---
 
 Prolific pulp writer Lester Dent (Doc Savage) outlines a simple master plot for crafting short (6000-word) stories. 
 
@@ -37,8 +42,8 @@ Avoid monotony. Change up the physical threats. Build atmosphere with sensual im
 - Introduce a final twist, e.g. the villain is an unexpected person; the treasure is worthless
 - Have a great punch line at the end that leaves the reader with a warm feeling
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Citations
 - Link

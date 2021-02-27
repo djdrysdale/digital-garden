@@ -1,4 +1,9 @@
-tags: #perm #refactor 
+---
+title: Inflection points reveal themselves first at the edges
+date: 2021-02-26
+description: Emerging trends and ultimately strategic inflection points are usually first observed on the edges or fringes.
+tags: literature
+---
 
 Because strategic inflection points transform the fundamental assumptions under which a business operates, it can be difficult for organizations to fathom the new possibilities that they create. The signs of an inflection point begin on the fringes; only those who are directly in contact with the signs will be able to identify them. It’s important to have an apparatus for identifying them early. 
 
@@ -14,12 +19,12 @@ Warning signs of strategic inflection points—once identified—should become a
 By carefully observing and testing these patterns, a futurist can offer a valuable first-mover advantage to those who are able to act before the fringe comes to the mainstream. The art of the futurist is discovering which of these patterns will truly become trends, and which will peter out.
 
 ---
-## Related
+#### Related
 - [[Strategic inflection points disrupt the underlying assumptions of a business or industry]]
 - [[Change happens gradually, then suddenly.]]
 - [[Innovation cascades]]
 - [[Sensemaking MOC]]
 
-# Citations
+#### Citations
 - [[McGrath - Seeing Around Corners]]
 - [[≈ Webb - The Signals are Talking]]

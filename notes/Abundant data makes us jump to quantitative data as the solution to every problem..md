@@ -16,7 +16,7 @@ Data that are easiest to come by—and likely more abundant—are more likely to
 - [[Quant data is lossy]] suggests that quantitative data is highly compresses and loses information in the process of abstraction
 - [[Quantitative analysis is not inherently more reliable than qualitative data]] argues that in spite of feeling more concrete quantitative data isn't inherently "better" than qualitative data
 
-#### Citations 
+#### Citation 
 [[≈ King and Kay - Radical Uncertainty|Kay, John, and Mervyn King. Radical Uncertainty: Decision-Making Beyond the Numbers. New York, NY: WW Norton, 2020.]]
 
 [[≈ Ladner - Mixed Methods|Ladner, Sam. Mixed Methods: A Short Guide to Applied Mixed Methods Research. Sam Ladner, 2019.]]

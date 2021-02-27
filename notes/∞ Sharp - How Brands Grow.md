@@ -14,7 +14,7 @@ link: https://www.goodreads.com/book/show/9128288-how-brands-grow?from_search=tr
 ## Summary
 Sharp challenges the conventional wisdom and best practices that are applied unquestioningly by many marketers, turning instead to what he describes as more "scientific" research that shows what really matters to brand growth. 
 
-## Notes
+#### Notes
 
 - [[Byron Sharp's Laws of Marketing]]
 - [[Byron Sharp's 7 Rules of Marketing]]
@@ -24,5 +24,5 @@ Sharp challenges the conventional wisdom and best practices that are applied unq
 - [[Buyers eliminate most options unconsciously]]
 - [[Advertising is defensive]]
 
-## Citation
+#### Citations
 Sharp, Byron. How Brands Grow: What Marketers Don’t Know. Illustrated edition. Oxford ; New York: Oxford University Press, 2010.

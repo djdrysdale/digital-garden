@@ -13,10 +13,10 @@ In some respects, the tables have turned: data is so abundant that organizations
 See [[Abundant data makes us jump to quantitative data as the solution to every problem.]], especially [[Sam Ladner]]'s comment on "data exhaust."
 
 ---
-## Related
+#### Related
 - [[Collecting analytics data is not the same as doing research]]
 - [[Quant data is lossy]]
 - [[Quantitative analysis is not inherently more reliable than qualitative data]]
 
-## Citations
+#### Related
 [[≈ Muller - The Tyranny of Metrics|Muller, Jerry Z. The Tyranny of Metrics. Princeton: Princeton University Press, 2018.]]

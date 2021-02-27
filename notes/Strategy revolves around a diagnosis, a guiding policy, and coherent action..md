@@ -15,8 +15,8 @@ An example can be drawn from the medical world.
 A doctor evaluating a patient may come to a diagnosis that the patient is at risk of high blood pressure. The doctor may then set a guiding policy advising that the patient manage the condition through dietary changes and exercise. The coherent action may then include reducing salt intake to 2500mg/day and walking for 30 minutes every day. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

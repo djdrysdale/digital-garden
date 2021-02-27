@@ -7,8 +7,8 @@ Strategy must accurately depict the challenge the organization faces. Defining t
 This is the work of the [[Strategic diagnosis is a clear, honest description of the challenge at hand]]: it's a kind of [[¶ Sensemaking (Madsbjerg)]] activity that ensures everyone understands the work that needs to be done. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

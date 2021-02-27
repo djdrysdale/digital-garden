@@ -15,8 +15,8 @@ Personas may also become too strong a stand-in for actual user research. That is
 Better than any persona is ongoing exposure to actual users. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 Klement, Alan. “Replacing Personas With Characters.” Medium (blog), September 2, 2017. https://medium.com/down-the-rabbit-hole/replacing-personas-with-characters-aa72d3cf6c69.

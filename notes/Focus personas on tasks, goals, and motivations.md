@@ -1,4 +1,9 @@
-tags: #perm
+---
+title: Focus persons on tasks, goals, and motivations
+date: 2021-02-26
+description: What a user persona is trying to do and why is more important than descriptive demographic information.
+tags: literature
+---
 
 Personas shouldn't be created so much as discovered. First and foremost, personas document research. Personas articulate patterns of thought and feeling. These are attributes that can't easily be quantified. Effective user personas should be an outcome of qualitative research. Personas should be the result of [[Sensemaking MOC|sensemaking]], not measurement. 
 
@@ -13,10 +18,10 @@ Teams and organizations will sometimes create personas based on their best curre
 Personas should be living, breathing documents. As knowledge about the user or customer evolves, so should the personas. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Citations
 Cooper, Alan. The Inmates Are Running the Asylum. Sams Publishing, 2004.
 
 Spool, Jared M. “Customers Request Solutions. We Need to Understand Their Problems.” Medium (blog), August 16, 2019. https://medium.com/@jmspool/customers-request-solutions-we-need-to-understand-their-problems-41db3b5c6d4d.

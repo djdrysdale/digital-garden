@@ -1,4 +1,9 @@
-tags: #framework 
+---
+title: A landscape of UX research methods
+date: 2021-02-26
+description: UX research methods can be organized according to a 3-dimensional framework.
+tags: framework
+---
 
 UX research methods can be organized according to a 3-dimensional framework with the following axes:
 
@@ -26,7 +31,7 @@ When studying natural use, care should be taken to ensure that the environment i
 
 
 ---
-## Related 
+#### Related 
 - [[UX researchers should care about strength of evidence]]
 - [[How many users should you interview]]
 - [[Qualitative research creates mental models about the problem space.]]
@@ -35,6 +40,6 @@ When studying natural use, care should be taken to ensure that the environment i
 - [[Qualitative and quantitative research represent different philosophies of knowledge.]]
 - [[UX research activities by product lifecycle]]
 
-## Citation
+#### Citations
 Rohrer, Christian. “When to Use Which User-Experience Research Methods.” Nielsen Norman Group (blog). Accessed October 13, 2020. https://www.nngroup.com/articles/which-ux-research-methods/.
 

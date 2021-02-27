@@ -1,4 +1,9 @@
-tags: #lit #refactor
+---
+title: Innovation Myths
+date: 2021-02-26
+description: A list of common myths about innovation
+tags: literature
+---
 
  - One myth around innovation is that there are no bad ideas. This is not true. Innovative projects must continue to align with the larger business strategy. 
 - Another myth is that you can continually pivot until you find something that works. In the enterprise, some initiatives will inevitably need to be killed. 
@@ -6,8 +11,8 @@ tags: #lit #refactor
 - Research and innovation are not synonymous. Innovation requires translating research into a sustainable business model. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Citations
 [[≈ Viki - Pirates in the Navy|Viki, Tendayi. Pirates In the Navy How Innovators Lead Transformation. Unbound, 2020.]]

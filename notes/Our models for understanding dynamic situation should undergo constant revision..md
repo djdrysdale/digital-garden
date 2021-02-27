@@ -4,7 +4,7 @@ Dynamic situations by definition are constantly in flux. Therefore, by the time 
 
 You must test the results of your synthesis, always looking out for internal inconsistencies and mismatches between your mental model and reality. If it does not, abandon your current mental model and go back to analysis. 
 
-## Related
+#### Related
 - [[Base strategy on leading, not lagging, indicators]]
 - [[Change happens gradually, then suddenly.]]
 - [[Work backwards from a long-term vision of the future to define proximate objectives]]
@@ -13,7 +13,7 @@ You must test the results of your synthesis, always looking out for internal inc
 - [[Traditional road maps force companies into confirmation bias]]
 - [[Winning strategies result from good sensemaking]]
 
-## Citations
+#### Related
 - [[Chin - Good Synthesis is the Start of Good Sensemaking]]
 
 > The very instant you form a mental model of the situation, you will make decisions and take actions, and therefore change the situation that you have observed. Getting stuck with one conception of the battlefield is a surefire way to be overtaken by the natural uncertainty of war (or be taken advantage of by a savvy enemy who is able to exploit your now static orientation).

@@ -7,7 +7,7 @@ Quantitative research, on the other hand, looks to quantify the presence of some
 Qualitative research is focused, narrow, and deep; quantitative research is broad but shallow. If you have a specific question to answer, you probably want a quantitative  method; if you have an open-ended question, use a qualitative method.
 
 ---
-## Related
+#### Related
 - [[Qualitative research creates mental models about the problem space.]]
 - [[Qualitative and quantitative research represent different philosophies of knowledge.]]
 - [[Quantitative analysis is not inherently more reliable than qualitative data]]

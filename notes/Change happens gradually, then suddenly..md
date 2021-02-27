@@ -1,4 +1,9 @@
-tags: #refactor 
+---
+title: Change happens gradually, then suddenly
+date: 2021-02-26
+description: Large-scale changes feel like they happen quickly but actually gestate over long periods.
+tags: literature
+---
 
 Large-scale changes seem to happen quickly. However, changes generally gestate over long periods of time. In the beginning, there may be weak signals of change. These are usually on the periphery of our vision and can be difficult to observe as they occur outside of our typical frame of reference. 
 
@@ -9,7 +14,7 @@ Bill Gates wrote, "We always overestimate the change that will occur in the next
 William Gibson wrote, "The future is already here—it's not not evenly distributed."
 
 --- 
-## Related 
+#### Related 
 - [[Base strategy on leading, not lagging, indicators]]
 - [[Work backwards from a long-term vision of the future to define proximate objectives]]
 - [[Innovation cascades]]
@@ -17,7 +22,7 @@ William Gibson wrote, "The future is already here—it's not not evenly distribu
 - [[Strategic inflection points disrupt the underlying assumptions of a business or industry]]
 - [[¶ OODA Loop]]
 
-## Citations
+#### Citation
 Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.
 
 - [[McGrath - Seeing Around Corners]]

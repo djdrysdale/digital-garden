@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Measurement is not cost-neutral
+date: 2021-02-26
+description: The cost of pursuing precise metrics or KPIs pulls resources away from production. 
+tags: literature
+---
 
 Resources may be re-allocated away from productive staff and toward efforts to measure that staff’s output. 
 
@@ -9,9 +14,9 @@ Measurement is not cost-neutral; it requires effort and investment. Sometimes th
 We gather performance data for its own sake: the effort of gathering data becomes a proxy for the work the data supposedly measures.
 
 ---
-## Related
+#### Related
 - [[Abundant data makes us jump to quantitative data as the solution to every problem.]]
 - [[Information is abundant; perspective is scarce.]]
 
-## Citations
+#### Citations
 [[≈ Muller - The Tyranny of Metrics|Muller, Jerry Z. The Tyranny of Metrics. Princeton: Princeton University Press, 2018.]]

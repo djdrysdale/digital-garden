@@ -6,8 +6,8 @@ The concept "strength of weak ties" comes from a 1973 essay by Mark S. Granovett
 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 [[≈ Johnson - Where Good Ideas Come From|Johnson, Steven. Where Good Ideas Come from: The Seven Patterns of Innovation. London: Penguin, 2011.]]

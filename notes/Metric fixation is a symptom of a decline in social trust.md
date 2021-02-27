@@ -9,11 +9,11 @@ For public institutions, they serve to reinforce the economic narrative of effic
 Of course, this assumes the numbers themselves can be trusted. Unfortunately, [[Quantitative analysis is not inherently more reliable than qualitative data|there's no reason to expect quantitative measures to be more reliable than qualitative assessment]].
 
 ---
-## Related
+#### Related
 - [[Measuring performance stymies organizational intimacy]]
 - [[Measurement changes our relationship to our work.]]
 
-## Citations
+#### Related
 [[≈ Muller - The Tyranny of Metrics]]
 [[Sutherland - Alchemy]]
 

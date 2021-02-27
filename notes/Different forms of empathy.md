@@ -1,5 +1,9 @@
-tags: #perm
-
+---
+title: Different forms of empathy
+date: 2021-02-26
+description: Empathy is a multifaceted concept and is often applied reductively in fields like design and UX.
+tags: literature
+---
 "Empathy" is a complex, multifaceted concept that can often be applied in a reductive way, especially in the world of design and UX. 
 
 Haag and Marsden identify two forms of empathy: 
@@ -18,11 +22,11 @@ Madsbjerg describes three forms of empathy:
 3. Analytical empathy, the effortful work of building an understanding of how another person or group sees the world through the process of sensemaking
 
 --- 
-## Related
+#### Related
 - [[§ Personas]]
 - [[Personas alone can't help teams achieve empathy]]
 
-## Citations
+#### Citations
 Haag, Maren, and Nicola Marsden. “Exploring Personas as a Method to Foster Empathy in Student IT Design Teams.” *International Journal of Technology and Design Education*, April 24, 2018. https://doi.org/10.1007/s10798-018-9452-5.
 
 Madsbjerg, Christian. *Sensemaking: The Power of the Humanities in the Age of the Algorithm*. Hachette Books, 2017.

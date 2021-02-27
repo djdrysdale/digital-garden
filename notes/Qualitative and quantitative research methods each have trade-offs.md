@@ -9,9 +9,9 @@ There are trade-offs between quantitative and qualitative methods; quant methods
 Qualitative research tends to be divergent, and quantitative research convergent. Qualitative research is more flexible and open-ended, because sensemaking occurs after data is collected.
 
 ---
-## Related
+#### Related
 - [[§ Research]]
 - [[¶ Sensemaking (Madsbjerg)]]
 
-## Citations
+#### Related
 [[≈ Ladner - Mixed Methods|Ladner, Sam. Mixed Methods: A Short Guide to Applied Mixed Methods Research. Sam Ladner, 2019.]]

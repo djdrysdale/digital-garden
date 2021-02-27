@@ -23,6 +23,6 @@ There is a roughly inverse relationship between strategic degrees of freedom and
 - [[Strategy is time-sensitive]]
 - [[Winning strategies result from good sensemaking]]
 
-#### Citations
+#### Citation
 - [[McGrath - Seeing Around Corners]]
 

@@ -7,10 +7,10 @@ But human beings are far more complex than machines processing inputs and output
 The concept of a human-as-machine metaphor may be extended to biology, as well. Nutritional science that assumes a simple input/output model, for instance, is complicated by the microbial environment inside the body, which can have a significant effect on how we process food. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 Brain, Tega. “The Environment Is Not a System.” RESEARCH VALUES 2018 (blog), December 20, 2017. https://researchvalues2018.wordpress.com/2017/12/20/tega-brain-the-environment-is-not-a-system/.
 
 [[≈ Madsbjerg - Sensemaking|Madsbjerg, Christian. *Sensemaking: The Power of the Humanities in the Age of the Algorithm*. Hachette Books, 2017.]]

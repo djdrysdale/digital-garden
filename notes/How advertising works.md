@@ -1,4 +1,9 @@
-tags: #lit
+---
+title: How advertising works
+date: 2021-02-26
+description: Advertising affects us in a variety of ways, conscious and unconscious. 
+tags: structure
+---
 
 A lot of people like to say that advertising doesn't "work" on them—that, as rational beings, they're not likely to be swayed by advertising. And yet, companies spend billions on advertising every year. 
 
@@ -17,11 +22,11 @@ Kevin Simler identifies some of the ways that advertising influences consumer be
 	- See also Sharp, who suggests that people use brands to signal to others
 
 ---
-## Related
+#### Related
 - [[Advertising is defensive]]
 - [[Advertising changes the cultural meaning of products]]
 
-## Citations
+#### Citations
 Sharp, Byron. How Brands Grow: What Marketers Don’t Know. Illustrated edition. Oxford ; New York: Oxford University Press, 2010.
 
 Simler, Kevin. “Ads Don’t Work That Way.” Melting Asphalt (blog). Accessed November 22, 2020. https://meltingasphalt.com/ads-dont-work-that-way/.

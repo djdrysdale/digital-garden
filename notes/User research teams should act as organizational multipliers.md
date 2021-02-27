@@ -8,11 +8,11 @@ They should develop and communicate processes that clearly delineate the roles a
 
 
 ---
-## Related
+#### Related
 - [[UX research activities by product lifecycle]] - Different kinds of activities user researchers perform and/or support
 - [[Information is abundant; perspective is scarce.]] - Information is readily available but there's need to develop new ways to look at and interpret it.
 
-## Citations
+#### Related
 Hammontree, Monty. “The Future of UX Research.” Medium (blog), September 26, 2019. https://medium.com/microsoft-design/the-future-of-ux-research-14fe63743c1d.
 
 Usertesting.com. “Scaling Research for Better CX.” Usertesting.com, 2019. https://info.usertesting.com/rs/220-GOX-255/images/scaling-research-for-better-cx-ebook.pdf.

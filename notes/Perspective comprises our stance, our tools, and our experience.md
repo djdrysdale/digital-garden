@@ -11,11 +11,11 @@ According to Roger Martin, perspective on a given issue is formed by the interac
 These different elements do not flow linearly from one to another; they mutually inform each other.
 
 ---
-## Related
+#### Related
 - [[Honing intuition]] - We can hone our intuition by acquiring new knowledge and experiences.
 - [[Salience is subjective]] - What we view as salient to a problem or situation is informed by our subjective experiences
 
 - 
 
-## Citations
+#### Related
 Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.

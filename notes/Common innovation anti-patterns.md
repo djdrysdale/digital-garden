@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Innovation anti-patterns
+date: 2021-02-26
+description: A list of common innovation anti-patterns
+tags: literature
+---
 
 There are a number of common anti-patterns among large organizations that stifle innovation. These include:
 - expecting innovators to just come up with “[[¶ Innovation theater|cool stuff]]” without a guiding objective or strategy; 
@@ -10,8 +15,8 @@ There are a number of common anti-patterns among large organizations that stifle
 - forcing teams to adhere to rigid expectations in spite of new learning or discoveries made through [[De-risk innovation by making smaller bets|experimentation and iteration]]. 
 
 ---
-## Related
+#### Related
 - [[§ Innovation]]
 
-## Citations
+#### Citation
 [[≈ Viki - Pirates in the Navy|Viki, Tendayi. Pirates In the Navy How Innovators Lead Transformation. Unbound, 2020.]]

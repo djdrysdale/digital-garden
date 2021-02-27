@@ -11,11 +11,11 @@ According to [[≈ Madsbjerg - Sensemaking|Madsbjerg]], too narrow a focus on qu
 This isn't to say that quantitative analysis is not without merit; however, it must be undertaken with the understanding that its emphasis on scale and causation may come at the cost of coherence and focus. 
 
 ---
-## Related
+#### Related
 - [[Quant data is lossy]]
 - [[Qualitative and quantitative research represent different philosophies of knowledge.]]
 
-## Citations
+#### Related
 - [[≈ Ladner - Mixed Methods]]
 - [[≈ Madsbjerg - Sensemaking|Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.]]
 - [[≈ Muller - The Tyranny of Metrics]]

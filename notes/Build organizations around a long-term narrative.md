@@ -20,8 +20,8 @@ One possible explanation for the bias toward the short-term may be an increased 
 Similar concepts include Jay Acunzo's notion of "aspirational anchors" and the "shared value" model described by Jim Kalbach, Michael Tanamachi, and Michael Schrage in the context of [[¶ Jobs to be done (JTBD)|jobs to be done]]. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Citation
 [[≈ Sinek - The Infinite Game|Sinek, Simon. *The Infinite Game*. New York: Portfolio, 2019.]]

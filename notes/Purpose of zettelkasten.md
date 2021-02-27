@@ -5,8 +5,8 @@ The purpose of the [[§ Zettelkasten|zettelkasten]] is [[¶ Collector's Fallacy 
 The zettelkasten served as a constant source of ideas and inspiration, ensuring that Luhmann never needed to rely on brainstorming or other idea generation tactics. It was [[Design environments to facilitate behaviours|a productivity system]]—a method for producing insight. As the zettelkasten grew, [[Knowledge is a compounding investment|so too did its capacity to create new knowledge]]. 
 
 ---
-## Related
+#### Related
 - [[Luhmann's zettelkasten]]
 
-## Citations
+#### Related
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]

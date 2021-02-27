@@ -30,5 +30,5 @@ Johnson draws heavily on biological metaphors to describe how creativity and inn
 - [[Strength of weak ties]]
 
 
-## Citation
+#### Citation
 Johnson, Steven. Where Good Ideas Come from: The Seven Patterns of Innovation. London: Penguin, 2011.

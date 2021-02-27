@@ -9,8 +9,8 @@ When we engage in a strategic [[Strategic diagnosis is a clear, honest descripti
 See [[Strategic inflection points disrupt the underlying assumptions of a business or industry]] for discussion of how external inflection points might force the adoption of a new perspective. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

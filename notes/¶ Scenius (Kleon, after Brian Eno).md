@@ -12,5 +12,5 @@ The idea of the lone creative is a bit of a myth. Instead, creativity often emer
 - [[Cognitive diversity enhances team problem solving capabilities]]
 - [[Innovation thrives in open environments]]
 
-#### Citation
+#### Citations
 Kleon, Austin. *Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered*. New York: Workman, 2014.

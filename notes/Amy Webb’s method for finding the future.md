@@ -18,5 +18,5 @@ Amy Webb's 6-step method for "finding the future":
 #### Related
 - Link
 
-#### Citations
+#### Citation
 [[≈ Webb - The Signals are Talking|Webb, Amy. The Signals Are Talking: Why Today’s Fringe Is Tomorrow’s Mainstream. New York: PublicAffairs, 2018.]]

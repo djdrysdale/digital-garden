@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Express strategy as simple rules
+date: 2021-02-26
+description: A complex strategy is difficult to follow. Articulating strategy as simple rules can help define clear direction. 
+tags: literature
+---
 
 When articulating strategy, there is benefit to expressing the strategy in the form of simple rules that clearly define the appropriate approach to boundaries, priorities, timing, and existing. 
 
@@ -9,8 +14,8 @@ By defining strategy and policy with a small number—maybe 2–7—of precise, 
 But, be prepared to [[Strategy is time-sensitive|revise rules regularly]]; and ensure that the rules are consistent with [[Build organizations around a long-term narrative|the organization's strategic narrative]] and [[Base strategy on leading, not lagging, indicators|appropriate data]].
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Citations
 Eisenhardt, Kathleen M., and Donald Sull. “Strategy as Simple Rules.” Harvard Business Review, January 1, 2001. https://hbr.org/2001/01/strategy-as-simple-rules.

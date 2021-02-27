@@ -25,5 +25,5 @@ Shiller explores how "economic narratives" spread like contagions through societ
 - [[Economic narratives spread like diseases]]
 - [[Narrative helps the human mind make sense of events]]
 
-## Citation
+#### Citation
 Shiller, Robert J. *Narrative Economics: How Stories Go Viral and Drive Major Economic Events*. Princeton: Princeton University Press, 2019.

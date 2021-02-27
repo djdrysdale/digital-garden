@@ -7,12 +7,12 @@ The questions are more open-ended. When we do qualitative research, we're trying
 A strong foundation of qualitative research can help us have a better intuition about people and culture. 
 
 ---
-## Related
+#### Related
 - [[¶ Inductive reasoning]]
 - [[¶ Abductive reasoning]]
 - [[Questions about the sample size for qualitative research may indicate trust concerns]]
 
-## Citations
+#### Related
 Ladner, Sam. Mixed Methods: A Short Guide to Applied Mixed Methods Research. Sam Ladner, 2019.
 
 Levin, Alec. “StAtIsTiCaL SIgNiFiCaNcE.” Known Unknowns (blog). Accessed October 12, 2020. https://knownunknowns.substack.com/p/statistical-significance.

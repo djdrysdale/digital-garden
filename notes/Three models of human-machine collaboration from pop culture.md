@@ -7,9 +7,9 @@ Alexis Lloyd uses pop culture to think about three models for human-machine coll
 3. Machine as collaborator (R2D2): the machine collaborates with human capabilities. The machine has its own agency and language and is capable of learning and decision-making. They complement rather than supplement or augment human capabilities; while they may follow orders from humans, they may also override those directives in pursuit of a higher priority goal. May serve as more of a companion (in the Donna Haraway sense) and coexistent species rather than as a second-rate human. 
 
 ---
-## Related
+#### Related
 - [[Skeuoumorphic models limit possibilities for innovation]] - Skeuomorphic designs constrain our imagination
 - [[¶ The genie problem]] - If we design or machines to act as servants, they probably will do what we expect. 
 
-## Citations
+#### Related
 Lloyd, Alexis. “R2D2 as a Model for AI Collaboration.” Medium (blog), November 21, 2020. https://alexis.medium.com/r2d2-as-a-model-for-ai-collaboration-9a2638bfbd09.

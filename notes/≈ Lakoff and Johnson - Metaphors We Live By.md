@@ -31,5 +31,5 @@ Metaphors are not simply linguistic flourishes that we use to artfully describe 
 - [[Subjectivism suggests that our senses and emotions are our best guides to truth]]
 - [[Experientialism suggests that truth is relative to our interactions with the world]]
 
-## Citation
+#### Citation
 Lakoff, George, and Mark Johnson. *Metaphors We Live By*. University of Chicago Press, 2008.

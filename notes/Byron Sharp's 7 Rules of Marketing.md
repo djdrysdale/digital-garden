@@ -21,5 +21,5 @@ In *How Brands Grow*, Byron Sharp outlines what he claims are 7 "scientific" rul
 - [[Focus marketing on new or light buyers rather than heavy buyers]]
 - [[A brand is a constellation of impressions that takes shape over time]]
 
-#### Citations
+#### Citation
 Sharp, Byron. How Brands Grow: What Marketers Don’t Know. Illustrated edition. Oxford ; New York: Oxford University Press, 2010.

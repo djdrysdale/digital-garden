@@ -1,4 +1,9 @@
-tags: #lit
+---
+title: Four offenses we commit when reasoning (Peirce)
+date: 2021-02-26
+description: CS Peirce identifies the four main offenses we commit while reasoning. 
+tags: literature
+---
 
 CS Peirce outlined four offenses that we commit when we reason. As recounted by Madsbjerg, these offenses are: 
 
@@ -8,9 +13,9 @@ CS Peirce outlined four offenses that we commit when we reason. As recounted by 
 4) we we believe that any truth exists in a final state. 
 
 ---
-## Related
+#### Related
 - [[¶ Abductive reasoning]]
 - [[Only abductive reasoning can produce new ideas (Peirce)]]
 
-## Citations
+#### Citations
 Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.

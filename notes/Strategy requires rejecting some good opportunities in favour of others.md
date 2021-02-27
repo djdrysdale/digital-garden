@@ -9,8 +9,8 @@ One of the main challenges of strategy is recognizing which situations to invest
 This is rarely a simple black and white decision; strategy is typically [[Strategy is more design than decision-making|more design than decision-making]]. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

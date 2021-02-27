@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Focus competitive research on customers
+date: 2021-02-26
+description: Competitive research should remain focused on customers and their problems rather than feature parity.
+tags: literature
+---
 
 A common practice in design and product research is to perform a feature-by-feature comparison between competitors. Sometimes, this is a heavy influence on the product roadmaps, under the supposition that feature parity is desirable or even critical to compete. 
 
@@ -9,10 +14,10 @@ An additional risk is that it's very difficult to know or understand the rationa
 The better mindset to have when approaching competitive research is to focus on customer needs. Keep in mind that the customer doesn't want to use your product; they want to solve for some need or problem that they have. Use the competitive scan to understand the options they have for solving that problem, and consider how they meet their needs without you. Then, look to solve a better product or solution than what's already available. 
 
 ---
-## Related
+#### Related
 - [[Focusing on feature parity creates a commodity market]]
 
-## Citations
+#### Citations
 Acunzo, Jay. Break the Wheel: Question Best Practices, Hone Your Intuition, and Do Your Best Work. Unthinkable Media, 2018.
 
 Kalbach, Jim, and Michael Schrage. The Jobs To Be Done Playbook: Align Your Markets, Organization, and Strategy Around Customer Needs. New York: Two Waves Books, 2020.

@@ -8,8 +8,8 @@ This is not to say that strategy is not empirical; on the contrary, any good str
 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

@@ -1,13 +1,18 @@
-tags: #lit 
+---
+title: Experientialism suggests that truth is relative to our interactions
+date: 2021-02-26
+description: An experientalist approach acknowledges that objective truth is elusive while rejecting the notion that there is no such thing as truth.
+tags: literature
+---
 
 The experientialist approach provides a "third way" between objectivism and subjectivism. It acknowledges that no vantage point provides us with the objective truth of or experiences. However, it rejects the idea that there is no truth. Instead, it positions truth as being relative to our conceptual system, something that is constantly tested and re-evaluated through our experiences and interactions with others and with the world around us. Objectivity is relative to how a culture conceives of reality. In other words, in the words of Lakoff and Johnson, "we understand the world through our interactions with it." Truth derives from understanding.
 
 ---
-## Related
+#### Related
 - [[Four Theories of Truth]]
 - [[Objectivism assumes a concrete, knowable world]]
 - [[Rationalistic models of human behaviour are limiting.]]
 - [[Subjectivism suggests that our senses and emotions are our best guides to truth]]
 
-## Citations
+#### Citations
 [[≈ Lakoff and Johnson - Metaphors We Live By|Lakoff, George, and Mark Johnson. Metaphors We Live By. University of Chicago Press, 2008.]]

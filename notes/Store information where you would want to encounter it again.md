@@ -7,8 +7,8 @@ When archiving our notes or other information, we typically organize it into a b
 This is a key tenet of how a [[§ Zettelkasten]] is organized; its heavily linked structure is meant to confront us with ideas from our past and [[Learning is enhanced by surprise|surprise us]] with thoughts we forgot we had at just the right moment. 
 
 ---
-## Related
+#### Related
 - [[Design environments to facilitate behaviours]]
 
-## Citations
+#### Related
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]

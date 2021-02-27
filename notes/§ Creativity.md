@@ -25,5 +25,5 @@ tags: structure
 - [[Knowledge is a compounding investment]]
 - [[Design environments to facilitate behaviours]]
 
-## Related
+#### Related
 [[§ Innovation]]

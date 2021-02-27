@@ -9,9 +9,9 @@ It does not follow that a narrative has to be true. A fictional narrative can co
 Rather than referring to narratives as true or false, we should look to understand them as useful or not. 
 
 ---
-## Related
+#### Related
 - [[Narrative helps the human mind make sense of events]]
 - [[¶ Economic narrative (Shiller)]]
 
-## Citations
+#### Related
 [[≈ King and Kay - Radical Uncertainty|Kay, John, and Mervyn King. Radical Uncertainty: Decision-Making Beyond the Numbers. New York, NY: WW Norton, 2020.]]

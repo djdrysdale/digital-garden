@@ -7,7 +7,7 @@ Ask: who else is fulfilling the same or similar jobs to be done? From there, eva
 Organizations should strive to identify points at which, if constraints were to change, a competitor would be able to address their customers in a new or better way. 
 
 ---
-## Related:
+#### Related:
 [[Strategic inflection points disrupt the underlying assumptions of a business or industry]]
 [[Change happens gradually, then suddenly.]]
 [[Innovation cascades]]

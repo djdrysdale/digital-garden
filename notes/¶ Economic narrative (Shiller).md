@@ -28,5 +28,5 @@ As Shiller puts it, "new contagious narratives cause economic events, and econom
 - [[Narratives generate real-world effects.]]
 - [[Metaphors structure our interpretation of the world]]
 
-#### Citation
+#### Citations
 Shiller, Robert J. *Narrative Economics: How Stories Go Viral and Drive Major Economic Events*. Princeton: Princeton University Press, 2019.

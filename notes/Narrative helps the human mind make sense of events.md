@@ -13,8 +13,8 @@ People will make decisions based on their perception of what others are thinking
 Amy Webb suggests that narratives are powerful tools for communicating future scenarios, providing strategists with a clearer vision of possible outcomes than abstract data can provide. This enables them to imagine possible scenarios and determine how to act in the present in response. 
 
 ---
-## Related
+#### Related
 - [[Metaphors structure our interpretation of the world]]
 
-## Citations
+#### Related
 [[≈ Shiller - Narrative Economics|Shiller, Robert J. Narrative Economics: How Stories Go Viral and Drive Major Economic Events. Princeton: Princeton University Press, 2019.]]

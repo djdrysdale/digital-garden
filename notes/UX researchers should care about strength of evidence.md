@@ -8,7 +8,7 @@ Hodgson says that a researcher should strive to collect data that is *valid*, me
 
 
 ---
-## Related
+#### Related
 - [[Qualitative researchers care more about data saturation than sample size]]
 
 ## Citation

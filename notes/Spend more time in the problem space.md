@@ -8,11 +8,11 @@ But it's often a more valuable use of time to dwell in the problem space, probab
 Only when we acknowledge uncertainty can we overcome uncertainty. As Erika Hall puts it, we can't learn unless we admit we don't know something.
 
 ---
-## Related
+#### Related
 - [[People fill information gaps with assumptions]]
 - [[Salience is subjective]] - What we deem salient to a situation is a product of our subjective perspective
 
-## Citations
+#### Related
 Hall, Erika. “The 9 Rules of Design Research.” Medium (blog), October 24, 2019. https://medium.com/mule-design/the-9-rules-of-design-research-1a273fdd1d3b.
 
 [[≈ Madsbjerg - Sensemaking|Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.]]

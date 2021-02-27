@@ -9,10 +9,10 @@ This can be challenging to accomplish, as we tend to specialize over time, retur
 Roger Martin calls this practice "assertive inquiry."
 
 ---
-## Related
+#### Related
 - [[Narratives enable us to act decisively in conditions of uncertainty]] - A mental model is a kind of narrative to help us maneuver through complexity. 
 - [[Cognitive diversity enhances team problem solving capabilities]] - Teams that are cognitively diverse expend our view of what is salient to the problem space.
 - [[Specialization narrows our perspective on what is salient to a problem]] - When we specialize, we risk narrowing our focus and might overlook salient information or data.
 
-## Citations
+#### Related
 [[≈ Martin - The Opposable Mind|Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.]]

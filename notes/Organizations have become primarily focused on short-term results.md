@@ -11,12 +11,12 @@ A lack of consideration for the long-term effects of pursuing short-term metrics
 Real change requires delayed gratification. Many things that are the most valuable in the long term require that we endure short-term pain. This is generally true for individuals as well as organizations: we have difficulty making decisions that we know will deliver greater value in the long term if the short term cost is greater than another option.
 
 ---
-## Related:
+#### Related:
 - [[Fixating on metric data biases us to the short term]]
 - [[Efficiency is over-valued]]
 - [[Loss aversion creates tension between the need to innovate and the need to protect the status quo in large organizations]]
 
-## Citations
+#### Related
 Gupta, Sunil. *Driving Digital Strategy: A Guide to Reimagining Your Business*. Boston, Massachusetts: Harvard Business Review Press, 2018.
 
 - [[≈ Sinek - The Infinite Game]]

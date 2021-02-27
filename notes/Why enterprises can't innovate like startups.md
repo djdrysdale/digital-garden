@@ -10,8 +10,8 @@ tags: #lit #refactor
 - If and when there is conflict over resources between the core business and the innovation team, the core business will win. Therefore, it’s vital to have clear policies to ensure that innovation teams are able to effectively collaborate with the core business. 
 
 ---
-## Related
+#### Related
 - [[If two parts of a system move at different rates, it can create conflict]]
 
-## Citations
+#### Related
 [[≈ Viki - Pirates in the Navy|Viki, Tendayi. Pirates In the Navy How Innovators Lead Transformation. Unbound, 2020.]]

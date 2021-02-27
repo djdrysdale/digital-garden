@@ -7,8 +7,8 @@ It's more accurate to treat strategy as design. A strategy is not selected so mu
 It can be difficult to perceive a design-type strategy in the actions of large, established incumbents, who typically operate under fewer constraints and get away with less coordination. Instead, look at disruptors or invaders whose actions must be more tightly integrated due to their size and market position. Of course there are significant differences between these kinds of organizations; large firms must maintain their current business model while looking for new ones--see [[Why enterprises can't innovate like startups]]. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

@@ -9,9 +9,9 @@ They are therefore impossible to model or forecast with any accuracy. Instead, d
 In the absence of this work, we risk introducing alogrithmic thinking that may reify or amplify underlying structural challenges or inequalities that produced the very condition we hope to resolve. In other words, we risk unwittingly turning "evidence-driven policy" into "policy-driven evidence."
 
 ---
-## Related
+#### Related
 - [[Different kinds of uncertainty]]
 - [[Volatile environments motivate us to avoid uncertainty]]
 
-## Citations
+#### Related
 [[≈ King and Kay - Radical Uncertainty|Kay, John, and Mervyn King. Radical Uncertainty: Decision-Making Beyond the Numbers. New York, NY: WW Norton, 2020.]]

@@ -7,10 +7,10 @@ Daniel Kahnemann describes the phenomenon of "what you see is all there is," a c
 This is an example of how System 1 thinking supersedes System 1 thought. It enables us to make judgments quickly, but these decisions may not be well-informed. 
 
 ---
-## Related
+#### Related
 - [[Narratives generate real-world effects.]]
 - [[Rationalistic models of human behaviour are limiting.]]
 - [[Decontextualize ideas to make them new]]
 
-## Citations
+#### Related
 - [[Varol - Think Like a Rocket Scientist]]

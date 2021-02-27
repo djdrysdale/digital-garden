@@ -21,12 +21,12 @@ When choosing a method, you will also need to consider any operating constraints
 If you can do only one thing, do qualitative (think-aloud) usability testing. Nielsen-Norman Group contends that this is the most effective method to improve usability. 
 
 ---
-## Related
+#### Related
 - [[Landscape of UX research methods]]
 - [[Base strategy on leading, not lagging, indicators]]
 - [[De-risk innovation by making smaller bets]]
 - [[Qualitative research creates mental models about the problem space.]]
 - [[Qualitative researchers care more about data saturation than sample size]]
 
-## Citations
+#### Related
 Rohrer, Christian. “When to Use Which User-Experience Research Methods.” Nielsen Norman Group (blog). Accessed October 13, 2020. https://www.nngroup.com/articles/which-ux-research-methods/.

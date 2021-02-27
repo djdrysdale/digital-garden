@@ -1,4 +1,9 @@
-tags: #perm #refactor
+---
+title: Integrate innovation into the broader organization
+date: 2021-02-26
+description: Siloing innovation to separate labs or teams rarely produces the desired results. Innovation teams must be fully integrated into the organization. 
+tags: perm
+---
 
 Organizations need to consider how innovation fits into their org chart, including defining clear career paths for innovators. 
 
@@ -13,13 +18,14 @@ Innovation efforts need to align well with the broader strategy and objectives o
 The tools of innovation, adopted from agile development, new business models, lean startup, and design thinking, need to be adopted across the entire organization, not just in small pockets. 
 
 ---
-## Related 
+#### Related 
 - [[Organizations have become primarily focused on short-term results]]
 - [[Organizations that depend on tolerability are ripe for disruption.]]
 
-## Citations
+#### Citations
 Gupta, Sunil. Driving Digital Strategy: A Guide to Reimagining Your Business. Boston, Massachusetts: Harvard Business Review Press, 2018.
 
-- [[≈ Johnson - Where Good Ideas Come From]]
+[[≈ Johnson - Where Good Ideas Come From]]
+
 [[≈ Viki - Pirates in the Navy|Viki, Tendayi. Pirates In the Navy How Innovators Lead Transformation. Unbound, 2020.]]
 

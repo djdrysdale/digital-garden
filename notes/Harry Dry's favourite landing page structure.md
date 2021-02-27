@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Harry Dry's Landing Page Structure
+date: 2021-02-26
+description: Harry Dry offers a template for constructing digital marketing landing pages.
+tags: literature
+---
 
 Harry Dry's favourite landing page formula:
 
@@ -9,8 +14,8 @@ Harry Dry's favourite landing page formula:
 5) Make taking the next step easy (CTA)
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Citations
 - Link

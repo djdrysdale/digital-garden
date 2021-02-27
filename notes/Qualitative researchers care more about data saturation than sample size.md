@@ -7,11 +7,11 @@ In UX research, there is also often the advantage that the deliverable our resea
 Still, as Kay points out, researchers should take care the sample size is appropriate; it would be foolhardy, for instance, to use a small sample size for an A/B test. Moreover, user researchers should take care to not use the language of quantitative methods when describing qualitative results. For example, if we emphasize that five out of six users reported something, it may suggest a confidence interval that isn't wholly appropriate for a qualitative study. 
 
 ---
-## Related
+#### Related
 - [[How many users should you interview]]
 - [[Qualitative and quantitative research represent different philosophies of knowledge.]]
 
-## Citations
+#### Related
 Kay, Joseph. “Why User Researchers Should Care about Sample Size.” *Medium* (blog), February 20, 2018. https://medium.com/designing-lyst/why-user-researchers-should-care-about-sample-size-fbb0b4215b3a.
 
 Seaman, Mitchel. “The Right Number of User Interviews.” *Medium* (blog), October 5, 2015. https://medium.com/@mitchelseaman/the-right-number-of-user-interviews-de11c7815d9.

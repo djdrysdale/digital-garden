@@ -9,7 +9,7 @@ The appropriate measure for progress in innovation isn’t the number of ideas y
 Investing in multiple inexpensive ideas in parallel helps the organization invalidate a greater number ideas more quickly. With each iteration, the failure makes the product or solution stronger. As [[Steven Johnson]] argues, uncovering errors can help us look at things in new ways and rethink our assumptions. We should embrace noise and error. 
 
 ---
-## Related
+#### Related
 - [[De-risk innovation by making smaller bets]]
 - [[¶ Falsifiability]]
 - [[Garbage in, garbage out.]]

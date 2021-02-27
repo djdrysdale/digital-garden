@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Give abstract concepts a human face
+date: 2021-02-26
+description: Abstract concepts can be more clearly communicated if they are made concrete and humanized.
+tags: literature
+---
 
 > In other words, the column put a human cast on a bloodless topic—a central skill for the writer, because people are the prism through which readers love to view the world. (Flaherty 6)
 
@@ -7,8 +12,8 @@ When describing abstract concepts—the economy, markets, and so on—give them 
 But this doesn't mean just conveying an anecdote, or interviewing any person thinking back on their experience; the stakes must be *real* to that person. 
 
 ---
-## Related
+#### Related
 - [[Personas make abstract research concrete for design teams]] - A persona is an example of this concept applied to user research
 
-## Citations
+#### Citations
 [[≈ Flaherty - The Elements of Story|Flaherty, Francis. The Elements of Story: Field Notes on Nonfiction Writing. Reprint edition. Harper Perennial, 2010.]]

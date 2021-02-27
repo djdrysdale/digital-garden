@@ -1,4 +1,9 @@
-tags: #perm
+---
+title: Decontextualize ideas to make them new
+date: 2021-02-26
+description: Pulling ideas out of context fosters new perspectives. 
+tags: perm
+---
 
 To be able to truly engage with ideas, we need to decontextualize them. Our brains try to fit ideas into existing, comfortable boxes and categories. Our impulse is to make things familiar. But, familiarity tricks us into thinking that we understand an idea—and that we like it. We short-circuit our ability to evaluate the idea critically.
 
@@ -16,12 +21,12 @@ Some examples of ways we do this:
 - In *Drawing on the Right Side of the Brain*, there's an exercise in which you turn an image upside-down. This helps break the system of symbols that we rely on to draw things that are familiar to us (e.g. features of a face) and focus instead on its shape and its contours as they actual appear, rather than as we have internalized them.
 
 ---
-## Related
+#### Related
 - [[Perspective is the most important differentiator]]
 - [[Information is abundant; perspective is scarce.]]
 - [[Different kinds of uncertainty]]
 
-## Citations
+#### Citation
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]
 
 Miller, Mark, Kathryn Nave, George Deane, and Andy Clark. “Use Uncertainty to Leverage the Power of Your Predictive Brain.” *Aeon*. Accessed October 21, 2020. https://aeon.co/essays/use-uncertainty-to-leverage-the-power-of-your-predictive-brain.

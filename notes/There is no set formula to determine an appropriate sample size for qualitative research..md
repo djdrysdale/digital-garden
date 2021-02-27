@@ -9,10 +9,10 @@ Seaman and Yocco have each suggested that the number of users interviewed may va
 - the experience of the researcher may reduce the required sample size
 
 ---
-## Related
+#### Related
 - [[UX researchers should care about strength of evidence]]
 
-## Citations
+#### Related
 Seaman, Mitchel. “The Right Number of User Interviews.” Medium (blog), October 5, 2015. https://medium.com/@mitchelseaman/the-right-number-of-user-interviews-de11c7815d9.
 
 Yocco, Victor. “Filling Up Your Tank, Or How To Justify User Research Sample Size And Data.” Smashing Magazine (blog). https://www.smashingmagazine.com/2017/03/user-research-sample-size-data/.

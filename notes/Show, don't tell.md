@@ -14,13 +14,13 @@ Showing is generally more vivid than telling; but, this does not mean that there
 However, [[Perspective is the most important differentiator|providing perspective is still critical]]. 
 
 --- 
-## Related
+#### Related
 - [[Metaphors structure our interpretation of the world]]
 - [[Narratives generate real-world effects.]]
 - [[Use language with necessity]] - Use words that count. 
 - [[Give abstract concepts a human face]] - Abstraction can tend toward telling; adding a human element can help to "show" their meaning. 
 
-## Citations
+#### Related
 Flaherty, Francis. The Elements of Story: Field Notes on Nonfiction Writing. Reprint edition. Harper Perennial, 2010.
 
 Torres, Teresa. “The Art of Managing Stakeholders Through Product Discovery.” Product Talk (blog), June 6, 2018. https://www.producttalk.org/2018/06/managing-stakeholders/.

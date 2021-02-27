@@ -9,9 +9,9 @@ Narratives mean more than just stories; narratives include models other tools fo
 To effectively make sense of a situation, [[Narratives should be credible and coherent but not necessarily true|a narrative must be both credible and coherent]].
 
 ---
-## Related
+#### Related
 - [[Narratives generate real-world effects.]]
 - [[Narrative helps the human mind make sense of events]]
 
-## Citations
+#### Related
 [[≈ King and Kay - Radical Uncertainty|Kay, John, and Mervyn King. Radical Uncertainty: Decision-Making Beyond the Numbers. New York, NY: WW Norton, 2020.]]

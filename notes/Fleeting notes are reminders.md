@@ -1,4 +1,9 @@
-tags: #perm
+---
+title: Fleeting notes are reminders
+date: 2021-02-26
+description: Taking temporary, fleeting notes while reading serves to remind us of ideas or concepts we wish to keep. 
+tags: perm
+---
 
 "Fleeting notes" as described by [[≈ Ahrens - How to Take Smart Notes|Sönke Ahrens]], refer to the scraps of [[Different kinds of zettelkasten notes|notes]] we (should) habitually take while reading or thinking via some ubiquitous capture method (digital or analog). These are the raw material of ideas. They don't serve much purpose on their own but to act as reminders. Put them in an inbox to be processed later—but not too much later. If there's too much of a delay between capturing the fleeting notes and when we process them, we may forget information we wanted to keep.
 
@@ -9,10 +14,12 @@ Forms of capture like highlighting or underlining passages in a book and margina
 Because fleeting notes are reminders, they can be trashed after they've been processed. 
 
 ---
-## Related
-- Link
+#### Related
+- [[Make notes in your own words]]
+- [[Permanent notes develop new ideas]]
+- [[Write literature notes to inform permanent notes]]
 
-## Citations
+#### Citations
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]
 
 Luhmann, Niklas. “Communicating with Slip Boxes.” Translated by Manfred Kuehn. Two Essays by Niklas Luhmann. Accessed October 19, 2020. https://luhmann.surge.sh/communicating-with-slip-boxes.

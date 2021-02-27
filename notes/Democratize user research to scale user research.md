@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Democratize user research to scale user research
+date: 2021-02-26
+description: In large organizations demand for research can outstrip capacity. Empowering non-researchers to perform (some) research tasks can help manage scale.
+tags: literature
+---
 
 Large organizations' demand for research can outstrip capacity. Unless research is able to scale in response, it's possible for it to become a bottleneck for design and development. However, it can be difficult and sometimes inefficient to grow the number of researchers.
 
@@ -7,8 +12,8 @@ Democratizing research—that is, sharing research activities among non-research
 This approach should be scaled in gradually, as it still requires effort to support. Start by democratizing lower complexity, evaluative research activities; research specialists can continue to perform generative research.
 
 ---
-## Related
+#### Related
 - [[Make research insights easy to find, consume, and use]] - Research is pointless if it's not made accessible to those who need to act on it
 
-## Citations
+#### Citations
 - 

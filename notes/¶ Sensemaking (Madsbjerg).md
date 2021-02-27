@@ -20,5 +20,5 @@ Sensemaking helps us identify the most appropriate contexts for data collection,
 - [[¶ Abductive reasoning]]
 - [[Different forms of empathy]]
 
-#### Citation
+#### Citations
 Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.

@@ -7,7 +7,7 @@ Decisions made as part of a strategy [[Strategy manufactures constraints|should 
 A strategy is informed by the mission and vision, and in turn informs the road map: the concrete steps that will bring the strategy to life.
 
 ---
-## Related
+#### Related
 - Link
 
 ## Citation

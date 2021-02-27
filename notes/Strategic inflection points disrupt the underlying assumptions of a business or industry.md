@@ -9,8 +9,8 @@ Strategic inflection points develop across four stages: **hype**, **dismissal**,
 Subsequently, in the emergent phase, stable players recognize how the world is changing due to the inflection point. The shift reaches maturity and is absorbed into the everyday assumptions of the organization. Those organizations who were able to adjust at the right time thrive at the expense of those who were not. 
 
 ---
-## Related
+#### Related
 - [[Change happens gradually, then suddenly.]]
 
-## Citations
+#### Related
 - [[McGrath - Seeing Around Corners]]

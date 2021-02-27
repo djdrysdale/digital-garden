@@ -9,12 +9,12 @@ Quantitative research, then, looks to explain reality *as it is*; qualitative re
 Mixed-methods research means combining philosophical points of view. Whereas quantitative researches seek precision and scale, qualitative researchers seek context and human empathy. Quantitative researchers want to know what happened, and how frequently. Qualitative researchers want to know how and why the thing occurred. 
 
 ---
-## Related
+#### Related
 - [[Four Theories of Truth]]
 - [[Quant data is lossy]]
 - [[Quantitative analysis is not inherently more reliable than qualitative data]]
 
-## Citations
+#### Related
 - [[≈ Ladner - Mixed Methods]]
 
 > At their core, these two approaches have differing belief systems about how knowledge is created (epistemology) and even more fundamentally, about what is reality itself (ontology).

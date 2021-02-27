@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Lean methodologies promote velocity at the expense of understanding
+date: 2021-02-26
+description: Lean methodologies make a trade off, sacrificing deep understanding in favour of rapid releases and iteration. 
+tags: literature
+---
 
 Design and product development methodologies like Lean are biased toward delivery. They're intended to limit waste and drive efficiency through "just in time" delivery of minimum viable solutions. This approach is intended to rapidly gather feedback from the market in order to drive continuous iteration on the product. 
 
@@ -9,11 +14,11 @@ For Hall, this has ethical implications; even if the solution is "user-centric"�
 Making good decision decisions, Hall says, means assessing the impact of design and business on people and planet. This means considering qualitative measures of value beyond "sleight-of-hand" techniques like NPS.
 
 ---
-## Related
+#### Related
 - [[User experience is only as good as the action it enables]]
 - [[Focusing too narrowly on efficiency creates risk]]
 - [[Ethical design requires a new definition of business value]]
 - [[User-centric design is not necessarily human-centric design]]
 
-## Citation 
+#### Citations 
 Hall, Erika. “Thinking in Triplicate.” Medium, April 30, 2020. https://medium.com/mule-design/a-three-part-plan-to-save-the-world-98653a20a12f.

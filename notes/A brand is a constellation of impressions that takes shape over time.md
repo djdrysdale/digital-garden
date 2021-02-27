@@ -16,5 +16,5 @@ Advertising serves to reify these memory structures in the consumer's mind.
 - [[Advertising changes the cultural meaning of products]] - Advertising modifies the meaning of a brand in terms of what it signals to others
 - [[Ideas are constellations]] - Ideas are constellations that are shaped into larger concepts
 
-#### Citations
+#### Related
 - Link

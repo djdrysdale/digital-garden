@@ -5,8 +5,8 @@ Systems that are unnecessarily rigid are prone to failure. They are threatened b
 Effective system design accepts the [[Change is disorienting because it is constant|inevitability of change]] and rather than resisting friction channels it or redirects it in productive directions. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]

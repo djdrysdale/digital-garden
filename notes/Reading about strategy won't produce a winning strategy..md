@@ -5,12 +5,12 @@ Good strategies are doomed by their own success. An especially effective strateg
 The publication of a strategy signals the end of its useful life. In a dynamic environment, it can reflect only the past. In other words, using a published strategy is like fighting with the rules of the last war. 
 
 ---
-## Related
+#### Related
 - [[Base strategy on leading, not lagging, indicators]]
 - [[Our vision of the future is always constrained by our view of the past.]]
 - [[Strategy is time-sensitive]]
 
-## Citations
+#### Related
 Chin, Cedric. “Much Ado About The OODA Loop.” Commonplace - The Commoncog Blog (blog), May 19, 2020. https://commoncog.com/blog/much-ado-about-the-ooda-loop/.
 
 > At this point, the idea-industrial complex whirs into work: the management consultants will turn the strategy into a set of cookie-cutter recommendations and sell it to competitors in adjacent (or even not-so-adjacent!) fields; the business professors will race to write papers and books to be sold to the management masses... This marks the beginning of the end of the effectiveness of the strategy. As more competitors learn the specifics of the winning approach, they either begin to adopt the strategy for themselves or learn to counter the strategy (if at all possible). This then makes the winning strategy less effective.

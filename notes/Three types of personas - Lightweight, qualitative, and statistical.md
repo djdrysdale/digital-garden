@@ -8,7 +8,7 @@ Qualitative personas are based on [[Personas start with qualitative research|qua
 
 Statistical or mixed-method personas build on qualitative personas. Statistical personas use quantitative methods, like surveys, to validate qualitative findings and [[Qualitative research seeks contextual understanding while qualitative research quantifies the presence of something|identify statistical patterns]]. This adds a veneer of scientific rigour to personas and provides assurance that the personas are statistically representative. However, the creation of statistical personas is far more time consuming than the other methods and may yield only incremental benefits. 
 
-## Related
+#### Related
 - [[Methods to overcome the limitations of personas]]
 - [[Landscape of UX research methods]]
 - [[People fill information gaps with assumptions]]

@@ -5,7 +5,7 @@ Charles Sanders Peirce suggested that only [[¶ Abductive reasoning|abductive re
 However, for the same reasons, abducitve reasoning is also subject to great fallibility. It's a muscle that requires training so that the practitioner is able to recognize a worthwhile insight. 
 
 ---
-## Related
+#### Related
 - [[¶ Abductive reasoning]]
 
 ## Citation

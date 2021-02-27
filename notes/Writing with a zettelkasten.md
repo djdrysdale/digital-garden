@@ -16,11 +16,11 @@ Ahrens' process:
 The translation phase is critical; an essay that is assembled from modular notes—no matter how well-written—will probably sound like it has been pieced together from fragments. It will lack unity of form and content. It's not as simple as just pasting together a series of zettels or fragment notes and adding transitions. Flaherty points to the example of some of Emerson's essays, which were put together in just this fashion: the voice is flat and the arguments suffer for the lack of unity. 
 
 ---
-## Related
+#### Related
 - [[Narrative sequencing informs meaning]] - The sequence in which the zettelkasten forms ideas may not make for a good reading experience
 - [[Good research starts with a good question]] - Look to the zettelkasten first to see how it might inform your answer and guide your subsequent research
 
-## Citations
+#### Related
 Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.
 
 Flaherty, Francis. The Elements of Story: Field Notes on Nonfiction Writing. Reprint edition. Harper Perennial, 2010.

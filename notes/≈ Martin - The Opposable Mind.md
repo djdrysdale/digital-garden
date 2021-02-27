@@ -27,5 +27,5 @@ The most successful leaders practice what Martin calls "integrative thinking": a
 - [[Salience is subjective]]
 - [[Specialization narrows our perspective on what is salient to a problem]]
 
-## Citation
+#### Citation
 Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.

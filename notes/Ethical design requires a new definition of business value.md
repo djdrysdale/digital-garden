@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Ethical design demands redefinition of business value
+date: 2021-02-26
+description: Good (that is, ethical) design is constrained by the profit motive.
+tags: literature
+---
 
 "Good" design—in the sense of ethical design—is constrained by the context in which it is produced. Design work being performed in a corporate or profit-motivated environment, then, is limited by the outcomes that it's intended to produce. The role of design in a business is to deliver results that are also good for the business. 
 
@@ -9,9 +14,9 @@ Reconciling this tension means reconsidering how value is measured. A more expan
 Ultimately, Hall argues, designers must find ways to ensure that what is good for the business is good for the customer, too. Otherwise, they will end up with unsustainable profits, or profit on human misery.
 
 ---
-## Related
+#### Related
 - [[Lean methodologies promote velocity at the expense of understanding]]
 - [[¶ Triple bottom line]]
 
-## Citations 
+#### Citations 
 Hall, Erika. “Thinking in Triplicate.” Medium, April 30, 2020. https://medium.com/mule-design/a-three-part-plan-to-save-the-world-98653a20a12f.

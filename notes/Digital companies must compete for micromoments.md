@@ -1,4 +1,9 @@
-tags: #lit
+---
+title: Digital companies compete for micromoments
+date: 2021-02-26
+description: Digital firms must deliver the right experience at just the right time, with consideration for fleeting attention spans.
+tags: literature
+---
 
 The terrain of competition is more focused than ever. No longer can organizations look to win the big moments, like holidays or the Superbowl. People touch their phones almost constantly, and every touch is a moment in which their loyalty can be earned or squandered. These are "micromoments" and to succeed, organizations must deliver the right experience in the right context at precisely the right time. Attention spans in these moments are astonishingly short; for more than one-third of mobile apps, engagements last less than a minute. But really, you may only have the time it takes for a customer to glance at their phone.
 
@@ -6,10 +11,10 @@ The terrain of competition is more focused than ever. No longer can organization
 
 
 ---
-## Related
+#### Related
 - [[§ Digital transformation]]
 - [[Digital transformation requires a long-term view.]]
 - [[Digital businesses are evaluated across industries]]
 
-## Citation
+#### Citations
 [[Gupta - Driving Digital Strategy|Gupta, Sunil. *Driving Digital Strategy: A Guide to Reimagining Your Business*. Boston, Massachusetts: Harvard Business Review Press, 2018.]]

@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Innovation thrives in open environments
+date: 2021-02-26
+description: Innovation and creativity thrive in open markets of ideas, where different perspectives and concepts are put into conversation with one another. 
+tags: literature
+---
 
 New ideas are built from the scraps of other ideas that we've encountered. When we piece those scraps together in new ways, we innovate and create. In contrast, siloed societies and organizations prevent flow of ideas between minds, what Johnson describes as "information spillover." 
 
@@ -10,9 +15,9 @@ Notably, innovative systems ride a tight line between order and chaos. They allo
 
 ---
 
-## Related
+#### Related
 - [[Integrate innovation functions with the broader organization]] - Siloing innovation onto specialized teams limits likely adoption.
 - [[Hierarchical systems limit connections across their horizontal layers]] - Hierarchies close off relationships between potentially related nodes.
 
-## Citations
-Johnson, Steven. Where Good Ideas Come from: The Seven Patterns of Innovation. London: Penguin, 2011.
+#### Citations
+[[≈ Johnson - Where Good Ideas Come From]]

@@ -14,5 +14,5 @@ It's tempting to structure our knowledge systematically; but, this has significa
 - [[Novel metaphors create novel ways of thinking]]
 - [[Design environments to facilitate behaviours]]
 
-#### Citations
+#### Citation
 Luhmann, Niklas. “Communicating with Slip Boxes.” Translated by Manfred Kuehn. Two Essays by Niklas Luhmann. Accessed October 19, 2020. https://luhmann.surge.sh/communicating-with-slip-boxes.

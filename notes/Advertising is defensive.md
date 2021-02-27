@@ -11,5 +11,5 @@ The purpose of advertising is defensive. It rarely helps to grow market share, b
 #### Related
 - [[Buyers eliminate most options unconsciously]]
 
-#### Citations
+#### Citation
 Sharp, Byron. How Brands Grow: What Marketers Don’t Know. Illustrated edition. Oxford ; New York: Oxford University Press, 2010.

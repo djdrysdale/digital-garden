@@ -8,7 +8,7 @@ The broader the scenario, the less likely you will be to find segments of users 
 
 The scope of [[Three types of personas - Lightweight, qualitative, and statistical|personas—broad or narrow—should be determined by the need for which they are being created.
 
-## Related 
+#### Related 
 - [[Shallow personas prompt their consumers to rely on assumptions to fill information gaps]]
 - [[Personas may create space for assumptions]]
 - [[Personas communicate research or they communicate assumptions]]

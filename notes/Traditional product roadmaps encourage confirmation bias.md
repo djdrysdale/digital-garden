@@ -7,13 +7,13 @@ The production of these roadmaps is often a considerable undertaking. They invol
 Because of this, organizations may be biased to seek out information that confirms the decisions and choices that informed the roadmap, and reluctant to change direction when conditions change or new information comes to light that calls the earlier decisions into question. 
 
 ---
-## Related
+#### Related
 - [[Brainstorming surfaces available ideas, not new ideas.]]
 - [[Innovation accrues in small, incremental steps.]]
 - [[Optimize for invalidating ideas.]]
 - [[Winning strategies result from good sensemaking]]
 
-## Citations
+#### Related
 - [[O'Reilly - Optimize to Be Right, Not Wrong]]
 
 

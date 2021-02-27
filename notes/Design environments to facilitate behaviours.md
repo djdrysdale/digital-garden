@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Design environments to facilitate behaviours
+date: 2021-02-26
+description: Focusing on environment design may be a more effective way to support behaviours rather than relying on willpower.
+tags: literature
+---
 
 Willpower is a finite resource, and difficult to sustain. Designing environments to facilitate desire behaviour is a much more effective approach in the long run. 
 
@@ -7,9 +12,9 @@ A well-designed environment demands less of our limited mental resources, enabli
 Design environments to reduce friction associated with the behaviours we wish to encourage, and to add friction to those we wish to discourage. 
 
 ---
-## Related
+#### Related
 - [[Rigid systems are fragile systems]]
 - [[Writing by hand is a forcing function]]
 
-## Citations
+#### Citations
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. *How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers*. Sönke Ahrens, 2017.]]

@@ -5,8 +5,8 @@ For a strategy to be sustainable over the long-term, it must be one that cannot 
 Sunil Gupta argues that in today's economy, [[Competitive advantage today relies on ecosystem advantage|competitive advantage relies on ecosystem advantage]] that build network effects and increase switching costs through complementary, connected products.
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 - Link

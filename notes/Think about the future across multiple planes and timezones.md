@@ -8,8 +8,8 @@ How quickly trends evolve and change is a factor of evens that are taking place 
 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 [[≈ Webb - The Signals are Talking|Webb, Amy. The Signals Are Talking: Why Today’s Fringe Is Tomorrow’s Mainstream. New York: PublicAffairs, 2018.]]

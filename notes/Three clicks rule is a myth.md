@@ -5,8 +5,8 @@ The so-called "three clicks rule," which stipulated that all information on a we
 In fact, there are situations in which more clicks might deliver the better experience. More clicks provides a sense of control, and so they may be appreciated in risky or weighty transactions. As well, the limitations of the device must be considered, as well. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 Goesch, Robert. “Stop Counting Clicks.” Boxes and Arrows (blog), October 12, 2020. https://boxesandarrows.com/stop-counting-clicks/.

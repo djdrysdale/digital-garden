@@ -7,8 +7,8 @@ These activities must be coherent with one another: that is, they must be orches
 The coherent actions are how the organization applies strength against areas of weakness or toward the best opportunity. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

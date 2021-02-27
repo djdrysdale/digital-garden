@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Four types of knowledge (Madsjberg)
+date: 2021-02-26
+description: Christian Madsbjerg identifies four different types of knowledge: objective, subjective, shared, and sensory.
+tags: literature
+---
 
 Madsbjerg identifies four types of knowledge: 
 
@@ -10,8 +15,8 @@ Madsbjerg identifies four types of knowledge:
 No one form of knowledge is inherently superior to any other. 
 
 ---
-## Related
+#### Related
 - [[Four Theories of Truth]]
 
-## Citation
+#### Citations
 Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.

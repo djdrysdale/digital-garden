@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Measuring performance stymies organizational intimacy
+date: 2021-02-26
+description: Metrics can become a substitute for close personal relationships or intimate interpersonal knowledge within organizations. 
+tags: literature
+---
 
 Metrics are used as a substitute for the close personal relationships or intimate knowledge within organizations as well. They help leadership feel as though they know or understand complex organizations without needing to understand the full breadth and depth of activities of those below them on the corporate ladder. Measurement is believed to help overcome the “bounded rationality” of leaders of complex organizations, who cannot possibly understand the full breadth and depth of activities below them on the corporate ladder. Quantified measurement helps avoid the need for managers to have close familiarity with an organization or institution they run; this suits the need of both management consulting (which helped promulgate the gospel of scientific management) and managers themselves, who can more easily move between companies and industries as a result. 
 
@@ -9,10 +14,10 @@ They also serve to bring into line employees who cannot be trusted to put the ne
 This contributes to a general [[Metric fixation is a symptom of a decline in social trust|decline in trust]], and may [[Measurement changes our relationship to our work.|change how we relate to our work]].
 
 ---
-## Related
+#### Related
 - [[Metric fixation is a symptom of a decline in social trust]]
 - [[Measurement changes our relationship to our work.]]
 - [[Measuring behaviour changes behaviour]]
 
-## Citations
+#### Citations
 [[≈ Muller - The Tyranny of Metrics]]

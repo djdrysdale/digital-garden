@@ -9,11 +9,11 @@ One common technique is "red teaming," a military practice whereby a team is ass
 Another similar technique is the pre-mortem. In this technique, the team projects ahead a certain period of time and imagines that their initiative was a complete and utter failure. They then work backwards and discuss what must have gone wrong to produce this result. Again, this can expose weaknesses that might undermine success. 
 
 ---
-## Related
+#### Related
 - [[¶ Falsifiability]]
 - [[Optimize for invalidating ideas.]]
 
-## Citations
+#### Related
 - Coyle - The Culture Code
 - Johnson - Far-Sighted
 - [[≈ Webb - The Signals are Talking]]

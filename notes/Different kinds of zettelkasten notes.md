@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Different kinds of zettelkasten notes
+date: 2021-02-26
+description: A rough taxonomy of zettelkasten notes, including fleeting, literature, permanent, and project notes.
+tags: literature
+---
 
 In the [[§ Zettelkasten|zettelkasten]] method as described by [[≈ Ahrens - How to Take Smart Notes|Ahrens]], there are three kinds of notes: 
 
@@ -11,10 +16,10 @@ Some approaches to zettelkasten include "[[Write literature notes to inform perm
 Notes should never be copied verbatim. Rephrasing ideas creates an immediate feedback loop: it requires one to wrestle with the idea and ensure that they understand it enough to articulate it in a new way. This requires understanding. (See [[Writing is thinking]].)
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Citations
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]
 
 Luhmann, Niklas. “Communicating with Slip Boxes.” Translated by Manfred Kuehn. Two Essays by Niklas Luhmann. Accessed October 19, 2020. https://luhmann.surge.sh/communicating-with-slip-boxes.

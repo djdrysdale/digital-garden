@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Innovation is management as much as creativity
+date: 2021-02-26
+description: In the enterprise, innovators will expend as much (or more) effort on stakeholder management as they will coming up with new ideas.
+tags: literature
+---
 
 Innovation is management as much as it is creativity. It is hard work. Much of that work is stakeholder management. 
 
@@ -13,8 +18,8 @@ Organizations will need coaching and support to maintain and drive innovation; a
 Defining strategic guidance for innovation requires engaging with leadership to assess current products, capabilities, and business models; evaluate the business environment, including trends and emerging technologies; identify key gaps; and define how to use innovation to respond. 
 
 ---
-## Related
+#### Related
 - [[Integrate innovation functions with the broader organization]]
 
-## Citations
+#### Citations
 - [[≈ Viki - Pirates in the Navy|Viki, Tendayi. Pirates In the Navy How Innovators Lead Transformation. Unbound, 2020.]]

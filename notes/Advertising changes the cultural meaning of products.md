@@ -20,5 +20,5 @@ This suggests to me that branding in industries that are not conspicuous (perhap
 - [[A brand is a constellation of impressions that takes shape over time]] - A brand comprises the impressions that accrue in the consumer's mind over time
 - [[Advertising is defensive]] - Advertising doesn't win new territory for a brand; it defends or reinforces ideas that already exist and prevents competitors from occupying that territory
 
-#### Citations
+#### Citation
 Simler, Kevin. “Ads Don’t Work That Way.” Melting Asphalt (blog). Accessed November 22, 2020. https://meltingasphalt.com/ads-dont-work-that-way/.

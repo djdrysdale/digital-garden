@@ -5,7 +5,7 @@ The job of personas is to make abstract findings from research feel more concret
 A name and photo may be included if they help the team remember the persona. However, [[Omit needless demographic information when creating personas|take care that this information is actually useful]].
 
 ---
-## Related
+#### Related
 - [[Omit needless demographic information when creating personas]]
 
 ## Citation

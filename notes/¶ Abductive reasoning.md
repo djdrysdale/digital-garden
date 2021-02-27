@@ -21,7 +21,7 @@ Roger Martin identifies a capacity for abductive reasoning as a key quality of i
 - [[¶ Deductive reasoning]] begins with a general theory and then tests against data to prove or disprove it
 - [[¶ OODA Loop]] is a decision-making concept that relies heavily on abductive reasoning in its observe and orient phases
 
-#### Citations 
+#### Citations
 [[≈ Ladner - Mixed Methods|Ladner, Sam. Mixed Methods: A Short Guide to Applied Mixed Methods Research. Sam Ladner, 2019.]]
 
 [[≈ Madsbjerg - Sensemaking|Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.]]

@@ -1,4 +1,9 @@
- tags: #lit     
+---
+title: Core needs and psychological maneuvers
+date: 2021-02-26
+description: Author Elizabeth George uses core needs and psychopathology to craft three-dimensional characters.
+tags: literature
+--- 
 
 In *Mastering the Process: From Idea to Novel* Elizabeth George suggests that wo ingredients that help understand characters are their **core need** and their **psychopathology** or psychological maneuver. 
 
@@ -43,8 +48,8 @@ George, Elizabeth. Mastering the Process: From Idea to Novel. Viking, 2020.
 
 
 ---
-## Related
+#### Related
 - [[§ Writing]]
 
-## Citations
+#### Citations
 George, Elizabeth. *Mastering the Process: From Idea to Novel*. Viking, 2020.

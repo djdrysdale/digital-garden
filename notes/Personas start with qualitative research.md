@@ -13,10 +13,10 @@ Teams and organizations will sometimes create personas based on their best curre
 Personas should be living, breathing documents. As knowledge about the user or customer evolves, so should the personas. 
 
 ---
-## Related
+#### Related
 - Link
 
-## Citations
+#### Related
 Cooper, Alan. The Inmates Are Running the Asylum. Sams Publishing, 2004.
 
 Laubheimer, Page. “3 Persona Types: Lightweight, Qualitative, and Statistical.” Nielsen Norman Group (blog). Accessed October 12, 2020. https://www.nngroup.com/articles/persona-types/.

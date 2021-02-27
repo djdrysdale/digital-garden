@@ -1,4 +1,9 @@
-tags: #perm
+---
+title: Honing intuition
+date: 2021-02-26
+description: Intuition isn't a static talent but a skill that can be honed through the thoughtful consumption of good ideas. 
+tags: perm
+---
 
 In Sönke Ahrens words, intuition is the "sedimented experience on which we build our conscious, explicit knowledge." To intuit good ideas, we must first consume good ideas. 
 
@@ -9,10 +14,10 @@ Our consumption should be broad: if we focus narrowly on a specific area of expe
 Not only that, we need to be able to process that information. According to Hubert Dreyfus, simply acquiring and memorizing facts is only the first step toward learning something. As our skill grows, we move beyond memorized rules and become better at recognizing patterns in the data we have. From there, we grow to become more skilled at filtering the good information from the noise, before building a strong sense of how the information connects together holistically, rather than as a set of discrete facts. Finally, with true expertise, we're able to leverage that accumulated information and experience to intuit a decision without necessarily needing to consciously analyze the situation. 
 
 ---
-## Related
-- Link
+#### Related
+- [[Garbage in, garbage out.]]
 
-## Citations
+#### Citations
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]
 
 Bhargava, Rohit. *Non Obvious Megatrends: How to See What Others Miss and Predict the Future*. Ideapress Publishing, 2020.

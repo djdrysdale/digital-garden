@@ -15,7 +15,7 @@ Related:
 - [[Inflection points reveal themselves first at the edges]]
 - [[Winning strategies result from good sensemaking]]
 
-## Citations
+#### Related
 [[McGrath - Seeing Around Corners|McGrath, Rita Gunther. Seeing around Corners: How to Spot Inflection Points in Business before They Happen. Boston, Massachusetts: Houghton Mifflin Harcourt, 2019.]]
 
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

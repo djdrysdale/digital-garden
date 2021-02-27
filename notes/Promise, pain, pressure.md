@@ -9,10 +9,10 @@ Third, discuss competition—the pressure. This is trickier. Keep in mind that y
 
 
 ---
-## Related
+#### Related
 - [[Corporate innovation means discovering sustainable new business models]]
 - [[Involve delivery teams in product discovery]]
 - [[Work backwards from a long-term vision of the future to define proximate objectives]]
 
-## Citations
+#### Related
 Cutler, John. “TBM 5/52: The Promise, The Path, The Pressure,” February 4, 2020. [https://cutlefish.substack.com/p/tbm-552-the-promise-the-path-the](https://cutlefish.substack.com/p/tbm-552-the-promise-the-path-the).

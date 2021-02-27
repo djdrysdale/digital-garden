@@ -1,4 +1,9 @@
-tags: #lit
+---
+title: Four Theories of Truth
+date: 2021-02-26
+description: Epistemology posits at least four theories by which a claim's truth can be measured: correspondence, coherence, consensus, or pragmatic. 
+tags: literature
+---
 
 In epistemology, there are generally four theories by which a claim may be evaluated as true. These are
 
@@ -16,11 +21,11 @@ Outcome-oriented product management seems to favour the pragmatic theory as well
 Collectively, we rely on each of these theories of truth in different situations. For example, we may follow the consensus of a community of experts to evaluate the effectiveness of a treatment prescribed to us by a medical profession without personally weighing the evidence. 
 
 ---
-## Related
+#### Related
 - [[¶ Falsifiability]]
 - [[Objectivism assumes a concrete, knowable world]]
 - [[Quantitative analysis is not inherently more reliable than qualitative data]]
 - [[§ Research]]
 
-## Citations
+#### Citations
 Chin, Cedric. “The Four Theories of Truth As a Method for Critical Thinking.” Commonplace - The Commoncog Blog (blog), September 15, 2020. https://commoncog.com/blog/four-theories-of-truth/.

@@ -7,9 +7,9 @@ People can be strongly persuaded by sequencing. Evidence builds like a crescendo
 But, keep in mind your purpose: if your goal is to inform rather than to persuade, your approach should change accordingly. A newspaper reporter updating a reader on the events of the day shouldn't write a mystery story.
 
 ---
-## Related
+#### Related
 - [[Ensure the trunk of a narrative is more substantial than the branches]] - Emphasize what is actually important to the story. 
 - [[Inform rather than persuade]] - When reporting on research and matters of public health, write to inform rather than to persuade. 
 
-## Citations
+#### Related
 [[≈ Flaherty - The Elements of Story|Flaherty, Francis. The Elements of Story: Field Notes on Nonfiction Writing. Reprint edition. Harper Perennial, 2010.]]

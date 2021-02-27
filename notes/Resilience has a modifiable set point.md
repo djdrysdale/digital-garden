@@ -7,8 +7,8 @@ For example, leaders in an organization can help grow resiliency by focusing on 
 Individuals, meanwhile, can improve their resiliency set point by compartmentalizing their work and other areas of their lives, and finding what in their work gives them a sense of purpose and strength.
 
 ---
-## Related
+#### Related
 - [[Managers craft safe environments for their people]] - The role of a manager or leader is to create environments in which their reports can flourish
 
-## Citations
+#### Related
 Buckingham, Marcus. “The Sources of Resilience.” MIT Sloan Management Review. Accessed December 5, 2020. https://sloanreview.mit.edu/article/the-sources-of-resilience/.

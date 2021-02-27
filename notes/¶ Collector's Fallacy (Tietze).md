@@ -13,11 +13,11 @@ We must do more than acquire texts. We need to read them and most importantly as
 
 
 ---
-## Related
+#### Related
 - [[Knowledge is a compounding investment]]
 - [[Knowledge work means transforming old ideas into new ones]]
 - [[Writing is thinking]]
 
 
-## Citations
+#### Citations
 - Tietze, Christian. "The Collector's Fallacy." Zettelkasten.de. https://www.instapaper.com/read/1303780347 
