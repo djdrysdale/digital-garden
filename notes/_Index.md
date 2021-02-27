@@ -1,8 +1,8 @@
 ---
-Title: Index
-Date: 2021-02-26
-Description: An hub page that indexes different collections of notes.
-Tags: structure
+title: Index
+date: 2021-02-26
+description: An hub page that indexes different collections of notes.
+tags: structure
 ---
 
 ## Creativity and ideas
