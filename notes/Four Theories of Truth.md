@@ -1,7 +1,7 @@
 ---
 title: Four Theories of Truth
 date: 2021-02-26
-description: Epistemology posits at least four theories by which a claim's truth can be measured: correspondence, coherence, consensus, or pragmatic. 
+description: Epistemology posits that truth can be evaluated against the qualities of correspondence, coherence, consensus, or pragmatism. 
 tags: literature
 ---
 
@@ -12,13 +12,13 @@ In epistemology, there are generally four theories by which a claim may be evalu
 3. The consensus theory of truth: a claim is true if it conforms to the general consensus on the matter
 4. The pragmatic theory of truth: a claim is true if it it is useful or otherwise beneficial to believe in it
 
-Understanding each of these methods provides a rubric by which a claim can be evaluated. Weighing the claim against each model in turn can help facilitate critical thought. 
+Understanding each of these methods provides a rubric by which a claim can be evaluated. Weighing the claim against each model in turn can help facilitate critical thought.
 
-Some groups or cultures may skew more heavily toward one model than another. For instance, the scientific method relies on the correspondence theory of truth when it considers and experimentally evaluates a hypothesis. As another example, [[Cedric Chin]] notes that Singaporean culture tends to put much stock in pragmatic theories of truth. 
+Some groups or cultures may skew more heavily toward one model than another. For instance, the scientific method relies on the correspondence theory of truth when it considers and experimentally evaluates a hypothesis. As another example, [[Cedric Chin]] notes that Singaporean culture tends to put much stock in pragmatic theories of truth.
 
-Outcome-oriented product management seems to favour the pragmatic theory as well. an approach is valid if it produces the desired result, regardless of why it succeeded. However, practitioners would likely suggest that their method is more akin to the correspondence theory, which feels more scientifically grounded. Of course, neither theory is innately superior to the other, so it probably doesn't matter. 
+Outcome-oriented product management seems to favour the pragmatic theory as well. an approach is valid if it produces the desired result, regardless of why it succeeded. However, practitioners would likely suggest that their method is more akin to the correspondence theory, which feels more scientifically grounded. Of course, neither theory is innately superior to the other, so it probably doesn't matter.
 
-Collectively, we rely on each of these theories of truth in different situations. For example, we may follow the consensus of a community of experts to evaluate the effectiveness of a treatment prescribed to us by a medical profession without personally weighing the evidence. 
+Collectively, we rely on each of these theories of truth in different situations. For example, we may follow the consensus of a community of experts to evaluate the effectiveness of a treatment prescribed to us by a medical profession without personally weighing the evidence.
 
 ---
 #### Related
