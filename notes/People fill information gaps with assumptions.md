@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: People fill information gaps with assumptions
+date: 2021-02-26
+description: When people receive incomplete information they make assumptions to satisfy the gap. 
+tags: literature
+---
 
 Nature abhors a vacuum; the mind abhors a gap in information. When people receive information that is incomplete in some way, they will try to fill the gaps with their own assumptions. We too easily decide that we know things, even when gaps remain; we skim past the gaps in our knowledge and fill in the gaps with myths and stories that help overcome our uncertainty. We make up stories and pretend they are true.
 
@@ -12,5 +17,5 @@ This is an example of how System 1 thinking supersedes System 1 thought. It enab
 - [[Rationalistic models of human behaviour are limiting.]]
 - [[Decontextualize ideas to make them new]]
 
-#### Related
+#### Citations
 - [[Varol - Think Like a Rocket Scientist]]

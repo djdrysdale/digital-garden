@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Metric fixation is a symptom of a decline in trust
+date: 2021-02-26
+description: Quantitative measures of activity provide fodder for a defensible position, overcoming a fundamental lack of trust with apparent accountability and transparency.
+tags: literature
+---
 
 Quantitative measurement of performance—of peoples, of organizations, of institutions—purports to provide accountability and transparency. But this heightened expectations for [[key performance indicators]] and metrics is a symptom of a broader erosion of social trust. It’s part of a broader [[¶ Economic narrative (Shiller)|economic narrative]] that tells us that human judgment is inherently fallible and untrustworthy; numbers provide the objective truth of the matter where human judgment cannot or will not. Numbers provide objective criteria by which to assess the performance of others and ourselves, while providing evidence to protect us accusations of mismanagement or poor [[decision-making]]. Often, we're less interested in the right decision than the defensible one; pointing to supposedly "scientific" or "objective" data helps on that score. 
 
@@ -13,7 +18,7 @@ Of course, this assumes the numbers themselves can be trusted. Unfortunately, [[
 - [[Measuring performance stymies organizational intimacy]]
 - [[Measurement changes our relationship to our work.]]
 
-#### Related
+#### Citations
 [[≈ Muller - The Tyranny of Metrics]]
 [[Sutherland - Alchemy]]
 

@@ -14,6 +14,6 @@ Because of this, organizations may be biased to seek out information that confir
 - [[Winning strategies result from good sensemaking]]
 
 #### Related
-- [[O'Reilly - Optimize to Be Right, Not Wrong]]
+- [[Optimize to be wrong, not right]]
 
 

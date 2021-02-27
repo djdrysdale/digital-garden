@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Personas alone can't help achieve empathy
+date: 2021-02-26
+description: Personas are often cited as helping design teams build empathy for their users. However, empathy requires concerted effort to see the world through another's eyes. 
+tags: literature
+---
 
 Personas are frequently cited as helping development teams achieve empathy for their users. 
 
@@ -12,5 +17,5 @@ There is also the risk that the creation and use of personas provides the design
 #### Related
 - Link
 
-#### Related
+#### Citation
 Haag, Maren, and Nicola Marsden. “Exploring Personas as a Method to Foster Empathy in Student IT Design Teams.” International Journal of Technology and Design Education, April 24, 2018. https://doi.org/10.1007/s10798-018-9452-5.

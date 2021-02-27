@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Optimize to be wrong, not right
+date: 2021-02-26
+description: Organizations should optimize to invalidate as many bad ideas as they can as quickly as they can rather than trying to prove themselves right. 
+tags: literature
+---
 
 Organizations should optimize to be wrong, not right: they should look to invalidate as many ideas as they can. Limiting initial investments and spreading risk across many possible ideas helps “narrow the cone of uncertainty” and enables the organization to home in on the most impactful solution. 
 
@@ -17,7 +22,7 @@ Investing in multiple inexpensive ideas in parallel helps the organization inval
 - [[Our vision of the future is always constrained by our view of the past.]]
 - [[Traditional product roadmaps encourage confirmation bias]]
 
-## Citation
+#### Citations
 [[≈ Johnson - Where Good Ideas Come From|Johnson, Steven. Where Good Ideas Come from: The Seven Patterns of Innovation. London: Penguin, 2011.]]
 
 O’Reilly, Barry. “Optimize to Be Wrong, Not Right.” Barry O’Reilly (blog), April 6, 2017. https://barryoreilly.com/optimize-to-be-wrong-not-right/.

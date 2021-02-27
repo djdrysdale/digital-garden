@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Models for interpreting dynamic situations require constant revision
+date: 2021-02-26
+description: By the time we build a mental model of a dynamic or volatile situations, it is probably out of date. 
+tags: literature
+---
 
 Dynamic situations by definition are constantly in flux. Therefore, by the time we build a new mental model of the situation, it's already outdated. A good strategist needs to be able to constantly shift back and forth between analysis and synthesis, repeatedly destroying and recreating their mental models in response to new or changed information. As soon as a mismatch between the mental model and reality becomes apparent, it's time to abandon that model. 
 
@@ -13,7 +18,7 @@ You must test the results of your synthesis, always looking out for internal inc
 - [[Traditional road maps force companies into confirmation bias]]
 - [[Winning strategies result from good sensemaking]]
 
-#### Related
+#### Citations
 - [[Chin - Good Synthesis is the Start of Good Sensemaking]]
 
 > The very instant you form a mental model of the situation, you will make decisions and take actions, and therefore change the situation that you have observed. Getting stuck with one conception of the battlefield is a surefire way to be overtaken by the natural uncertainty of war (or be taken advantage of by a savvy enemy who is able to exploit your now static orientation).

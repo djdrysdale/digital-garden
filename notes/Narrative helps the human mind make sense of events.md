@@ -1,4 +1,9 @@
-tags: #lit #refactor
+---
+title: Narratives make sense of events
+date: 2021-02-26
+description: The human mind creates understanding of uncertain or ambiguous situations by shaping discrete events into a meaningful narrative. 
+tags: literature
+---
 
 The human mind crafts its understanding of events by forming them into a narrative. Kahnemann and Tversky’s “representativeness heuristic” suggests that people form expectations based on an idealized story or model, and evaluate expectations based on how well it fits that model rather than probabilities. 
 
@@ -16,5 +21,5 @@ Amy Webb suggests that narratives are powerful tools for communicating future sc
 #### Related
 - [[Metaphors structure our interpretation of the world]]
 
-#### Related
+#### Citations
 [[≈ Shiller - Narrative Economics|Shiller, Robert J. Narrative Economics: How Stories Go Viral and Drive Major Economic Events. Princeton: Princeton University Press, 2019.]]

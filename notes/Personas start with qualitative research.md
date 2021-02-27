@@ -1,4 +1,9 @@
-tags: #perm
+---
+title: Personas start with qualitative research 
+date: 2021-02-26
+description: Personas should be discovered through a process based around qualitative research. 
+tags: perm
+---
 
 Personas shouldn't be created so much as discovered. First and foremost, personas document research. Personas articulate patterns of thought and feeling. These are attributes that can't easily be quantified. Effective user personas should be an outcome of qualitative research. Personas should be the result of [[Sensemaking MOC|sensemaking]], not measurement. 
 
@@ -14,7 +19,9 @@ Personas should be living, breathing documents. As knowledge about the user or c
 
 ---
 #### Related
-- Link
+- [[§ Personas]]
+- [[Personas make abstract research concrete for design teams]]
+- [[Personas document shared understanding about users]]
 
 #### Related
 Cooper, Alan. The Inmates Are Running the Asylum. Sams Publishing, 2004.

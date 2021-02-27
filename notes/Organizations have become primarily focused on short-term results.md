@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Organizations primarily focus on short-term results
+date: 2021-02-26
+description: A change in perception about the role of business in our society motivates organizations to optimize for the short-term rather than longevity and sustainability. 
+tags: literature
+---
 
 The short-term perspective views the world as a finite game, contained, and with limited players and clear rules. According to [[≈ Sinek - The Infinite Game|Simon Sinek]], recent years have seen a pronounced shift toward short-term thinking. He characterizes it as a rental mindset: there's less of a sense of ownership, and businesses are built to be sold rather than to be sustainable. It's a rental mindset: businesses are built to be sold, not sustained. 
 
@@ -16,7 +21,7 @@ Real change requires delayed gratification. Many things that are the most valuab
 - [[Efficiency is over-valued]]
 - [[Loss aversion creates tension between the need to innovate and the need to protect the status quo in large organizations]]
 
-#### Related
+#### Citations
 Gupta, Sunil. *Driving Digital Strategy: A Guide to Reimagining Your Business*. Boston, Massachusetts: Harvard Business Review Press, 2018.
 
 - [[≈ Sinek - The Infinite Game]]

@@ -1,4 +1,9 @@
-tags: #lit
+---
+title: Most brands appeal to the same audiences rather than niches
+date: 2021-02-26
+description: Byron Sharp suggests there is little evidence that any brand appeals to its own slice of niche buyers. 
+tags: literature
+---
 
 Most brands appeal to the same people. According to Byron Sharp, there is little evidence that brand appeals to its own slice of niche buyers, e.g. the "price-conscious shopper" or "the strawberry ice cream fan." Any buyer might, in one situation or another, fall into another one of these supposedly distinct audiences. They're not meaningful identities.
 
@@ -10,5 +15,5 @@ A brand's distinctiveness—that is, how much does it stand out from other brand
 - [[Focus marketing on new or light buyers rather than heavy buyers]] - Marketing should prioritize reach 
 - [[Personalization makes demographics obsolete]] 
 
-#### Related
+#### Citations
 Sharp, Byron. How Brands Grow: What Marketers Don’t Know. Illustrated edition. Oxford ; New York: Oxford University Press, 2010.

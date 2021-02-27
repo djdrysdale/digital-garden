@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: People cope rather than optimize
+date: 2021-02-26
+description: Contrary to some economists do not seek to rationally optimize their circumstances. Rather, they are primed to cope. 
+tags: literature
+---
 
 Economists often work from an assumption that people are rational actors who seek to make optimal decisions. But as [[≈ King and Kay - Radical Uncertainty|King and Kay]] write, "real households, real businesses, and real governments do not optimize; they cope." 
 
@@ -9,5 +14,5 @@ We are all forced to continually make decisions based on incomplete and imperfec
 - [[Situations of radical uncertainty cannot be resolved through probabilistic thinking alone]]
 - [[Volatile environments motivate us to avoid uncertainty]]
 
-#### Related
+#### Citations
 [[≈ King and Kay - Radical Uncertainty|Kay, John, and Mervyn King. Radical Uncertainty: Decision-Making Beyond the Numbers. New York, NY: WW Norton, 2020.]]

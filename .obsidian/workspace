@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Methods to overcome the limitations of personas.md",
+            "file": "notes/Personas start with qualitative research.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Methods to overcome the limitations of personas.md",
+                "file": "notes/Personas start with qualitative research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "notes/Methods to overcome the limitations of personas.md",
-    "notes/Metaphors structure our interpretation of the world.md",
-    "notes/Metaphors create coherent systems of meaning.md",
-    "notes/Measuring performance stymies organizational intimacy.md",
-    "notes/Measuring behaviour changes behaviour.md",
-    "notes/Measurement is not cost-neutral.md",
-    "notes/Measurement changes our relationship to our work..md",
-    "notes/Marry form with function.md",
-    "notes/Market research is a poor tool for trendspotting.md",
-    "notes/Managers craft safe environments for their people.md"
+    "notes/Personas start with qualitative research.md",
+    "notes/Personas may create space for assumptions.md",
+    "notes/Personas make abstract research concrete for design teams.md",
+    "notes/Personas lack rich context.md",
+    "notes/Personas document shared understanding about users.md",
+    "notes/Personas communicate research or they communicate assumptions.md",
+    "notes/Personas alone can't help teams achieve empathy.md",
+    "notes/Personalization makes demographics obsolete.md",
+    "notes/Permanent notes develop new ideas.md",
+    "notes/Permanent notes are permanently useful, not permanently unchanging.md"
   ]
 }

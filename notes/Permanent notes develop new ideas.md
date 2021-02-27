@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Permanent notes articulate new ideas
+date: 2021-02-26
+description: Permanent notes are used to help articulate and develop new thoughts. 
+tags: literature
+---
 
 Permanent notes are not intended just for the [[¶ Collector's Fallacy (Tietze)|collection of ideas]]; instead, they help us develop ideas. 
 
@@ -12,5 +17,5 @@ Finally, write permanent notes as though they will be permanent. They should be 
 #### Related
 - [[Different kinds of zettelkasten notes]]
 
-#### Related
+#### Citations
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]

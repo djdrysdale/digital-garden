@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Our vision of the future is constrained by our past
+date: 2021-02-26
+description: Our understanding and interpretation of the past obscures our ability to recognize and interpret signals of the future. 
+tags: literature
+---
 
 When we try to exercise foresight and predict what may or may not happen in the future, our vision is always obscured by the past. We lack the vocabulary and the concepts we need to talk about the past, never mind the difficulties we face understanding what patterns of the past or present will carry over. 
 
@@ -11,7 +16,7 @@ When we try to exercise foresight and predict what may or may not happen in the 
 - [[Quantitative analysis is not inherently more reliable than qualitative data]]
 - [[Strategy is time-sensitive]]
 
-#### Related
+#### Citations
 - [[≈ Webb - The Signals are Talking]]
 
 > "Without a guided process, we fall victim to the paradox of the present. We have a hard time seeing the future because we lack a shared point of reference rooted in our present circumstances."

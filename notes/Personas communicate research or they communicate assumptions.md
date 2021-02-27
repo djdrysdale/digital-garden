@@ -1,4 +1,9 @@
-tags: #perm
+---
+title: Personas communicate research or they communicate assumptions
+date: 2021-02-26
+description: Personas should communicate insights generated through research. If not, they should be treated as assumptions. 
+tags: perm
+---
 
 [[§ Personas]] should communicate insights generated through user research. If they contain information not uncovered through research, that information should be treated as an assumption and subject to research and evaluation. 
 
@@ -16,7 +21,7 @@ Personas in general are a form of narrative. This means that they must be approa
 - [[People fill information gaps with assumptions]]
 - [[¶ Persona]]
 
-#### Related
+#### Citations
 Harley, Aurora. “Personas Make Users Memorable for Product Team Members.” Nielsen Norman Group (blog). Accessed October 10, 2020. https://www.nngroup.com/articles/persona/.
 
 Laubheimer, Page. “3 Persona Types: Lightweight, Qualitative, and Statistical.” Nielsen Norman Group (blog). Accessed October 12, 2020. https://www.nngroup.com/articles/persona-types/.

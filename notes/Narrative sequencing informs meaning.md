@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Narrative sequencing informs meaning
+date: 2021-02-26
+description: The sequence in which information is presented affects how that text is interpreted. 
+tags: literature
+---
 
 The sequence of information in any story or narrative contributes to the overall meaning of the text. The impact of a fact or an insight can be amplifed or diminished depending on what comes before or after.
 
@@ -11,5 +16,5 @@ But, keep in mind your purpose: if your goal is to inform rather than to persuad
 - [[Ensure the trunk of a narrative is more substantial than the branches]] - Emphasize what is actually important to the story. 
 - [[Inform rather than persuade]] - When reporting on research and matters of public health, write to inform rather than to persuade. 
 
-#### Related
+#### Citations
 [[≈ Flaherty - The Elements of Story|Flaherty, Francis. The Elements of Story: Field Notes on Nonfiction Writing. Reprint edition. Harper Perennial, 2010.]]

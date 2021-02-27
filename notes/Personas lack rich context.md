@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Personas lack rich context
+date: 2021-02-26
+description: Personas may promote a shallow understanding of users because they lack rich contextual information. 
+tags: literature
+---
 
 [[§ Personas]] are popular design artifacts. But, they can be hollow. While they often provide some basic attributes, tasks, or descriptors, they often lack rich contextual information that explains why the persona's need arose in the first place. 
 
@@ -9,7 +14,7 @@ This can be problematic. As Alan Klement argues, in the absence of this informat
 - [[Narratives generate real-world effects.]]
 - [[People fill information gaps with assumptions]]
 
-#### Related
+#### Citations
 Klement, Alan. “Replacing Personas With Characters.” Medium (blog), September 2, 2017. https://medium.com/down-the-rabbit-hole/replacing-personas-with-characters-aa72d3cf6c69.
 
 Spool, Jared M. “Customers Request Solutions. We Need to Understand Their Problems.” Medium (blog), August 16, 2019. https://medium.com/@jmspool/customers-request-solutions-we-need-to-understand-their-problems-41db3b5c6d4d.

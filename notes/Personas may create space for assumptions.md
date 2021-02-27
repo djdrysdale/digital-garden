@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Personas leave space for assumptions
+date: 2021-02-26
+description: Because personas lack rich contextual data, they may leave gaps that will be filled with assumptions. 
+tags: perm
+---
 
 Personas have come under fire for including extraneous information that, beyond simply being unnecessary, can distract or contribute to misunderstandings about users and their contexts. For instance, Alan Klement suggests that by describing a set of attributes, personas distract teams from the actual problems their users are hoping to solve. 
 
@@ -16,7 +21,8 @@ Better than any persona is ongoing exposure to actual users.
 
 ---
 #### Related
-- Link
+- [[People fill information gaps with assumptions]]
+- [[Personas lack rich context]]
 
 #### Related
 Klement, Alan. “Replacing Personas With Characters.” Medium (blog), September 2, 2017. https://medium.com/down-the-rabbit-hole/replacing-personas-with-characters-aa72d3cf6c69.

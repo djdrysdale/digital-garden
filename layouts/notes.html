@@ -3,13 +3,14 @@ layout: default
 title: Notes
 pagination:
   data: collections.notes
-  size: 20
+  size: 10
   reverse: true
+  alias: page
 ---
 
     <div class="row py-4">
 
-      {% for note in pagination.items %}
+      {% for note in page %}
         <div class="card-body col-12 col-md-6 border-bottom py-10 px-10">
             <p class="card-text">
               <a href="{{ note.url }}">{{ note.data.title }}</a>

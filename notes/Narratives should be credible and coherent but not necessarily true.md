@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Narratives should be credible and coherent
+date: 2021-02-26
+description: For a narrative to resonate, it needs to be credible and coherent but not necessarily true. A narrative can convey useful information without being literally factual. 
+tags: literature
+---
 
 Narratives are useful for helping us make sense of "[[¶ What is going on here|what is going on here]]" under conditions of [[¶ Radical uncertainty (King and Kay)|radical uncertainty]]. 
 
@@ -13,5 +18,5 @@ Rather than referring to narratives as true or false, we should look to understa
 - [[Narrative helps the human mind make sense of events]]
 - [[¶ Economic narrative (Shiller)]]
 
-#### Related
+#### Citations
 [[≈ King and Kay - Radical Uncertainty|Kay, John, and Mervyn King. Radical Uncertainty: Decision-Making Beyond the Numbers. New York, NY: WW Norton, 2020.]]
