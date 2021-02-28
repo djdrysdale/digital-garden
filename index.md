@@ -15,24 +15,7 @@ It's my mission to help people, teams, and organizations think more strategicall
 
 ## Recent blog posts
 
-<div class="row py-4">
-
-  {% for post in pagination.items %}
-    <div class="card-body col-12 col-md-4 border-bottom py-10 px-10">
-        <p class="card-text">
-          <a href="{{ post.url }}">{{ post.data.title }}</a>
-        </p>
-        <p class="card-text">
-          {{ note.data.description }}
-        </p>
-        <p>
-          <a href="{{ note.url }}">Read more...</a>
-        </p>
-
-    </div>
-  {% endfor %}
-
-</div>
+{% include recentposts.html %}
 <!--
   {% for post in pagination.items %}
 
