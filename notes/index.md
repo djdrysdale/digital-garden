@@ -3,7 +3,8 @@ layout: notes
 title: Notes
 pagination:
   data: collections.notes
-  size: 9
+  size: 10
+  reverse: true
 ---
 Welcome to my digital notebook.
 
