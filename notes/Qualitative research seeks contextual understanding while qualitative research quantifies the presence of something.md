@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Qualitative research seeks context while quantitative research looks for scale
+date: 2021-02-26
+description: Qual research aims to build a deep understanding of the problem space whereas quantitative research looks to measure the presence of something we think we already know. 
+tags: literature
+---
 
 The purpose of qualitative research is to build a deep understanding of the problem space. Qualitative researchers are looking to understand *why* a phenomenon might exist, and to understand how people relate to a phenomenon. As Schuler puts it, qualitative research helps us understand things we don't already know, how people think and feel, and the factors that inform their behaviour. 
 
@@ -13,7 +18,7 @@ Qualitative research is focused, narrow, and deep; quantitative research is broa
 - [[Quantitative analysis is not inherently more reliable than qualitative data]]
 - [[¶ Sensemaking (Madsbjerg)]]
 
-## Citation
+#### Citations
 Levin, Alec. “StAtIsTiCaL SIgNiFiCaNcE.” Known Unknowns (blog). Accessed October 12, 2020. https://knownunknowns.substack.com/p/statistical-significance.
 
 Schuler, Greg. “Getting Big Ideas Out of Small Numbers.” Cooper (blog), April 8, 2020. https://www.cooper.com/journal/2013/05/getting-big-ideas-out-of-small-research/.

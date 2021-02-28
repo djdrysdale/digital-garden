@@ -16,7 +16,7 @@ Roger Martin has argued that Western education favours deductive (and inductive)
 - [[¶ Abductive reasoning]]
 - [[¶ Inductive reasoning]]
 - [[Objectivism assumes a concrete, knowable world]]
-- [[Rationalistic models of human behaviour are limiting.]]
+- [[Rationalistic models of human behaviour are limiting]]
 
 #### Citations
 [[≈ Ladner - Mixed Methods|Ladner, Sam. Mixed Methods: A Short Guide to Applied Mixed Methods Research. Sam Ladner, 2019.]]

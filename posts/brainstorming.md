@@ -6,12 +6,6 @@ categories:
 description: "Brainstorming’s a common suggestion any time there’s a complex problem to deal with. But research shows that it’s not as effective as practitioners might think. Can we design a better brainstorm?"
 ---
 
- 
-
-#### _Brainstorming’s a common suggestion any time there’s a complex problem to deal with. But research shows that it’s not as effective as practitioners might think. Can we design a better brainstorm?_
-
- 
-
 Brainstorming as a technique was pioneered and championed by advertising executive Alex Osborn. In _Your Creative Power_, Osborn outlined the core principles of brainstorming. Work in groups of 5 to 10. Everyone has a creative spark. There are no bad ideas. Generate as many ideas as you can. Withhold criticism and judgment. Osborn’s work—along with subsequent vogues for divergent (J. P. Guilford) and lateral (Edward de Bono) soon became popular in corporations ranging from Better Homes and Gardens to Kraft to DuPont. Brainstorming’s still widely used today, and strongly echoed in methodologies like design thinking as a method for ideation and problem solving.
 
 ## The trouble with brainstorming

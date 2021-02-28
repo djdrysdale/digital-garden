@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Work backward from a long-term vision to define proximate objectives
+date: 2021-02-26
+description: Discovery-driven planning requires we define the parameters of the future state and then work backward to understand what would have to be true for that future to come about. 
+tags: lit
+---
 
 Discovery-driven planning is a technique whereby you define the parameters of a future state and then work backward to understand what would have to be true for that future to come about. Before making a big commitment, you can then make “little bets” that are designed to yield new intelligence, breaking the big inflection point down into smaller, more manageable pieces. Identify checkpoints: points at which you can learn something and determine whether you should continue to move forward or pivot away from the plan. 
 
@@ -15,7 +20,7 @@ Related:
 - [[Inflection points reveal themselves first at the edges]]
 - [[Winning strategies result from good sensemaking]]
 
-#### Related
+#### Citations
 [[McGrath - Seeing Around Corners|McGrath, Rita Gunther. Seeing around Corners: How to Spot Inflection Points in Business before They Happen. Boston, Massachusetts: Houghton Mifflin Harcourt, 2019.]]
 
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

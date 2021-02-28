@@ -5,13 +5,6 @@ categories:
   - "psychology"
 description: "Your users probably don’t trust your website as much as you’d like to think. Fortunately, there are ways you can cultivate and earn trust."
 ---
-
- 
-
-#### _Your users probably don’t trust your website as much as you’d like to think. Fortunately, there are ways you can cultivate and earn trust._
-
- 
-
 Many companies assume a much higher level of trust than users are willing to grant them. The fact is that your users don’t trust you as much as you think they do.
 
 Trust must be earned. As [John Hall points out](https://contently.com/strategist/2018/03/16/create-opportunity-build-trust-and-stay-top-of-mind/), trust exists on a spectrum, and you can’t take any shortcuts. “Trust,” Hall writes, “is a living, breathing, emotional bond that connects people to one another. It’s intimate, personal, and powerful.” 

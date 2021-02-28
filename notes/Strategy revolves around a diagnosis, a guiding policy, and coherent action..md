@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Strategy comprises diagnosis, guiding policy, and coherent action
+date: 2021-02-26
+description: Rumelt's kernel of strategy defines a three-part structure of diagnosis, policy, and actions. 
+tags: literature
+---
 
 Strategy is action supported by argument. This is shaped by the kernel of strategy. 
 
@@ -18,5 +23,5 @@ A doctor evaluating a patient may come to a diagnosis that the patient is at ris
 #### Related
 - Link
 
-#### Related
+#### Citations
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

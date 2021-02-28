@@ -1,4 +1,9 @@
-tags: #lit
+---
+title: Three types of personas
+date: 2021-02-26
+description: In general, there are three types of personas. These are proto-personas, qualitative perosnas, and statistical or mixed-methods personas. 
+tags: literature
+---
 
 In general, there are three types of [[Personas document shared understanding about users|persona]]: proto-personas, qualitative personas, and statistical (or mixed-method) personas. 
 
@@ -18,5 +23,5 @@ Statistical or mixed-method personas build on qualitative personas. Statistical 
 - [[§ Personas]]
 
 
-## Citation
+#### Citation
 Laubheimer, Page. “3 Persona Types: Lightweight, Qualitative, and Statistical.” Nielsen Norman Group (blog). Accessed October 12, 2020. https://www.nngroup.com/articles/persona-types/.

@@ -10,7 +10,6 @@ Personas have a number of shortcomings:
 - [[Personas alone can't help teams achieve empathy]]
 - [[Personas lack rich context]]
 - [[Personas may create space for assumptions]]
-- [[Shallow personas prompt their consumers to rely on assumptions to fill information gaps]]
 
 In response to these limitations, a number of alternatives have been proposed:
 

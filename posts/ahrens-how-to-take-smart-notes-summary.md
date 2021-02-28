@@ -7,21 +7,6 @@ categories:
 description: "A summary and review of Sönke Ahrens’ _How to Take Smart Notes_"
 ---
 
- 
-
-#### _A summary and review of Sönke Ahrens’_ How to Take Smart Notes
-
- 
-
-[
-
-\>
-
-<img src="https://images.squarespace-cdn.com/content/v1/5e9e54ba9225353212ce08ab/1589045911938-I9QYOBP2RQCAHYNE72VD/ke17ZwdGBToddI8pDm48kEamR-j9qvNbiEuiA9-futVZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVGP\_BZpUnTp56I\_uvb41tTVw-dlHxvBaAlF8sHW-LOTgHabq7Bp\_UDyUGhG1qO9rm8/41iVa0x-P-L.jpg" alt="41iVa0x-P-L.jpg" />
-
-](https://amzn.to/35MopRc)
-
-[](https://amzn.to/35MopRc)
 
 I’ve always read a lot, but never been satisfied with how I manage information that I consume. I’d read a book or article and take notes—sometimes very detailed notes—but recovering information from my notes was frustrating. My notes were spread across multiple notebooks. I would sometimes migrate my written notes to digital notes apps, but the work was tedious and therefore a difficult habit to maintain. I learned from what I read, but I felt that my process was full of holes. 
 

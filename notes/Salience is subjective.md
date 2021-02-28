@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Salience is subjective
+date: 2021-02-26
+description: When solving a problem we must decide what factors we believe are salient. Our understanding of salience is informed by our personal perspective on the issue.  
+tags: literature
+---
 
 Problem solving, Roger Martin writes, involves first identifying the features of a problem that are most important. We can't possibly consider every facet of the challenge ahead, so we must pick and choose what we will care about. We therefore have to assess the salience of available information to the problem at hand. 
 
@@ -11,5 +16,5 @@ This sense of salience can vary dramatically between different people: it is inf
 - [[Our vision of the future is always constrained by our view of the past.]] - Our past experience and training constrains our vision
 - [[Perspective comprises our stance, our tools, and our experience]] - Describes elements that form our perspective
 
-#### Related
+#### Citations
 [[≈ Martin - The Opposable Mind|Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.]]

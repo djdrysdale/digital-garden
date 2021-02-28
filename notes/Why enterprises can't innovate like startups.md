@@ -1,4 +1,9 @@
-tags: #lit #refactor 
+---
+title: Why enterprises can't innovate like startups
+date: 2021-02-26
+description: Innovation frameworks that work in startups may not work in an enterprise setting due to significant differences in contexts
+tags: lit
+---
 
 - A large organization isn't a startup; nor should it try to act like one. The enterprise operates in a wholly different context. It must able to execute an existing business model while searching for a new one, two activities that rely on entirely different management structures. 
 - Large companies typically have more rules to follow
@@ -13,5 +18,5 @@ tags: #lit #refactor
 #### Related
 - [[If two parts of a system move at different rates, it can create conflict]]
 
-#### Related
+#### Citations
 [[≈ Viki - Pirates in the Navy|Viki, Tendayi. Pirates In the Navy How Innovators Lead Transformation. Unbound, 2020.]]

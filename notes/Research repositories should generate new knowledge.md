@@ -1,4 +1,9 @@
-tags: #perm
+---
+title: Research repositories should generate new knowledge
+date: 2021-02-26
+description: A research repository should not only accumulate insight but also facilitate the development of new knowledge for the organization. 
+tags: perm
+---
 
 A research repository that simply accumulates insights is only doing half its job. An effective repository facilitates the productive combination of knowledge to generate new ideas and insights that might have been inaccessible until disparate observations were put into conversation with one another. 
 
@@ -11,4 +16,4 @@ A research repository that simply accumulates insights is only doing half its jo
 - [[Ideas are constellations]] - Ideas form as constellations between disparate point of insight. 
 - [[User research teams should act as organizational multipliers]]
 
-#### Related
+#### Citations

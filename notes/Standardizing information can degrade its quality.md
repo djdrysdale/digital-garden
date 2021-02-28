@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Standardizing information formats degrades its quality
+date: 2021-02-26
+description: Pursuit of standardized information formats requires that we shape its content in ways that support compression at the cost of the veracity of the data. 
+tags: perm
+---
 
 Organizations engaged in measurement programs often pursue standardization of data in order to facilitate easier comparisons; or, they will adjust the criteria for what "counts" against their scorecard or data dashboard. But reducing complex processes or efforts to the simplest measures yields misleading data. [[Quant data is lossy|Much is lost]] in the process of standardization, and so the quality of information may be significantly degraded. 
 
@@ -7,5 +12,5 @@ Organizations engaged in measurement programs often pursue standardization of da
 - [[Measuring behaviour changes behaviour]]
 - [[Quantitative analysis is not inherently more reliable than qualitative data]]
 
-#### Related
+#### Citations
 [[≈ Muller - The Tyranny of Metrics|Muller, Jerry Z. The Tyranny of Metrics. Princeton: Princeton University Press, 2018.]]

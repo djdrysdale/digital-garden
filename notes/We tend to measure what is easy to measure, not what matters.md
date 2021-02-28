@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: We tend to measure what is easy, not what matters
+date: 2021-02-26
+description: We are biased to measure the things that are easiest to measure rather than what might be most meaningful.
+tags: lit
+---
 
 We are biased to measure the things that are most easily measured, rather than the things that are most meaningful. 
 
@@ -18,5 +23,5 @@ See [[Abundant data makes us jump to quantitative data as the solution to every 
 - [[Quant data is lossy]]
 - [[Quantitative analysis is not inherently more reliable than qualitative data]]
 
-#### Related
+#### Citations
 [[≈ Muller - The Tyranny of Metrics|Muller, Jerry Z. The Tyranny of Metrics. Princeton: Princeton University Press, 2018.]]

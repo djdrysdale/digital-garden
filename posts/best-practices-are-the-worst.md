@@ -6,12 +6,6 @@ categories:
 description: "Best practices feel safe and familiar. Recognize them for what they are: convenient shortcuts that need to be tested."
 ---
 
- 
-
-#### _Best practices feel safe and familiar. Recognize them for what they are: convenient shortcuts that need to be tested._
-
- 
-
 Wait. How can a best practice be bad? I mean, it’s got the word “best” right there!  
 
 The truth is, "best practices" are frequently misunderstood. There are instances in which the “best practice” is actually the right way to do things. It's a documented standard, specified to meet regulatory or ethical standards.  

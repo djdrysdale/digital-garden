@@ -5,7 +5,6 @@ categories:
   - "bookshelf"
 description: "A summary and review of George Lakoff and Mark Johnson's _Metaphors We Live By_."
 ---
-
 _Metaphors We Live By_ is one of those books that I'm pretty sure I understood before I ever knew it existed. Some of the ideas and arguments it presents about metaphors and their role in how we relate to the world around us seem almost second-nature to me.
 
 Of course, that's easy for me to say, more than forty years after the book was written. So, I'm glad that I spent the time to actually read this book. The argument's more subtle than the version that's trickled down to me, and it's worth considering. After all, metaphors are powerful. If nothing else, _Metaphors We Live By_ reminds of that—and of the power of words, and language, in general.

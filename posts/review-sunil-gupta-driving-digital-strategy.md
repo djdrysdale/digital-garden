@@ -6,13 +6,6 @@ categories:
   - "strategy"
 description: "Reviewing Sunil Gupta’s _Driving Digital Strategy_"
 ---
-
- 
-
-#### _Reviewing Sunil Gupta’s_ Driving Digital Strategy
-
-  
-
 Sunil Gupta's _Driving Digital Strategy_ is broader than it is deep, best treated as a primer. Gupta makes a compelling case for digital transformation, touching on everything from changing consumer expectations and micromoments to network effects and platform models. It moreover offers good examples of organizations that successfully leaned into a digital-first mindset. But, while rich in case studies, the book never digs into the details of what it takes to make the transition to digital. I suspect that many who pick this up were already convinced long ago. It's still a worthwhile read, though, as a refresher on some of the main forces driving the digital economy, and for its incisive insight into where transformations go wrong.
 
 Gupta's posits that true transformation means reconsidering fundamental questions about your business model and its ecosystem. It's hard work, but necessary. Technological change demands it. Customers’ needs and expectations have changed, as well as the business risks and opportunities. Customers don't benchmark your work against your [direct competitors](https://mobydiction.ca/blog/competitive-research). Instead, they are comparing you to Netflix, Google, and Amazon.

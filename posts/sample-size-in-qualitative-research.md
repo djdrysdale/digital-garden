@@ -5,13 +5,6 @@ categories:
   - "research"
 description: "User researchers performing qualitative research often field questions about their sample sizes. Can you really make decisions after interviewing 5 or 10 users? It depends."
 ---
-
- 
-
-#### _User researchers performing qualitative research often field questions about their sample sizes. Can you really make decisions after interviewing 5 or 10 users? It depends._
-
- 
-
 I recently interviewed a group of users to get their perspectives on a feature we were considering building. When I met with the stakeholders to present our findings, one of the questions that came up was whether our sample size was large enough to base a decision on.
 
 It's a fair question, and a common one. As [Alec Levine writes](https://knownunknowns.substack.com/p/statistical-significance), it usually comes from two places. First, it suggests that the stakeholder misunderstands the nature of qualitative research. Second, the stakeholder is (quite understandably!) nervous that they'll make a decision based on faulty or incomplete data. They want to know that they can trust the findings. In quantitative research, people can look to sample sizes and confidence thresholds to provide them with that reassurance; in qualitative research things are more subjective.

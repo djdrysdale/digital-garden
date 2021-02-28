@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Winning strategies become best practice
+date: 2021-02-26
+description: Strategies can be trendy. A winning strategy will be adopted by followers and eventually become a best practice.
+tags: perm
+---
 
 Even strategy can be trendy. Popular strategies come and go. One organization succeeds, and its approach is repackaged by consultancies, adapted by competitors, and becomes adopted as a best practice. 
 
@@ -11,5 +16,5 @@ At this point, it can no longer be considered a useful strategy. After all, at t
 - [[Reading about strategy won't produce a winning strategy]]
 - [[Strategy is time-sensitive]]
 
-#### Related
+#### Citations
 Chin, Cedric. “Much Ado About The OODA Loop.” Commonplace - The Commoncog Blog (blog), May 19, 2020. https://commoncog.com/blog/much-ado-about-the-ooda-loop/.

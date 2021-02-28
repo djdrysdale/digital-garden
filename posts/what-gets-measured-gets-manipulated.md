@@ -5,13 +5,6 @@ categories:
   - "measurement"
 description: "Or, what baseball can teach us about KPI-driven development."
 ---
-
- 
-
-#### _Or, what baseball can teach us about KPI-driven development_
-
- 
-
 I love baseball. It’s partly because it’s a game with a great narrative structure. The season unfolds in acts. The energy and possibility of the spring is followed by the suspense of the early summer. In August it slows down for just long enough so you can catch your breath before the final sprint for the pennant picks up speed in September. After that, well, there’s no match for the dramatic tension of October baseball. 
 
 The other thing I love about baseball is the statistics. I don’t think there’s any other sport that’s quite as exhaustively documented as baseball. Everything is recorded, and fans aren’t surprised to hear announcers comment on facts as mundane—and apparently useless—as a pitcher’s historical performance on cloudy weekday games in July. 

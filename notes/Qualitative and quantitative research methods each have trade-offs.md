@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Qualitative and quantitative methods each have trade-offs
+date: 2021-02-26
+description: Quant methods offer scale and focus on causation at the expense of coherence and focus. Qual methods offer coherence and focus at the expense of scale and causation. 
+tags: literature
+---
 
 There are trade-offs between quantitative and qualitative methods; quant methods offer scale and focus on causation, but sacrifice coherence and focus. They demand more of the consumer of the research in terms of sensemaking. Qual methods, meanwhile, offer that coherence and focus, but lack scale and the same sense of causation. 
 
@@ -13,5 +18,5 @@ Qualitative research tends to be divergent, and quantitative research convergent
 - [[§ Research]]
 - [[¶ Sensemaking (Madsbjerg)]]
 
-#### Related
+#### Citations
 [[≈ Ladner - Mixed Methods|Ladner, Sam. Mixed Methods: A Short Guide to Applied Mixed Methods Research. Sam Ladner, 2019.]]

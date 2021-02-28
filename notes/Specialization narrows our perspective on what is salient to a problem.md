@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Specialization narrows our perspective on salience
+date: 2021-02-26
+description: Over-specialization limits our ability to recognize what might be salient to a problem by biasing toward factors that fit well with our specialization. 
+tags: literature
+---
 
 Problem-solving involves identifying the salient features of a problem. This is a subjective activity; different thinkers will identify different matters of salience. 
 
@@ -13,5 +18,5 @@ When faced with challenges, we often turn to specialists for their finely honed 
 - [[Situations of radical uncertainty cannot be resolved through probabilistic thinking alone]] - Example of how we rely on familiar mental models when facing conditions of radical uncertainty
 
 
-#### Related
+#### Citations
 [[≈ Martin - The Opposable Mind|Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.]]

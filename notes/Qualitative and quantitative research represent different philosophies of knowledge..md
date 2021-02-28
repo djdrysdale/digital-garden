@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Qualitative and quantitative research represent different philosophies of knowledge
+date: 2021-02-26
+description: The difference between qual and quant methods is more than kinds or amounts of data or methodologies. They repersent different ontologies. 
+tags: literature
+---
 
 The difference between qualitative and quantitative research is more than the kinds or amount of data they work with. 
 
@@ -14,7 +19,7 @@ Mixed-methods research means combining philosophical points of view. Whereas qua
 - [[Quant data is lossy]]
 - [[Quantitative analysis is not inherently more reliable than qualitative data]]
 
-#### Related
+#### Citations
 - [[≈ Ladner - Mixed Methods]]
 
 > At their core, these two approaches have differing belief systems about how knowledge is created (epistemology) and even more fundamentally, about what is reality itself (ontology).

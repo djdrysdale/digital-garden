@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Think about the future across multiple planes and horizons
+date: 2021-02-26
+description: Futurists must consider the probable, the plausible, and the possible, as well as different time horizons. 
+tags: literature
+---
 
 The futurist considers scenarios across three planes: the probable, or what is likely should current patterns continue; the plausible, based on what other experimentation is conceivable given what we know of the laws of science and humanity; and the possible, things that seem far-fetched today but may become possible in the future. 
 
@@ -11,5 +16,5 @@ How quickly trends evolve and change is a factor of evens that are taking place 
 #### Related
 - Link
 
-#### Related
+#### Citations
 [[≈ Webb - The Signals are Talking|Webb, Amy. The Signals Are Talking: Why Today’s Fringe Is Tomorrow’s Mainstream. New York: PublicAffairs, 2018.]]

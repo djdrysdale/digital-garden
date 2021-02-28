@@ -1,4 +1,9 @@
-tags: #lit
+---
+title: UX Researchers Should Care About Strength of Evidence
+date: 2021-02-26
+description: Researchers may collect good data and bad data. They must be mindful that data is both valid and reliable. 
+tags: lit
+---
 
 While ux researchers are generally less concerned with [[Qualitative researchers care more about data saturation than sample size|sample size]] than quantitative researchers, they should be mindful of strength of evidence. 
 
@@ -11,5 +16,5 @@ Hodgson says that a researcher should strive to collect data that is *valid*, me
 #### Related
 - [[Qualitative researchers care more about data saturation than sample size]]
 
-## Citation
+#### Citations
 Hodgson, Philip. “User Experience Research and Strength of Evidence.” *UserFocus* (blog). Accessed October 10, 2020. https://www.userfocus.co.uk/articles/strength-of-evidence.html.

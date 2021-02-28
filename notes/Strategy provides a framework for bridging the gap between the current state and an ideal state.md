@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Strategy provides a framework to bridge the gap between the status quo and the preferred state
+date: 2021-02-26
+description: Strategy at its core is about defining the principles that will most effectively traverse the space between the current state and the preferred future state. 
+tags: perm
+--- 
 
 Strategy provides a framework of principles and decisions that help the organization move closer to an idealized future state. Its purpose is to help guide the team along via the path that is most likely to ensure success en route to realizing the vision and accomplishing the mission of the organization. 
 
@@ -10,5 +15,5 @@ A strategy is informed by the mission and vision, and in turn informs the road m
 #### Related
 - Link
 
-## Citation
+#### Citation
 Law, Vince. “WTF Is Strategy? | Hacker Noon.” HackerNoon (blog). Accessed October 13, 2020. https://hackernoon.com/wtf-is-a-strategy-bcaa3fda9a31.

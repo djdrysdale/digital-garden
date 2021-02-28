@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Strategic inflection points disrupt the fundamentals of business strategy
+date: 2021-02-26
+description: A strategic inflection point disrupts the fundamental assumptions of a business, calling into question the basic assumptions that govern its operation. 
+tags: literature
+---
 
 A strategic inflection point is the moment when a business’s fundamentals shift, calling into question the basic assumptions that structure its relationship to its environment. Strategic inflection points feel as though they happen all at once, but usually gestate over longer periods of time. If you are able to spot the signs of a coming inflection point, it may be a gift. It can create new opportunities and open up new possibilities for those who are able to capitalize on it. Companies that respond well to inflection points aren’t forced to rapidly restructure themselves. 
 
@@ -12,5 +17,5 @@ Subsequently, in the emergent phase, stable players recognize how the world is c
 #### Related
 - [[Change happens gradually, then suddenly.]]
 
-#### Related
+#### Citations
 - [[McGrath - Seeing Around Corners]]

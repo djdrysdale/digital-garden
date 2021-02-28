@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Strategy directs resources to maximize the impact of effort
+date: 2021-02-26
+description: Effective strategy identifies a fulcrum point that can be used to create the greatest leverage.
+tags: literature
+---
 
 Effective strategy, according to Richard Rumelt, means "finding the most effective way to direct and leverage your resources." Put another way, strategy involves the effective allocation of resource to maximize the impact of any effort applied. Choosing the correct mix of resources and applying it to precisely the right leverage point delivers an advantage, ideally in a way that is more efficient than a competitor's application of their own resources. This means that strategy has to be sufficiently novel that it's unlikely a competitor can easily replicate it.
 
@@ -8,5 +13,5 @@ Effective strategy, according to Richard Rumelt, means "finding the most effecti
 - [[Strategy creates advantage by generating new perspectives]] - Strategy is creative, even contrarian; without originality, the strategy will be too easily reproducible. 
 - [[Strategy manufactures constraints]] - Strategy focuses energy, which means it necessarily must introduce constraints that limit inefficient application of resources.
 
-#### Related
+#### Citations
 Innis, Henry. “What Strategists Do All Day.” Medium (blog), May 28, 2015. https://medium.com/doing-the-work/for-all-you-people-who-have-no-clue-what-a-strategist-does-60906ca7dce2.

@@ -5,11 +5,6 @@ categories:
   - "trends"
 description: "COVID-19 is forcing us to find new stories about our way of being in the world."
 ---
-
-#### _COVID-19 is forcing us to find new stories about our way of being in the world._
-
- 
-
 The COVID-19 epidemic is not just a public health emergency or economic threat. It is transforming our sense of being-in-the-world. The arrogant belief that we are outside of nature—that with our borders and money we are not a part of something much larger than ourselves—has been dismantled. As Venkatesh Rao [argues](https://www.ribbonfarm.com/2020/03/09/plot-economics/), COVID-19 has provoked narrative collapse. The old stories we used to tell to make sense of the world have fallen away. We’ve been reduced to counting rolls of toilet paper. Time is out of joint. Life has become [surreal](https://www.wired.com/story/why-life-during-a-pandemic-feels-so-surreal/).
 
 But new narratives will emerge. They will arise from the [tension](https://www.multiversedesign.com/) between our desire for normalcy and our new understanding of the world as it is. As we reorganize our lives, we will reevaluate everything that came before, considering its role in the new stories we will tell.

@@ -1,4 +1,9 @@
-tags: #lit
+---
+title: There is no set formula for sample size in qualitative research
+date: 2021-02-26
+description: Determining an appropriate sample size in qualitative research can be difficult to estimate up front. 
+tags: literature
+---
 
 [[Qualitative researchers care more about data saturation than sample size]]. This makes it difficult to estimate up front how many samples or participants will be necessary for a qualitative study. 
 
@@ -12,7 +17,7 @@ Seaman and Yocco have each suggested that the number of users interviewed may va
 #### Related
 - [[UX researchers should care about strength of evidence]]
 
-#### Related
+#### Citations
 Seaman, Mitchel. “The Right Number of User Interviews.” Medium (blog), October 5, 2015. https://medium.com/@mitchelseaman/the-right-number-of-user-interviews-de11c7815d9.
 
 Yocco, Victor. “Filling Up Your Tank, Or How To Justify User Research Sample Size And Data.” Smashing Magazine (blog). https://www.smashingmagazine.com/2017/03/user-research-sample-size-data/.

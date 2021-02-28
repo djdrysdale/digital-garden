@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Write literature notes to inform permanent notes
+date: 2021-02-26
+description: When creating literature notes, keep in mind the permanent notes that may develop from them. 
+tags: lit
+---
 
 Literature notes are notes that record anything from a text that you might want to use later. They should accurately and faithfully reflect the work you are consuming, but [[Make notes in your own words|translate the ideas into new words]] to help facilitate better understanding. 
 
@@ -10,5 +15,5 @@ Always make literature notes with consideration for what other [[Take notes with
 #### Related
 - [[Different kinds of zettelkasten notes]]
 
-#### Related
+#### Citations
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]

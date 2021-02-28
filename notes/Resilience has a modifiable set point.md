@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Resilience has a modifiable set point
+date: 2021-02-26
+description: Our ability to move forward against adversity can be grown through some specific techniques. 
+tags: literature
+---
 
 Resilience, like happiness, has a modifiable set point. Resilience describes our ability to move forward in spite of adversity. While some have a greater capacity for resilience than others, it is possible to grow one's own, and others', capacity for resilience, according to research from the ADP Research Institute. 
 
@@ -10,5 +15,5 @@ Individuals, meanwhile, can improve their resiliency set point by compartmentali
 #### Related
 - [[Managers craft safe environments for their people]] - The role of a manager or leader is to create environments in which their reports can flourish
 
-#### Related
+#### Citations
 Buckingham, Marcus. “The Sources of Resilience.” MIT Sloan Management Review. Accessed December 5, 2020. https://sloanreview.mit.edu/article/the-sources-of-resilience/.

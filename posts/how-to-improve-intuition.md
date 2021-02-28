@@ -5,13 +5,6 @@ categories:
   - "strategy"
 description: "Intuition is incredibly valuable: it’s the source of unique insight and can give us a nudge down innovative paths of discovery. Intuition often comes to us unpredictably, as a gut feeling or a vague hunch. But it is possible to hone our intuition."
 ---
-
- 
-
-#### _Intuition is incredibly valuable: it’s the source of unique insight and can give us a nudge down innovative paths of discovery. Intuition often comes to us unpredictably, as a gut feeling or a vague hunch. But it is possible to hone our intuition._
-
- 
-
 As someone who leads a group of strategists, I think a lot about how I can help my team hone their skills. One of my jobs as a leader is to make myself unnecessary. I want my team to be competent enough and confident enough that if I'm not around they don't really notice. I want them to feel like they're ready to tackle any problem they face with the skills and knowledge that I (hopefully) have helped them develop.
 
 This leads to a big question: what are the skills they should focus on developing? What are the strategist's core competencies? And how can they get better at them?

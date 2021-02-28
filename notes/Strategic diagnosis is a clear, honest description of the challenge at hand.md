@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Strategic diagnosis is an honest description of the challenge
+date: 2021-02-26
+description: A strategic diagnosis must be a thorough, clear, and honest description of the problem at hand that creates a simplified model of reality.
+tags: concept
+---
 
 Diagnosis is one aspect of Richard Rumelt's [[Strategy revolves around a diagnosis, a guiding policy, and coherent action.|strategy kernel]].
 
@@ -12,5 +17,5 @@ Diagnosis names or classifies the situation the situation based on observed fact
 - [[Salience is subjective]] - Our understanding of what is salient to a problem is a product of our subjective perspective on the matter. 
 - [[Strategy revolves around a diagnosis, a guiding policy, and coherent action.]] - Rumelt's strategic kernel
 
-#### Related
+#### Citations
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

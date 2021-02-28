@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Strategy is more design than decision
+date: 2021-02-26
+description: Rarely are we presented with a clear set of alternatives to decide between. Strategy needs to be constructed or orchestrated in the manner of design. 
+tags: literature
+---
 
 Strategy is often framed as a choice or a system of choices; however, rarely will anyone be presented with a clear set of alternatives that they must decide between. 
 
@@ -10,5 +15,5 @@ It can be difficult to perceive a design-type strategy in the actions of large, 
 #### Related
 - Link
 
-#### Related
+#### Citations
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

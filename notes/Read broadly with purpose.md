@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Read broadly with purpose
+date: 2021-02-26
+description: Approaching texts with intention can help focus our attention. But don't limit reading to narrow fields of inquiry. 
+tags: literature
+---
 
 Read (and consume any information) with purpose: approaching a text with intention can help focus our attention on the most important information. Read looking for [[Take notes with connection in mind|connections]] with information you have already processed, and look explicitly for limitations, elisions, and contradictions. 
 
@@ -8,7 +13,7 @@ However, also read broadly to help create connections across different contexts 
 #### Related
 - Link
 
-#### Related
+#### Citations
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]
 
 O’Reilly, Barry. “Optimize to Be Wrong, Not Right.” Barry O’Reilly (blog), April 6, 2017. https://barryoreilly.com/optimize-to-be-wrong-not-right/.]]

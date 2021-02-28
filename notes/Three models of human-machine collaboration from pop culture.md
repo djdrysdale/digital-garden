@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Three models of human-machine collaboration
+date: 2021-02-26
+description: Alexis Lloyd identifies three models of human-machine collaboration from popular culture. 
+tags: literature
+---
 
 Alexis Lloyd uses pop culture to think about three models for human-machine collaboration
 
@@ -11,5 +16,5 @@ Alexis Lloyd uses pop culture to think about three models for human-machine coll
 - [[Skeuoumorphic models limit possibilities for innovation]] - Skeuomorphic designs constrain our imagination
 - [[¶ The genie problem]] - If we design or machines to act as servants, they probably will do what we expect. 
 
-#### Related
+#### Citations
 Lloyd, Alexis. “R2D2 as a Model for AI Collaboration.” Medium (blog), November 21, 2020. https://alexis.medium.com/r2d2-as-a-model-for-ai-collaboration-9a2638bfbd09.

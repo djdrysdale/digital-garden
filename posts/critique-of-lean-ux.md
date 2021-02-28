@@ -5,13 +5,6 @@ categories:
   - "strategy"
 description: "Product management today cites scientific knowledge production as its inspiration and antecedent. But experiment-based product management methods often something very important."
 ---
-
- 
-
-#### _Product management today cites scientific knowledge production as its inspiration and antecedent. But experiment-based product management methods often something very important._
-
- 
-
 Product management depends heavily on knowledge management. That is, how do we gather knowledge? How do we create new knowledge? And how can we deploy that knowledge to gain a competitive advantage and create new value for our business and for our customers? That is, to me, the essence of product management.
 
 These days, there is a strong bias towards modes of knowledge production that borrow heavily from science, math, and technology. These models assume that there is a concrete, knowable world, and that subjective knowledge can't be trusted. Therefore, we use the scientific method to help us understand what is true. Objectivity is a fundamental good; only objective knowledge is true knowledge. This has become the predominant perspective much of Western society, and certainly in places like Silicon Valley from which we borrow many of our approaches to product development and management.

@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Quantitative data is not inherently more reliable than qualitative data
+date: 2021-02-26
+description: Quantitative analysis is just as subject to human bias as qualitative data and interpretation. 
+tags: perm
+---
 
 It’s naive to assume that quantitative analysis is inherently a more reliable or scientific than human judgment. Quantitative data, too, is the product of [[bias]]. 
 
@@ -15,7 +20,7 @@ This isn't to say that quantitative analysis is not without merit; however, it m
 - [[Quant data is lossy]]
 - [[Qualitative and quantitative research represent different philosophies of knowledge.]]
 
-#### Related
+#### Citations
 - [[≈ Ladner - Mixed Methods]]
 - [[≈ Madsbjerg - Sensemaking|Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.]]
 - [[≈ Muller - The Tyranny of Metrics]]

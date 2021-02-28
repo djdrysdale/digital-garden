@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Store information where you would want to encounter it again
+date: 2021-02-26
+description: Design information systems with the moment of retrieval in mind rather than the moment of archiving. 
+tags: literature
+---
 
 The most important question is not where we store the information, but where we would like to come across it again. 
 
@@ -10,5 +15,5 @@ This is a key tenet of how a [[§ Zettelkasten]] is organized; its heavily linke
 #### Related
 - [[Design environments to facilitate behaviours]]
 
-#### Related
+#### Citations
 [[≈ Ahrens - How to Take Smart Notes|Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.]]

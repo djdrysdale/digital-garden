@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Skeumorphic models limit innovation
+date: 2021-02-26
+description: Skeumorphism limits our capacity to recognize the potential of digital creation by holding us in thrall to physical limitations. 
+tags: perm
+---
 
 Skeuomorphism in design describes the rendering of digital items in terms of their real-life counterparts. For example, skeuomorphic design might render a notebook application such that it resembles a physical notebook. 
 
@@ -16,7 +21,7 @@ Lakoff and Johnson use the term "radial metaphors" to discuss how metaphors can 
 - [[Our vision of the future is always constrained by our view of the past.]] - The lens of the past limits our ability to see future possibilities
 
 
-#### Related
+#### Citations
 Lakoff, George, and Mark Johnson. Metaphors We Live By. University of Chicago Press, 2008.
 
 Lloyd, Alexis. “R2D2 as a Model for AI Collaboration.” Medium (blog), November 21, 2020. https://alexis.medium.com/r2d2-as-a-model-for-ai-collaboration-9a2638bfbd09.

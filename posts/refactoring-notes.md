@@ -5,14 +5,7 @@ categories:
   - "pkm"
 description: "If you just jot notes down, you’re probably not getting as much value out of them as you can. Refactoring them can help unlock the potential of your digital notes to drive new insights and ideas."
 ---
-
- 
-
-#### _If you just jot notes down, you’re probably not getting as much value out of them as you can. Refactoring them can help unlock the potential of your digital notes to drive new insights and ideas._
-
- 
-
-If you've spent any time perusing my [online zettelkasten](https://publish.obsidian.md/mobydiction/), you'll probably noticed that I use a few tags to help me navivate. Some of these are pretty straightforward:
+If you've spent any time perusing my [online zettelkasten](https://davidjdrysdale.com/notes/), you'll probably noticed that I use a few tags to help me navivate. Some of these are pretty straightforward:
 
 - **#lit** denotes a literature note; that is, a note where I'm translating someone else's ideas that I've encountered in literature
 

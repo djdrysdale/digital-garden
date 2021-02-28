@@ -5,11 +5,6 @@ categories:
   - "strategy"
 description: "If you take good care of it, your website can be a well-maintained digital garden. But without the right plan and regular maintenance, you’ll soon have to deal with weeds—or worse."
 ---
-
- 
-
-#### _If you take good care of it, your website can be a well-maintained digital garden. But without the right plan and regular maintenance, you’ll soon have to deal with weeds—or worse._
-
 A few years ago, my family moved into a house with a beautiful backyard garden. I'm sure every plant, bush, and tree had been lovingly selected by the previous homeowner, a retired man who had been the home's original occupant.
 
 Unfortunately, neither my wife nor I have much of a green thumb. To us, yard work is a chore. We can both enjoy a well-appointed yard, but it's not something we're eager to spend our free time on. Sure, we do the basics—mowing the lawn, pulling some weeds—but not much more.

@@ -5,13 +5,6 @@ categories:
   - "research"
 description: "Personas are among the most common research artifacts used by design teams. They’re used almost reflexively now, but it’s worth being mindful of their strengths, weaknesses, and the available alternatives. Note: this is a bit of an info dump, and will probably evolve over time."
 ---
-
- 
-
-#### _Personas are among the most common research artifacts used by design teams. They’re used almost reflexively now, but it’s worth being mindful of their strengths, weaknesses, and the available alternatives. Note: this is a bit of an info dump, and will probably evolve over time._
-
- 
-
 ## Personas: Overview
 
 User personas are research artifacts that describe patterns of needs, behaviour, and attributes of users. Usually presented as a character or a description of a specific, individual user, personas are commonly used to help product design teams understand and empathize with likely users. Personas draw attention to some aspects of the user and make concrete the abstract findings of research.

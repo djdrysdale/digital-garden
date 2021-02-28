@@ -1,6 +1,11 @@
-tags: #perm 
+---
+title: Quantitative data is lossy
+date: 2021-02-26
+description: Quantitative data is often viewed as being very factual but it is also highly compressed and lossy. 
+tags: perm
+---
 
-Reducing human activity to numbers involves a kind of compression, and a particularly lossy one at that. Simply, there aspects of human activity that do not translate well into scorecards or dashboards; when we reduce those activities to a quantitative measure, we sacrifice rich contextual data. Many activities are immeasurable or even invisible; there's always a gap between behaviour and what can be counted. [[Sutherland - Alchemy|Rory Sutherland]] reminds us that human beings are messy: they are not machines, gathering inputs and processing outputs; relying too heavily on quantitative data leads us to neglect information that lies outside the data model. In fact, context can make [[Rationalistic models of human behaviour are limiting.|all the difference]] in how someone behaves, thinks, and acts; reducing actions to numbers loses this essential data. As [[≈ Madsbjerg - Sensemaking|Madsbjerg]] suggests, this kind of algorithmic thinking sacrifices the "thick" data of context that help us understand why people behave the way they do-knowledge about how people relate to and understand the world around them and undergird the structures of our social reality. 
+Reducing human activity to numbers involves a kind of compression, and a particularly lossy one at that. Simply, there aspects of human activity that do not translate well into scorecards or dashboards; when we reduce those activities to a quantitative measure, we sacrifice rich contextual data. Many activities are immeasurable or even invisible; there's always a gap between behaviour and what can be counted. [[Sutherland - Alchemy|Rory Sutherland]] reminds us that human beings are messy: they are not machines, gathering inputs and processing outputs; relying too heavily on quantitative data leads us to neglect information that lies outside the data model. In fact, context can make [[Rationalistic models of human behaviour are limiting|all the difference]] in how someone behaves, thinks, and acts; reducing actions to numbers loses this essential data. As [[≈ Madsbjerg - Sensemaking|Madsbjerg]] suggests, this kind of algorithmic thinking sacrifices the "thick" data of context that help us understand why people behave the way they do-knowledge about how people relate to and understand the world around them and undergird the structures of our social reality. 
 
 The matter's made worse when we try to fit these activities into standardized measures or benchmarks: we make it easier to make comparisons across activities and experiences, but at the cost of data quality. For this reason, it's risky to assume that [[Quantitative analysis is not inherently more reliable than qualitative data|quantitative measures are more reliable than qualitative assessment]].
 
@@ -11,8 +16,7 @@ In contrast, qualitative data is highly compressed. In Farsighted, Steven Johnso
 - [[Quantitative analysis is not inherently more reliable than qualitative data]]
 - [[Qualitative and quantitative research represent different philosophies of knowledge.]]
 
-#### Related
+#### Citations
 [[≈ Madsbjerg - Sensemaking|Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.]]
-
-- [[≈ Muller - The Tyranny of Metrics]]
-- [[Sutherland - Alchemy]]
+[[≈ Muller - The Tyranny of Metrics]]
+[[Sutherland - Alchemy]]

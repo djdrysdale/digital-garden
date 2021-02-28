@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Qualitative research generates new mental models
+date: 2021-02-26
+description: Qual research helps build new mental models about the problem space, helping to make sense of what is important at a very high level. 
+tags: perm
+---
 
 Qualitative research helps us build mental models about the contexts, problems, and motivations our products and designs must account for. It helps us understand what is important at a high level—what matters to people and how they understand their relationship to the world. 
 
@@ -12,7 +17,7 @@ A strong foundation of qualitative research can help us have a better intuition 
 - [[¶ Abductive reasoning]]
 - [[Questions about the sample size for qualitative research may indicate trust concerns]]
 
-#### Related
+#### Citations
 Ladner, Sam. Mixed Methods: A Short Guide to Applied Mixed Methods Research. Sam Ladner, 2019.
 
 Levin, Alec. “StAtIsTiCaL SIgNiFiCaNcE.” Known Unknowns (blog). Accessed October 12, 2020. https://knownunknowns.substack.com/p/statistical-significance.

@@ -5,13 +5,6 @@ categories:
   - "strategy"
 description: "It’s easy to judge a decision based on the outcome it produces. But we shouldn’t be so hasty. An example from baseball can help illustrate why the quality of a decision and the result of a decision are two very different things."
 ---
-
- 
-
-#### _It’s easy to judge a decision based on the outcome it produces. But we shouldn’t be so hasty. An example from baseball can help illustrate why the quality of a decision and the result of a decision are two very different things._
-
- 
-
 Forgive me. I need to talk about baseball.
 
 On October 27, 2020, the Dodgers faced the Rays in Game 6 of the World Series. The Dodgers were leading the series 3-2; a win would secure their first championship since 1988. The Rays were playing to stay alive and for the chance to win the first championship in the team’s history.

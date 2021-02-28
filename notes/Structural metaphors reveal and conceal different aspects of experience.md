@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Structure metaphors reveal and conceal 
+date: 2021-02-26
+description: A structural metaphor focuses our attention on specific aspects of experience.  
+tags: literature
+---
 
 Structural metaphors emphasize some aspects of experience but hide others. For example, using martial terms to discuss argument occludes argument as a potentially cooperative activity. Metaphors can never capture the full aspect of what they are used to describe; therefore, they shape our perspective of what they describe. They reveal and conceal. In so doing, they may sanction or prohibit different inferences and actions by implying an appropriate relation to what is being described. 
 
@@ -13,5 +18,5 @@ Some examples of structural metaphors:
 - [[Metaphors create coherent systems of meaning]]
 - [[Metaphors structure our interpretation of the world]]
 
-#### Related
+#### Citations
 [[≈ Lakoff and Johnson - Metaphors We Live By|Lakoff, George, and Mark Johnson. Metaphors We Live By. University of Chicago Press, 2008.]]

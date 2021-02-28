@@ -5,13 +5,6 @@ categories:
   - "research"
 description: "Whether you do user research, customer research, market research, product research, it’s never been about getting customers to just tell you want they want."
 ---
-
- 
-
-#### _Whether you do user research, customer research, market research, product research, it’s never been about getting customers to just tell you want they want._
-
- 
-
 I think every UX researcher’s heard the quote.
 
 “If I had asked my customers what they wanted, they would have said a faster horse.” 

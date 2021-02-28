@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Strategic perspective comprises stance, tools, and experience
+date: 2021-02-26
+description: Roger Martin suggests that our perspective on a given issue is formed by the interaction between our stance, our tools, and our experience. 
+tags: literature
+---
 
 According to Roger Martin, perspective on a given issue is formed by the interaction between three things: our **stance**, our **tools**, and our **experience**. 
 
@@ -15,7 +20,5 @@ These different elements do not flow linearly from one to another; they mutually
 - [[Honing intuition]] - We can hone our intuition by acquiring new knowledge and experiences.
 - [[Salience is subjective]] - What we view as salient to a problem or situation is informed by our subjective experiences
 
-- 
-
-#### Related
+#### Citations
 Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.

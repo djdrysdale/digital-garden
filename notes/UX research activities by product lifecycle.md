@@ -1,4 +1,9 @@
-tags: #framework 
+---
+title: UX Research Activities by Lifecycle
+date: 2021-02-26
+description: An outline of different UX research activities organized against a typical product lifecycle. 
+tags: framework
+---
 
 Different UX research methods align with different phases of the product lifecycle. The earlier in the process UX research is incorporated, the greater the value it can deliver. When possible, focus your budget, time, and energy on Discovery and Explore research tasks. However, there is useful information to gather at any point in development. 
 
@@ -28,5 +33,5 @@ If you can do only one thing, do qualitative (think-aloud) usability testing. Ni
 - [[Qualitative research creates mental models about the problem space.]]
 - [[Qualitative researchers care more about data saturation than sample size]]
 
-#### Related
+#### Citations
 Rohrer, Christian. “When to Use Which User-Experience Research Methods.” Nielsen Norman Group (blog). Accessed October 13, 2020. https://www.nngroup.com/articles/which-ux-research-methods/.

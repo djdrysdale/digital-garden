@@ -6,13 +6,6 @@ categories:
   - "research"
 description: "The jobs to be done framework can be a valuable tool for understanding and articulating customer or user needs. But it’s also the source of much confusion and misunderstanding. It doesn’t need to be so hard."
 ---
-
- 
-
-#### _The “jobs to be done” framework can be a valuable tool for understanding and articulating customer or user needs. But it’s also the source of much confusion and misunderstanding. It doesn’t need to be so hard._
-
- 
-
 “Jobs to be done” (JTBD) is one of many approaches for articulating insights about your users or customers. It’s a framework that is most useful when you’re still defining the problem your product or service needs to solve. Like personas, defining “jobs” helps teams or organizations focus on meeting real needs.
 
 A customer “job” is a process that someone undertakes to reach some objective. A job can be functional, emotional, or social. A job’s also complex. There’s often a main job, but every job may comprise many smaller jobs.

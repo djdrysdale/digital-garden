@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Strategy defines coherent actions
+date: 2021-02-26
+description: An effective strategy defines a set of coordinated moves that can be undertaken in response to its diagnosis and guiding policy. 
+tags: literature
+---
 
 The third part of Richard Rumelt's [[Strategy revolves around a diagnosis, a guiding policy, and coherent action.|kernel of strategy]] is coherent action. Coherent action is a set of coordinated activities, including resource allocations, initiatives, or projects that implement the [[Guiding policy is a general approach to overcoming a challenge|guiding policy]]. 
 
@@ -8,7 +13,9 @@ The coherent actions are how the organization applies strength against areas of 
 
 ---
 #### Related
-- Link
+- [[Strategy provides a framework for bridging the gap between the current state and an ideal state]]
+- [[Strategy revolves around a diagnosis, a guiding policy, and coherent action.]]
 
-#### Related
+
+#### Citations
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

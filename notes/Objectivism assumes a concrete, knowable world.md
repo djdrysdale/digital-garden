@@ -10,7 +10,7 @@ tags: literature
 ---
 #### Related
 - [[Four Theories of Truth]]
-- [[Rationalistic models of human behaviour are limiting.]]
+- [[Rationalistic models of human behaviour are limiting]]
 
 #### Citations
 [[≈ Lakoff and Johnson - Metaphors We Live By|Lakoff, George, and Mark Johnson. *Metaphors We Live By*. University of Chicago Press, 2008.]]

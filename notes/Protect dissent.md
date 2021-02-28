@@ -1,4 +1,9 @@
-tags: #perm
+---
+title: Protect dissent
+date: 2021-02-26
+description: Protecting dissent is important for overcoming groupthink and other unconscious biases within a team or organization. 
+tags: literature
+---
 
 When planning or engaging in strategy work, we're subject to any number of cognitive biases that cloud or ability to objectively evaluate the odds of success. We're irrationally optimistic about the expected outcomes, but underestimate the cost of delivery. Groupthink makes us reluctant to voice a contrary opinion for fear of rocking the boat. In most organizations, dissenters are punished more than those who maintain the harmony of the group, even if the dissenters are right. 
 
@@ -13,7 +18,7 @@ Another similar technique is the pre-mortem. In this technique, the team project
 - [[¶ Falsifiability]]
 - [[Optimize for invalidating ideas.]]
 
-#### Related
+#### Citations
 - Coyle - The Culture Code
-- Johnson - Far-Sighted
+- Johnson - Farsighted
 - [[≈ Webb - The Signals are Talking]]

@@ -1,4 +1,10 @@
-tags: #perm 
+---
+title: Strategy manufactures constraints
+date: 2021-02-26
+description: Strategy thoughtfully narrows options based on clear policies, guidelines, or values that guide appropriate action. 
+tags: perm
+--- 
+
 
 The essence of strategy is the thoughtful narrowing of options based on clear policies, guidelines, or values that the strategist believes will maximize the odds of achieving some result.
 
@@ -8,3 +14,8 @@ Of course, the art of strategy is in determining what those guidelines are. That
 
 From that, the right constraints can be defined; from there, the activities that the team or organization will—and will not—pursue in order to address the challenge that faces them.
 
+#### Related
+- [[Strategy provides a framework for bridging the gap between the current state and an ideal state]]
+- [[Strategy directs resources to maximize the impact of effort]]
+
+#### Citations

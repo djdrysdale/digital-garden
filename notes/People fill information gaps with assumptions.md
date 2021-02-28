@@ -14,7 +14,7 @@ This is an example of how System 1 thinking supersedes System 1 thought. It enab
 ---
 #### Related
 - [[Narratives generate real-world effects.]]
-- [[Rationalistic models of human behaviour are limiting.]]
+- [[Rationalistic models of human behaviour are limiting]]
 - [[Decontextualize ideas to make them new]]
 
 #### Citations

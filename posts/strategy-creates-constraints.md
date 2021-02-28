@@ -5,13 +5,6 @@ categories:
   - "strategy"
 description: "Strategy isn’t a goal, a road map, or a plan of action. It’s about the careful imposition of constraints."
 ---
-
- 
-
-#### _Strategy isn’t a goal, a road map, or a plan of action. It’s about the careful imposition of constraints._
-
- 
-
 Strategy's a funny thing. We take it prima facie that being strategic is a good thing. Everybody who is in any kind of leadership position—or who aspires to be in one—likes to trumpet in their LinkedIn profile that they're a "strategic" thinker. In general, it's understood that a "strategic" option is a better option. And organizations, of course, love "strategic planning" (as opposed to?).
 
 Strategy seems to be one of those fundamental business skills that everyone's expected to develop. But I have a feeling—just a suspicion, mind you—that if you did a quick poll in your average organization, you'd get very little consistency around what being "strategic" mean.

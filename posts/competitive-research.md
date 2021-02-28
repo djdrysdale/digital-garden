@@ -5,13 +5,6 @@ categories:
   - "research"
 description: "The competitive analysis is a valuable tool in almost every strategist’s kit. But remember: even when your eye’s on the competition, it’s the customer who matters most in the end."
 ---
-
- 
-
-#### _The competitive analysis is a valuable tool in almost every strategist’s kit. But remember: even when your eye’s on the competition, it’s the customer who matters most in the end._
-
- 
-
 “Can’t we just do what \[competitor\] is doing?"
 
 It’s a question that strikes fear in the heart of many strategists and designers. It often comes from stakeholders or other well-meaning folks. They see something they like and naturally want it for themselves. It feels like a shortcut: borrow what the other team’s doing, make some tweaks, and _voila!_ Instant strategy. Unfortunately, it’s not quite that simple.

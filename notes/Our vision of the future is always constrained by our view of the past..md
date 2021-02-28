@@ -9,7 +9,7 @@ When we try to exercise foresight and predict what may or may not happen in the 
 
 ---
 #### Related
-- [[Reading about strategy won't produce a winning strategy.]]
+- [[Reading about strategy won't produce a winning strategy]]
 - [[Base strategy on leading, not lagging, indicators]]
 - [[Brainstorming surfaces available ideas, not new ideas.]]
 - [[People fill information gaps with assumptions]]

@@ -1,4 +1,9 @@
-tags: #perm
+---
+title: Qualitative research and data saturation
+date: 2021-02-26
+description: Qualitative researchers are less concerned with reaching a particular sample size than achieving the point of data saturation. 
+tags: literature
+---
 
 Qualitative research is less concerned with reaching a particular sample size. Its focus isn't on measuring scale, but on discovering high-level problems and mental models. Instead of sample size, qualitative researchers strive for data saturation: the point at which new data yields only minor, incremental returns and the broad trends have been identified. Therefore, as Seaman and Yocco have each argued, the number of users interviewed may vary depending on factors such as the diversity of your audience, the experience of the researcher, and the extent of the problem space.
 
@@ -11,7 +16,7 @@ Still, as Kay points out, researchers should take care the sample size is approp
 - [[How many users should you interview]]
 - [[Qualitative and quantitative research represent different philosophies of knowledge.]]
 
-#### Related
+#### Citations
 Kay, Joseph. “Why User Researchers Should Care about Sample Size.” *Medium* (blog), February 20, 2018. https://medium.com/designing-lyst/why-user-researchers-should-care-about-sample-size-fbb0b4215b3a.
 
 Seaman, Mitchel. “The Right Number of User Interviews.” *Medium* (blog), October 5, 2015. https://medium.com/@mitchelseaman/the-right-number-of-user-interviews-de11c7815d9.

@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Strategy requires rejecting good opportunities 
+date: 2021-02-26
+description: Strategy means saying no. It is necessary to sometimes reject some good opportunities to focus energy on others. 
+tags: perm
+---
 
 Strategy means saying no. It's as much about what you don't do as what you do. Strategy requires that we make hard choices; a strategic leader must be willing to choose from among competing options, many of which may be viable. 
 
@@ -12,5 +17,5 @@ This is rarely a simple black and white decision; strategy is typically [[Strate
 #### Related
 - Link
 
-#### Related
+#### Citations
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

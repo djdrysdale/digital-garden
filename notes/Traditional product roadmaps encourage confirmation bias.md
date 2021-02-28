@@ -1,4 +1,9 @@
-tags: #lit
+---
+title: Traditional product roadmaps encourage confirmation bias
+date: 2021-02-26
+description: The effort and cost required to build a product road map incentivizes organizations to seek out justification for its assumptions. 
+tags: literature
+---
 
 The traditional approach to project planning is typified by the road map: a document that lists various initiatives that the organization intends to accomplish over a set period. In incumbent organizations, these often fit into the annual budgeting process and are used to help forecast costs and resourcing needs. 
 
@@ -13,7 +18,7 @@ Because of this, organizations may be biased to seek out information that confir
 - [[Optimize for invalidating ideas.]]
 - [[Winning strategies result from good sensemaking]]
 
-#### Related
+#### Citations
 - [[Optimize to be wrong, not right]]
 
 

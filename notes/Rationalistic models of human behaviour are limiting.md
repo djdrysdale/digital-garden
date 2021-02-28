@@ -1,4 +1,9 @@
-tags: #perm
+---
+title: Rationalistic models of human behaviour are limiting
+date: 2021-02-26
+description: Human behaviour is not reducible to a mechanistic model of inputs and outputs. 
+tags: literature
+---
 
 Human beings aren't clockwork machines. We might like to pretend that they are—it fits our mental model of a rational, orderly universe—but behaviour is not reducible to a machine-like system of inputs and outputs. Nevertheless, a common understanding of human cognition assumes just this, informed by an operational metaphor that borrows from computation.
 
@@ -12,7 +17,7 @@ In fact, there's good evidence that human beings are not rational actors at all.
 - [[Qualitative research creates mental models about the problem space.]]
 - [[Quant data is lossy]]
 
-#### Related
+#### Citations
 [[≈ Madsbjerg - Sensemaking|Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.]]
 
 [[Sutherland - Alchemy|Sutherland, Rory. Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life. Illustrated edition. William Morrow, 2019.]]

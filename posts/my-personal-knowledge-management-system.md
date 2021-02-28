@@ -5,13 +5,6 @@ categories:
   - "pkm"
 description: "We’re exposed to more information more quickly than ever before. It’s important to have a way to not only manage all that knowledge, but to turn it into something meaningful. Here’s how I do it."
 ---
-
- 
-
-#### _We’re exposed to more information more quickly than ever before. It’s important to have a way to not only manage all that knowledge, but to turn it into something meaningful. Here’s how I do it._
-
- 
-
 A big change I've made this year is developing a strong personal knowledge management system.
 
 For me, this was about getting more use out of information I was already consuming. For a long time, my approach has been haphazard. I've used different tools and workflows for note-taking and writing. But, I always felt as though I wasn’t getting as much out of my reading as I should have.

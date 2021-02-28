@@ -5,13 +5,6 @@ categories:
   - "narrative"
 description: "Whether we’re conscious of it or not, we’re always telling stories. But stories aren’t just about their content. They’re also about how we tell them."
 ---
-
- 
-
-#### _Whether we’re conscious of it or not, we’re always telling stories. But stories aren’t just about their content. They’re also about how we tell them._
-
- 
-
 I took computer science in tenth grade. We were learning Turbo Pascal, or maybe Hypercard. Either way, I wrote a program that had what today we would call a conversational interface. It referred to itself using personal pronouns like "I" and "me," and had a friendly, informal tone of voice. I showed it to my teacher, Mr Vogt. He thought about it for a second and said, "People don't like it when computers act like people. It makes them uncomfortable."
 
 I had never thought about this before. First, I don't think I'd ever thought about any user of my program besides myself. Second, I had certainly never considered that the way I presented an interaction could affect the way a user would feel.

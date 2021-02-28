@@ -6,13 +6,6 @@ categories:
   - "measurement"
 description: "Strategy is more than just defining a key performance indicator or some other desired outcome. A strategy should be a statement of what’s important to you and your organization—including the values and principles that you will adhere to as you strive to achieve your goals. Just ask Zoom."
 ---
-
- 
-
-#### _Strategy is more than just defining a key performance indicator or some other desired outcome. A strategy should be a statement of what’s important to you and your organization—including the values and principles that you will adhere to as you strive to achieve your goals. Just ask Zoom._
-
- 
-
 No company has seen its fortunes rise quite so high amidst the COVID-19 crisis as video conferencing platform Zoom. As families, friends, and organizations distanced from one another, they sought new digital means to stay in touch. Zoom set itself apart from more established names like Skype or FaceTime for simply being easier to use. The Zoom team made joining meetings frictionless and delivered unmatched call quality. No wonder “Zoom” has become the proprietary eponym of choice for videoconferencing. (That the silly backgrounds added some levity in an anxious situation didn’t hurt, either.)
 
 Along with popularity came closer scrutiny. [Stories soon spread](https://thehackernews.com/2020/03/zoom-video-coronavirus.html) about Zoom’s neglect of its users’ privacy and security. Among the transgressions? Installing security bypasses to streamline installation. Bugs that enabled hackers to hijack users’ cameras. A privacy policy that granted the right to use video from private calls in marketing collateral. They’ve [drawn the attention](https://www.nytimes.com/2020/03/30/technology/new-york-attorney-general-zoom-privacy.html) of New York’s Attorney General, as well.

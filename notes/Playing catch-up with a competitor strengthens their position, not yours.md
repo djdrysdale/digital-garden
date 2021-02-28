@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Playing catch-up with competitors strengthens their position
+date: 2021-02-26
+description: Trying to play catch-up with your competitors creates a disadvantage by allowing them to define the terrain of competition. 
+tags: perm
+---
 
 It's a common practice to strive for feature parity with a competitor. If they launch a new feature, you rush to release something similar because, in theory, this lets you maintain your position in the marketplace.
 
@@ -12,5 +17,5 @@ When you play the game this way, you are allowing the competitor to define the t
 - [[Loss aversion creates tension between the need to innovate and the need to protect the status quo in large organizations]] - Striving to maintain competitive parity is a form of loss aversion. 
 - 
 
-#### Related
+#### Citations
 - Link

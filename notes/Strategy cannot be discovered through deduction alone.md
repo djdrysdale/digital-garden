@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Strategy cannot be discovered through deduction alone
+date: 2021-02-26
+description: Fomenting an effective strategy requires that we engage in abductive reasoning and sensemaking. 
+tags: literature
+---
 
 A strategy is a hypothesis: based on [[Strategic diagnosis is a clear, honest description of the challenge at hand|a strategic diagnosis of the situation]], it proposes actions that are believed to create an advantage for the organization. 
 
@@ -9,7 +14,8 @@ This is not to say that strategy is not empirical; on the contrary, any good str
 
 ---
 #### Related
-- Link
+- [[¶ Abductive reasoning]]
+- [[Sensemaking produces thick data]]
 
-#### Related
+#### Citations
 [[≈ Rumelt - Good Strategy Bad Strategy|Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.]]

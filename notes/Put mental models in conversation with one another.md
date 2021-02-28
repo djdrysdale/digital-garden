@@ -1,4 +1,9 @@
-tags: #perm 
+---
+title: Put mental models in conversation with one another
+date: 2021-02-26
+description: Relying on just one mental model limits our view of the problem space. Try applying several models to the same situation, including some that are antagonistic to one another. 
+tags: literature
+---
 
 Mental models are tools that help us more efficiently arrive at decisions: they filter information and give it narrative shape. But they always represent a particular lens. They help make meaning, but meaning comes at the expense of information. 
 
@@ -13,6 +18,7 @@ Roger Martin calls this practice "assertive inquiry."
 - [[Narratives enable us to act decisively in conditions of uncertainty]] - A mental model is a kind of narrative to help us maneuver through complexity. 
 - [[Cognitive diversity enhances team problem solving capabilities]] - Teams that are cognitively diverse expend our view of what is salient to the problem space.
 - [[Specialization narrows our perspective on what is salient to a problem]] - When we specialize, we risk narrowing our focus and might overlook salient information or data.
+- [[Protect dissent]] - It's important to enshrine the capacity to question decisions and push back against popular modes of thought. 
 
-#### Related
+#### Citations
 [[≈ Martin - The Opposable Mind|Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.]]

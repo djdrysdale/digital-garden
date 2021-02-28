@@ -5,13 +5,6 @@ categories:
   - "research"
 description: "We’re exposed to more information more quickly than ever before. It’s important to have a way to not only manage all that knowledge, but to turn it into something meaningful. Here’s how I do it."
 ---
-
- 
-
-#### _“Progressive summarization” is a technique developed by Tiago Forte. In his personal knowledge management framework, it ensures that his notes are both detailed and discoverable. With some tweaks, progressive summarization can be a useful tool for documenting user research, as well._
-
- 
-
 I thought I’d share something a practical today.
 
 In my past post on Sönke Ahrens’ [_How to Take Smart Notes_](https://mobydiction.ca/blog/ahrens-how-to-take-smart-notes-summary) I mentioned that the other big game-changer for my personal knowledge management practice was enrolling in Tiago Forte’s [Building a Second Brain](https://www.buildingasecondbrain.com/) course.

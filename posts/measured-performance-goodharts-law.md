@@ -5,13 +5,6 @@ categories:
   - "measurement"
 description: "When we try to reduce our efforts down to the bare numbers, we transform our relationship to the work. What do we lose in the compression?"
 ---
-
- 
-
-#### _When we try to reduce our efforts down to the bare numbers, we transform our relationship to the work. What do we lose in the compression?_
-
- 
-
 My son’s participating in a (virtual) summer reading club. He’s supposed to set a goal to read a certain number of books each week, and track them on a calendar. If he’s successful, he’s eligible to win a prize.
 
 My son’s already a big reader. We decided that maybe his goal for the first week should be 14 books. On the first day, he read two books. So far, so good.

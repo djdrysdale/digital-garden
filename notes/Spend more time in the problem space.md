@@ -1,4 +1,9 @@
-tags: #perm #refactor
+---
+title: Spend more time in the problem space
+date: 2021-02-26
+description: It's tempting to rush to as solution. But, moving too quickly toward an answer can cause us to misunderstand what is salient in the problem space. 
+tags: perm
+---
 
 It's tempting to rush to an answer. As Christian Madsbjerg has argued, we seem to want as a culture to turn creativity into an assembly line: we input problems, we output answers, all through some standardized process. We want to move as quickly as we can away from uncertainty and toward some kind of resolution.
 
@@ -12,7 +17,7 @@ Only when we acknowledge uncertainty can we overcome uncertainty. As Erika Hall 
 - [[People fill information gaps with assumptions]]
 - [[Salience is subjective]] - What we deem salient to a situation is a product of our subjective perspective
 
-#### Related
+#### Citations
 Hall, Erika. “The 9 Rules of Design Research.” Medium (blog), October 24, 2019. https://medium.com/mule-design/the-9-rules-of-design-research-1a273fdd1d3b.
 
 [[≈ Madsbjerg - Sensemaking|Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.]]

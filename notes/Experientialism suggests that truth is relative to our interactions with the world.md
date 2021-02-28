@@ -11,7 +11,7 @@ The experientialist approach provides a "third way" between objectivism and subj
 #### Related
 - [[Four Theories of Truth]]
 - [[Objectivism assumes a concrete, knowable world]]
-- [[Rationalistic models of human behaviour are limiting.]]
+- [[Rationalistic models of human behaviour are limiting]]
 - [[Subjectivism suggests that our senses and emotions are our best guides to truth]]
 
 #### Citations

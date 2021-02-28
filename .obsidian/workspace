@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ff71cc87f9d2244c",
+        "id": "221a535a152d2dfe",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/index.md",
+            "file": "posts/why-need-digital-governance-strategy.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/index.md",
+                "file": "posts/why-need-digital-governance-strategy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,19 +82,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 315,
     "collapsed": true
   },
   "lastOpenFiles": [
-    "notes/index.md",
-    "notes/Personas start with qualitative research.md",
-    "notes/Personas may create space for assumptions.md",
-    "notes/Personas make abstract research concrete for design teams.md",
-    "notes/Personas lack rich context.md",
-    "notes/Personas document shared understanding about users.md",
-    "notes/Personas communicate research or they communicate assumptions.md",
-    "notes/Personas alone can't help teams achieve empathy.md",
-    "notes/Personalization makes demographics obsolete.md",
-    "notes/Permanent notes develop new ideas.md"
+    "posts/why-need-digital-governance-strategy.md",
+    "posts/why-narrative-matters-to-ux.md",
+    "posts/why-do-ux-research.md",
+    "posts/what-is-jobs-to-be-done.md",
+    "posts/what-is-a-vision-statement-for.md",
+    "posts/what-gets-measured-gets-manipulated.md",
+    "posts/user-personas.md",
+    "posts/summary-the-signals-are-talking-by-amy-webb.md",
+    "posts/summary-sensemaking-by-christian-madsbjerg.md",
+    "posts/summary-seeing-around-corners-rita-mcgrath.md"
   ]
 }

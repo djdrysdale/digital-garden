@@ -1,4 +1,9 @@
-tags: #lit
+---
+title: Qualitative research excels at explanation
+date: 2021-02-26
+description: Qualitative research helps to generate explanatory concepts through metaphor, narrative, and thought experiments. 
+tags: literature
+---
 
 Qualitative researchers can explain causation through metaphor, narratives, and thought experiments; these can in turn generate explanatory concepts that may be tested with quantitative methodologies. Qualitative research is less concerned with the frequency of an event as it is with “unriddling” or sensemaking from the data. 
 
@@ -8,5 +13,5 @@ Neither qualitative nor quantitative research methods are inherently superior to
 #### Related
 - [[§ Research]]
 
-#### Related
+#### Citations
 Ladner, Sam. Mixed Methods: A Short Guide to Applied Mixed Methods Research. Sam Ladner, 2019.

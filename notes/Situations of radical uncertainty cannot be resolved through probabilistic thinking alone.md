@@ -1,4 +1,9 @@
-tags: #lit 
+---
+title: Radical uncertainty cannot be resolved through probablistic thinking
+date: 2021-02-26
+description: States of radical uncertainty render probablistic thinking ineffective, as such conditions involve outcomes we could not have imagined. 
+tags: literature
+---
 
 "Radical uncertainty" is a term from [[≈ King and Kay - Radical Uncertainty|Mervyn King and John Kay]] to describe situations in which there is no means to resolve the uncertainty. In contrast to "resolvable uncertainty," a situation in which answers can be found by looking something up or represented as a known probability, situations of radical uncertainty may produce not only results that we did not expect, but results we could not have imagined. 
 
@@ -13,5 +18,5 @@ In the absence of this work, we risk introducing alogrithmic thinking that may r
 - [[Different kinds of uncertainty]]
 - [[Volatile environments motivate us to avoid uncertainty]]
 
-#### Related
+#### Citations
 [[≈ King and Kay - Radical Uncertainty|Kay, John, and Mervyn King. Radical Uncertainty: Decision-Making Beyond the Numbers. New York, NY: WW Norton, 2020.]]

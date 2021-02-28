@@ -6,7 +6,6 @@ categories:
   - "narrative"
 description: "A strong vision is a critical component to any strategy. But it needs to go beyond the fluff."
 ---
-
 A politician gets on stage and says,
 
 "We propose to accelerate the development of the appropriate lunar space craft. We propose to develop alternate liquid and solid fuel boosters, much larger than any now being developed, until certain which is superior. We propose additional funds for other engine development and for unmanned explorations."

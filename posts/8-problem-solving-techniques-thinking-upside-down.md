@@ -6,12 +6,6 @@ categories:
 description: "Creative problem-solving means overcoming our bias for the familiar and looking instead for new angles and vantage points. Here are some techniques you can use to help avoid falling into old habits of thinking and look at things with a fresh perspective."
 ---
 
- 
-
-#### _Creative problem-solving means overcoming our bias for the familiar and looking instead for new angles and vantage points. Here are some techniques you can use to help avoid falling into old habits of thinking and look at things with a fresh perspective._
-
- 
-
 Try this.
 
 Find a picture of something. It can be anything, though a line drawing might be easiest. Then get a some paper and a pencil. Try copying the picture. Do your best.

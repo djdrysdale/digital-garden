@@ -5,7 +5,6 @@ categories:
   - "bookshelf"
 description: "A summary of Ozan Varol's _Think Like a Rocket Scientist_."
 ---
-
 ## Get comfortable with uncertainty
 
 Uncertainty isn't pleasant. But, our best breakthroughs come to us not when we're reaching for answers but when admit that there's a lot that we don't know. Varol says that we focus too much on information that's readily available to us, but don't spend enough time thinking about the gaps in our knowledge. We skim past areas of ambiguity, and ignore nuance in favour of more accessible answers. Then, those easy answers hold us back like anchors. We stop seeing alternatives. Our confirmation bias kicks in. We dismiss information that contradicts idea and over-value whatever validates our position.
