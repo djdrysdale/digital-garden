@@ -2,17 +2,10 @@
 title: The Infinite Game by Simon Sinek
 date: 2021-02-26
 description: Mission-driven organizations who play an infinite game have a long-term advantage over those focused on short-term outcomes.
-tags: literature
+tags:
+- literature
+- book
 ---
-
-## About
-title: The Infinite Game
-author: Simon Sinek
-type: #Book 
-link: https://www.goodreads.com/book/show/38390751-the-infinite-game?from_search=true&from_srp=true&qid=AHri2rDdxc&rank=1
-
-tags: #moc 
-
 ## Notes
 - [[¶ Finite and infinite games]]
 - [[Build organizations around a long-term narrative]]
@@ -23,5 +16,3 @@ tags: #moc
 - [[¶ Ethical fading]]
 - [[¶ Existential flexibility]]
 - [[Euphemisms signal discomfort]]
-
-

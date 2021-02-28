@@ -2,17 +2,12 @@
 title: How Brands Grow by Byron Sharp
 date: 2021-02-26
 description: Sharp challenges the conventional wisdom and best practices of marketing.
-tags: literature
+tags:
+- literature
+- book
 ---
-
-## About
-title: How Brands Grow: What Marketers Don't Know
-author: Byron Sharp
-type: Book
-link: https://www.goodreads.com/book/show/9128288-how-brands-grow?from_search=true&from_srp=true&qid=HSYpzK3SzG&rank=1
-
 ## Summary
-Sharp challenges the conventional wisdom and best practices that are applied unquestioningly by many marketers, turning instead to what he describes as more "scientific" research that shows what really matters to brand growth. 
+Sharp challenges the conventional wisdom and best practices that are applied unquestioningly by many marketers, turning instead to what he describes as more "scientific" research that shows what really matters to brand growth.
 
 #### Notes
 

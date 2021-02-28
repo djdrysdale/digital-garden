@@ -2,18 +2,10 @@
 title: The Signals Are Talking by Amy Webb
 date: 2021-02-26
 description: Amy Webb's methodology for spotting trends and discerning the future.
-tags: literature
+tags:
+- literature
+- book
 ---
-
-
-## About
-title: The Signals Are Talking: Why Today’s Fringe is Tomorrow’s Mainstream
-author: [[Amy Webb]]
-type: #Book
-link: https://www.goodreads.com/book/show/29502380-the-signals-are-talking?from_search=true&from_srp=true&qid=WWip2JB4o6&rank=1
-
-tags: #lit #moc 
-
 ## Notes
 
 ### Trendspotting
@@ -26,7 +18,7 @@ tags: #lit #moc
 - [[Change is disorienting because it is constant]]
 - [[¶ Paradox of the present]]
 - [[Market research ]]
-- [[Protect dissent]] - To overcome our “belief bias,” we must engage in deliberate disagreement 
+- [[Protect dissent]] - To overcome our “belief bias,” we must engage in deliberate disagreement
 - [[We understimate the importance of things not directly relevant to us]]
 
 ### Methods and frameworks
@@ -37,8 +29,3 @@ tags: #lit #moc
 
 ### Communicating about the future
 - [[Narrative helps the human mind make sense of events]]
-
-
-
-
-

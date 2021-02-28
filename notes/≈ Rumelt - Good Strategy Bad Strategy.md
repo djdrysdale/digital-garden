@@ -2,19 +2,12 @@
 title: Good Strategy Bad Strategy by Richard Rumelt
 date: 2021-02-26
 description: Strategy depends on a three-part kernel of a diagnosis, a guiding policy, and coordinated action.
-tags: literature
+tags:
+- literature
+- book
 ---
-
-## About
-title: Good Strategy Bad Strategy: The Difference and Why It Matters
-author: Richard Rumelt
-type: Book
-link: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy?from_search=true&from_srp=true&qid=a3RWq8ljHp&rank=1
-
-tags: #lit #moc 
-
 ## Summary
-Rumelt argues that having a strategy is itself a competitive advantage, in that few organizations actually have strategies. Strategy depends on a three-part kernel consisting of a diagnosis, a guiding policy, and of coordinated action. 
+Rumelt argues that having a strategy is itself a competitive advantage, in that few organizations actually have strategies. Strategy depends on a three-part kernel consisting of a diagnosis, a guiding policy, and of coordinated action.
 
 ## Notes
 
