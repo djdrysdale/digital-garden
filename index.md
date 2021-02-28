@@ -1,6 +1,10 @@
 ---
 layout: default
 title: Moby Diction
+pagination:
+  data: collections.posts
+  size: 3
+  reverse: true
 ---
 
 Hi. I'm David Drysdale.
@@ -9,7 +13,26 @@ I'm a design strategist and researcher based in London, Ontario, Canada.
 
 It's my mission to help people, teams, and organizations think more strategically, make better decisions, and achieve better results.
 
+## Recent blog posts
 
+<div class="row py-4">
+
+  {% for post in pagination.items %}
+    <div class="card-body col-12 col-md-4 border-bottom py-10 px-10">
+        <p class="card-text">
+          <a href="{{ post.url }}">{{ post.data.title }}</a>
+        </p>
+        <p class="card-text">
+          {{ note.data.description }}
+        </p>
+        <p>
+          <a href="{{ note.url }}">Read more...</a>
+        </p>
+
+    </div>
+  {% endfor %}
+
+</div>
 <!--
   {% for post in pagination.items %}
 
