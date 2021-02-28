@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Personas start with qualitative research.md",
+            "file": "notes/index.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Personas start with qualitative research.md",
+                "file": "notes/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "notes/index.md",
     "notes/Personas start with qualitative research.md",
     "notes/Personas may create space for assumptions.md",
     "notes/Personas make abstract research concrete for design teams.md",
@@ -94,7 +95,6 @@
     "notes/Personas communicate research or they communicate assumptions.md",
     "notes/Personas alone can't help teams achieve empathy.md",
     "notes/Personalization makes demographics obsolete.md",
-    "notes/Permanent notes develop new ideas.md",
-    "notes/Permanent notes are permanently useful, not permanently unchanging.md"
+    "notes/Permanent notes develop new ideas.md"
   ]
 }
