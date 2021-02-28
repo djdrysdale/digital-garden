@@ -9,7 +9,7 @@ pagination:
 
     <div class="row py-4">
 
-      {% for note in pagination.notes %}
+      {% for note in pagination.items %}
         <div class="card-body col-12 col-md-6 border-bottom py-10 px-10">
             <p class="card-text">
               <a href="{{ note.url }}">{{ note.data.title }}</a>
