@@ -20,12 +20,15 @@ tags: structure
 
 ## Story structure
 * [[Lester Dent's master plot for pulp fiction]]
+* [[A scene comprises large-scale and small-scale structures]]
+* [[Five Commandments of Storytelling (Coyne)]]
 
 ## Characterization
 * [[Core needs and psychological maneuvers give fictional characters depth]]
 * [[Dialogue illustrates the nature of the character]]
 * [[Elizabeth George's Character Prompt Sheet]]
 * [[Place characters within a landscape]]
+* [[Talking Heads Avoidance Device (Elizabeth George)]]
 
 ## Dialogue
 * [[Talking Heads Avoidance Device (Elizabeth George)]]
