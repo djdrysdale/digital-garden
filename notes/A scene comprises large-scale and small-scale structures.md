@@ -22,8 +22,16 @@ The sequel follows the scene. It adheres to this structure:
 
 ## Small-scale structure
 The small scale structure of the scene facilitates execution of the actual paragraphs within the scene. These comprise what Dwight Swain calls "motivation-reaction units" (MRUs). MRUs are written by alternating between a motivation—an external, tangible objective that the character can see, feel, smell, taste, or touch—followed by a reaction, which is internal and subjective.
+
+The small structure follows this pattern.
+- Feeling
+- Reflex
+- Rational action and/or speech
+
 The reaction operates on a different time scale than the motivation; structure it in terms of the fastest time scale to the slowest: feeling, reflex, rational action. Some of these might be left out, but there must be at least one and if there are multiples they must be presented in the correct order. 
+
 After the reaction should come another motivation. 
+
 Each scene and sequel is a series of MRUs. 
 
 ---

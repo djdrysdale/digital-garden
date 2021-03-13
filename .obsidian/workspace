@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Talking Heads Avoidance Device (Elizabeth George).md",
-            "mode": "source"
+            "file": "notes/A scene comprises large-scale and small-scale structures.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Talking Heads Avoidance Device (Elizabeth George).md",
+                "file": "notes/A scene comprises large-scale and small-scale structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "notes/Talking Heads Avoidance Device (Elizabeth George).md",
+    "notes/A scene comprises large-scale and small-scale structures.md",
     "notes/Five Commandments of Storytelling (Coyne).md",
+    "notes/index.md",
+    "notes/Advertising is defensive.md",
+    "notes/∞ Sharp - How Brands Grow.md",
+    "notes/Promise, pain, pressure.md",
+    "notes/Talking Heads Avoidance Device (Elizabeth George).md",
     "notes/§ Writing.md",
     "notes/Untitled.md",
-    "notes/A scene comprises large-scale and small-scale structures.md",
-    "notes/Dialogue illustrates the nature of the character.md",
-    "posts/why-need-digital-governance-strategy.md",
-    "posts/why-narrative-matters-to-ux.md",
-    "posts/why-do-ux-research.md",
-    "posts/what-is-jobs-to-be-done.md"
+    "notes/Dialogue illustrates the nature of the character.md"
   ]
 }
