@@ -104,6 +104,9 @@ h5, .larger {font-size: 1.25em;}
 
 label {
   font-family: 'Nunito Sans', sans-serif;
+  line-height: 1.15;
+  padding-top: 0.5em;
+  padding-bototm: 0.5em;
 }
 
 small {font-size: 0.8em;}
