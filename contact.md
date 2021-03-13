@@ -3,16 +3,7 @@ layout: default
 title: Contact Me
 ---
 
-<div class="jumbotron p-3 p-md-5 text-white bg-dark text-center p-3 px-md-4 mb-3 border-bottom box-shadow">
-   <div class="col-md-6 px-0">
-     <h1 class="display-4">Blog</h1>
-     <p class="lead my-3"></p>
-     <p class="lead mb-0"><a href="#" class="text-white font-weight-bold"></a></p>
-   </div>
- </div>
-
-
-  <div class="container container-fluid">
+<div class="container container-fluid">
     <div class="row py-4">
 
       <article>
