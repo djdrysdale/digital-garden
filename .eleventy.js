@@ -1,5 +1,10 @@
 module.exports = function(eleventyConfig) {
 
+    const markdownIt = require('markdown-it');
+    const markdownItOptions = {
+        html: true,
+        linkify: true
+    };
 
     const md = markdownIt(markdownItOptions)
     .use(require('markdown-it-footnote'))
@@ -16,8 +21,6 @@ module.exports = function(eleventyConfig) {
             }
         })
     })
-
-
 
     eleventyConfig.addFilter("markdownify", string => {
         return md.render(string)
