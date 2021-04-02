@@ -19,7 +19,7 @@ Johnson draws heavily on biological metaphors to describe how creativity and inn
 - [[Ideas are remixes]]
 - [[Fostering serendipity]]
 - [[Optimize to be wrong, not right]]
-- [[¶ Expatation]]
+- [[¶ Exaptation]]
 - [[Strength of weak ties]]
 
 
