@@ -6,12 +6,11 @@
       {
         "id": "221a535a152d2dfe",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/A scene comprises large-scale and small-scale structures.md",
-            "mode": "preview"
+            "file": "notes/Story depends on causality.md",
+            "mode": "source"
           }
         }
       }
@@ -48,12 +47,20 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "625219095ca512d2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 472
+    "width": 305
   },
   "right": {
     "id": "54f430b8c5725853",
@@ -69,10 +76,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/A scene comprises large-scale and small-scale structures.md",
+                "file": "notes/Story depends on causality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -85,16 +94,17 @@
     "width": 315,
     "collapsed": true
   },
+  "active": "221a535a152d2dfe",
   "lastOpenFiles": [
-    "notes/A scene comprises large-scale and small-scale structures.md",
-    "notes/Five Commandments of Storytelling (Coyne).md",
-    "notes/index.md",
-    "notes/Advertising is defensive.md",
-    "notes/∞ Sharp - How Brands Grow.md",
+    "notes/Story depends on causality.md",
+    "assets/YAML.md",
+    "notes/Plot is a vehicle for transformation.md",
+    "notes/Digital transformation requires fundamentally revising the business model.md",
+    "notes/§ Digital transformation.md",
+    "notes/Specifity is the hallmark of good writing.md",
+    "notes/A brand is a constellation of impressions that takes shape over time.md",
+    "notes/Remote working arrangements can conceal workload issues.md",
     "notes/Promise, pain, pressure.md",
-    "notes/Talking Heads Avoidance Device (Elizabeth George).md",
-    "notes/§ Writing.md",
-    "notes/Untitled.md",
-    "notes/Dialogue illustrates the nature of the character.md"
+    "notes/Core needs and psychological maneuvers give fictional characters depth.md"
   ]
 }
